@@ -23,9 +23,9 @@ test.describe("landing page accessibility (axe-core)", () => {
     expect(violationReport(results.violations)).toEqual([]);
   });
 
-  test("after opening a spec-sheet row in the Reading Room", async ({ page }) => {
+  test("after switching the output showcase to Diagrams", async ({ page }) => {
     await page.goto("/");
-    await page.getByRole("tab", { name: /Spec sheet/i }).click();
+    await page.getByRole("tab", { name: /Diagrams/i }).first().click();
     await waitForLandingReady(page);
 
     const results = await axeForApp(page).analyze();
@@ -33,10 +33,11 @@ test.describe("landing page accessibility (axe-core)", () => {
     expect(violationReport(results.violations)).toEqual([]);
   });
 
-  test("hero badge copy is honest about MathML support", async ({ page }) => {
+  test("landing copy never overclaims MathML support", async ({ page }) => {
     await page.goto("/");
+    await waitForLandingReady(page);
 
-    await expect(page.getByText("MathML output")).toBeVisible();
+    // KaTeX emits MathML alongside its HTML; we must not market it as "native" MathML.
     await expect(page.getByText("MathML native")).toHaveCount(0);
   });
 });

@@ -284,7 +284,7 @@ function PanelShell({
 
 const KIND_STYLE: Record<KindClass, { bg: string; fg: string }> = {
   eq:    { bg: "color-mix(in srgb, var(--accent) 8%, #fff)", fg: "var(--accent-2)" },
-  dia:   { bg: "#e6efe8", fg: "#2f7d3e" },
+  dia:   { bg: "#e6efe8", fg: "#2a7038" }, // 5.15:1 on bg (WCAG AA); #2f7d3e was 4.33:1
   code:  { bg: "#eae4f2", fg: "#5b3f94" },
   text:  { bg: "#ece2cc", fg: "#3a2f1a" },
   chart: { bg: "#d3e0ef", fg: "#2c5e9e" },
