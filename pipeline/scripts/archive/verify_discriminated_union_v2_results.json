@@ -1,0 +1,353 @@
+[
+  {
+    "window": "00:00-10:00",
+    "start_s": 0,
+    "end_s": 600,
+    "flat": {
+      "items": 11,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 10,
+        "code": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 13,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 10,
+        "code": 3
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "10:00-20:00",
+    "start_s": 600,
+    "end_s": 1200,
+    "flat": {
+      "items": 7,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 3,
+        "code": 3,
+        "other": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 8,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 3,
+        "code": 3,
+        "other": 2
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "20:00-30:00",
+    "start_s": 1200,
+    "end_s": 1800,
+    "flat": {
+      "items": 8,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 5,
+        "code": 3
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 9,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "code": 3,
+        "text": 6
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "30:00-40:00",
+    "start_s": 1800,
+    "end_s": 2400,
+    "flat": {
+      "items": 10,
+      "broken_items": 1,
+      "rule_hits": {
+        "diagram_description_empty": 1
+      },
+      "type_counts": {
+        "text": 5,
+        "equation": 1,
+        "code": 3,
+        "diagram_description": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 6,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 3,
+        "code": 2,
+        "diagram_description": 1
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "40:00-50:00",
+    "start_s": 2400,
+    "end_s": 3000,
+    "flat": {
+      "items": 7,
+      "broken_items": 5,
+      "rule_hits": {
+        "code_in_text_blocks": 1,
+        "other_description_empty": 4
+      },
+      "type_counts": {
+        "text": 1,
+        "code": 1,
+        "other": 4,
+        "table": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 5,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 3,
+        "code": 1,
+        "other": 1
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "50:00-60:00",
+    "start_s": 3000,
+    "end_s": 3600,
+    "flat": {
+      "items": 5,
+      "broken_items": 1,
+      "rule_hits": {
+        "diagram_description_empty": 1
+      },
+      "type_counts": {
+        "code": 2,
+        "text": 2,
+        "diagram_description": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 12,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "diagram_description": 7,
+        "other": 3,
+        "text": 1,
+        "code": 1
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "60:00-70:00",
+    "start_s": 3600,
+    "end_s": 4200,
+    "flat": {
+      "items": 5,
+      "broken_items": 3,
+      "rule_hits": {
+        "code_in_text_blocks": 1,
+        "table_headers_empty": 1,
+        "table_rows_empty": 1
+      },
+      "type_counts": {
+        "text": 3,
+        "code": 1,
+        "table": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 6,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 2,
+        "code": 1,
+        "table": 1,
+        "other": 2
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "70:00-80:00",
+    "start_s": 4200,
+    "end_s": 4800,
+    "flat": {
+      "items": 7,
+      "broken_items": 4,
+      "rule_hits": {
+        "other_description_empty": 3,
+        "diagram_description_empty": 1
+      },
+      "type_counts": {
+        "text": 3,
+        "other": 3,
+        "diagram_description": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 0,
+      "broken_items": -1,
+      "chunk_survived": false,
+      "chunk_error": "3 validation errors for _DiscriminatedOutput\nitems.2.other.description\n  Field required [type=missing, input_value={'discussed_start': '73:3...': 'True', 'depth': 0}]}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing\nitems.3.other.description\n  Field required [type=missing, input_value={'discussed_start': '74:1...': 'True', 'depth': 0}]}, input_type=di"
+    }
+  },
+  {
+    "window": "80:00-90:00",
+    "start_s": 4800,
+    "end_s": 5400,
+    "flat": {
+      "items": 16,
+      "broken_items": 1,
+      "rule_hits": {
+        "chart_description_empty": 1
+      },
+      "type_counts": {
+        "text": 7,
+        "code": 8,
+        "chart_description": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 0,
+      "broken_items": -1,
+      "chunk_survived": false,
+      "chunk_error": "1 validation error for _DiscriminatedOutput\nitems.15.chart_description.description\n  Field required [type=missing, input_value={'discussed_start': '91:2...ble performance zones.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing"
+    }
+  },
+  {
+    "window": "90:00-100:00",
+    "start_s": 5400,
+    "end_s": 6000,
+    "flat": {
+      "items": 10,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 8,
+        "equation": 1,
+        "diagram_description": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 0,
+      "broken_items": -1,
+      "chunk_survived": false,
+      "chunk_error": "1 validation error for _DiscriminatedOutput\n  Invalid JSON: EOF while parsing a string at line 50 column 78695 [type=json_invalid, input_value='{\\n  \"items\": [\\n    {\\n...\\\\n  \\\\n  \\\\n  \\\\n  \\\\n', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.12/v/json_invalid"
+    }
+  },
+  {
+    "window": "100:00-110:00",
+    "start_s": 6000,
+    "end_s": 6600,
+    "flat": {
+      "items": 7,
+      "broken_items": 3,
+      "rule_hits": {
+        "other_description_empty": 1,
+        "diagram_description_empty": 2
+      },
+      "type_counts": {
+        "text": 2,
+        "other": 1,
+        "diagram_description": 2,
+        "equation": 2
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 0,
+      "broken_items": -1,
+      "chunk_survived": false,
+      "chunk_error": "1 validation error for _DiscriminatedOutput\nitems.3.diagram_description.description\n  Field required [type=missing, input_value={'discussed_start': '102:...: '', 'structure': ['']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing"
+    }
+  },
+  {
+    "window": "110:00-120:00",
+    "start_s": 6600,
+    "end_s": 7200,
+    "flat": {
+      "items": 11,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 7,
+        "diagram_description": 4
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 8,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 4,
+        "diagram_description": 4
+      },
+      "chunk_survived": true
+    }
+  },
+  {
+    "window": "120:00-130:00",
+    "start_s": 7200,
+    "end_s": 7800,
+    "flat": {
+      "items": 8,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 4,
+        "equation": 1,
+        "code": 2,
+        "diagram_description": 1
+      },
+      "chunk_survived": true
+    },
+    "discriminated": {
+      "items": 15,
+      "broken_items": 0,
+      "rule_hits": {},
+      "type_counts": {
+        "text": 5,
+        "other": 8,
+        "code": 1,
+        "diagram_description": 1
+      },
+      "chunk_survived": true
+    }
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "window": "00:00-10:00",
+    "items": 0,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "ok": false,
+    "error": "1 validation error for VisualContentExtractionOutputV3\n  Input should be a valid dictionary or instance of VisualContentExtractionOutputV3 [type=model_type, input_value=None, input_type=NoneType]\n    "
+  },
+  {
+    "window": "10:00-20:00",
+    "items": 8,
+    "broken_repairable": 0,
+    "broken_perception": 3,
+    "rule_hits": {
+      "other_description_empty": 3
+    },
+    "non_text_with_body": 0,
+    "ok": true
+  },
+  {
+    "window": "20:00-30:00",
+    "items": 6,
+    "broken_repairable": 1,
+    "broken_perception": 0,
+    "rule_hits": {
+      "other_content_in_other_fields": 1
+    },
+    "non_text_with_body": 1,
+    "ok": true
+  },
+  {
+    "window": "30:00-40:00",
+    "items": 4,
+    "broken_repairable": 1,
+    "broken_perception": 0,
+    "rule_hits": {
+      "diagram_description_misplaced": 1
+    },
+    "non_text_with_body": 0,
+    "ok": true
+  },
+  {
+    "window": "40:00-50:00",
+    "items": 4,
+    "broken_repairable": 1,
+    "broken_perception": 0,
+    "rule_hits": {
+      "other_content_in_other_fields": 1
+    },
+    "non_text_with_body": 0,
+    "ok": true
+  },
+  {
+    "window": "50:00-60:00",
+    "items": 6,
+    "broken_repairable": 2,
+    "broken_perception": 0,
+    "rule_hits": {
+      "other_content_in_other_fields": 2
+    },
+    "non_text_with_body": 2,
+    "ok": true
+  },
+  {
+    "window": "60:00-70:00",
+    "items": 0,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "ok": false,
+    "error": "1 validation error for VisualContentExtractionOutputV3\n  Input should be a valid dictionary or instance of VisualContentExtractionOutputV3 [type=model_type, input_value=None, input_type=NoneType]\n    "
+  },
+  {
+    "window": "70:00-80:00",
+    "items": 9,
+    "broken_repairable": 4,
+    "broken_perception": 0,
+    "rule_hits": {
+      "other_content_in_other_fields": 3,
+      "diagram_description_misplaced": 1
+    },
+    "non_text_with_body": 4,
+    "ok": true
+  },
+  {
+    "window": "80:00-90:00",
+    "items": 8,
+    "broken_repairable": 1,
+    "broken_perception": 0,
+    "rule_hits": {
+      "chart_description_misplaced": 1
+    },
+    "non_text_with_body": 1,
+    "ok": true
+  },
+  {
+    "window": "90:00-100:00",
+    "items": 5,
+    "broken_repairable": 1,
+    "broken_perception": 0,
+    "rule_hits": {
+      "diagram_description_misplaced": 1
+    },
+    "non_text_with_body": 1,
+    "ok": true
+  },
+  {
+    "window": "100:00-110:00",
+    "items": 4,
+    "broken_repairable": 2,
+    "broken_perception": 0,
+    "rule_hits": {
+      "diagram_description_misplaced": 2
+    },
+    "non_text_with_body": 0,
+    "ok": true
+  },
+  {
+    "window": "110:00-120:00",
+    "items": 7,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "non_text_with_body": 0,
+    "ok": true
+  },
+  {
+    "window": "120:00-130:00",
+    "items": 5,
+    "broken_repairable": 2,
+    "broken_perception": 0,
+    "rule_hits": {
+      "other_content_in_other_fields": 2
+    },
+    "non_text_with_body": 2,
+    "ok": true
+  }
+]

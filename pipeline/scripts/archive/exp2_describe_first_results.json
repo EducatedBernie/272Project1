@@ -1,0 +1,131 @@
+[
+  {
+    "window": "00:00-10:00",
+    "items": 8,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 78,
+    "ok": true
+  },
+  {
+    "window": "10:00-20:00",
+    "items": 5,
+    "broken_repairable": 0,
+    "broken_perception": 2,
+    "rule_hits": {
+      "other_description_empty": 2
+    },
+    "avg_obs_chars": 86,
+    "ok": true
+  },
+  {
+    "window": "20:00-30:00",
+    "items": 7,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 91,
+    "ok": true
+  },
+  {
+    "window": "30:00-40:00",
+    "items": 5,
+    "broken_repairable": 1,
+    "broken_perception": 0,
+    "rule_hits": {
+      "diagram_description_misplaced": 1
+    },
+    "avg_obs_chars": 115,
+    "ok": true
+  },
+  {
+    "window": "40:00-50:00",
+    "items": 8,
+    "broken_repairable": 0,
+    "broken_perception": 3,
+    "rule_hits": {
+      "other_description_empty": 1,
+      "table_headers_empty": 1,
+      "table_rows_empty": 1
+    },
+    "avg_obs_chars": 91,
+    "ok": true
+  },
+  {
+    "window": "50:00-60:00",
+    "items": 6,
+    "broken_repairable": 2,
+    "broken_perception": 0,
+    "rule_hits": {
+      "diagram_description_misplaced": 2
+    },
+    "avg_obs_chars": 90,
+    "ok": true
+  },
+  {
+    "window": "60:00-70:00",
+    "items": 5,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 113,
+    "ok": true
+  },
+  {
+    "window": "70:00-80:00",
+    "items": 7,
+    "broken_repairable": 1,
+    "broken_perception": 0,
+    "rule_hits": {
+      "diagram_description_misplaced": 1
+    },
+    "avg_obs_chars": 117,
+    "ok": true
+  },
+  {
+    "window": "80:00-90:00",
+    "items": 12,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 90,
+    "ok": true
+  },
+  {
+    "window": "90:00-100:00",
+    "items": 7,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 117,
+    "ok": true
+  },
+  {
+    "window": "100:00-110:00",
+    "items": 8,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 71,
+    "ok": true
+  },
+  {
+    "window": "110:00-120:00",
+    "items": 6,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 97,
+    "ok": true
+  },
+  {
+    "window": "120:00-130:00",
+    "items": 7,
+    "broken_repairable": 0,
+    "broken_perception": 0,
+    "rule_hits": {},
+    "avg_obs_chars": 118,
+    "ok": true
+  }
+]

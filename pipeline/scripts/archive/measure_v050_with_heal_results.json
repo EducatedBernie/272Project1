@@ -1,0 +1,212 @@
+[
+  {
+    "window": "00:00-10:00",
+    "items": 11,
+    "pre_heal": {
+      "misplacement": 1,
+      "perception": 0,
+      "rules": {
+        "code_in_text_blocks": 1
+      }
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 1,
+    "ok": true
+  },
+  {
+    "window": "10:00-20:00",
+    "items": 5,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "20:00-30:00",
+    "items": 8,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "30:00-40:00",
+    "items": 7,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "40:00-50:00",
+    "items": 4,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "50:00-60:00",
+    "items": 6,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "60:00-70:00",
+    "items": 5,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "70:00-80:00",
+    "items": 5,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "80:00-90:00",
+    "items": 12,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "90:00-100:00",
+    "items": 7,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "100:00-110:00",
+    "items": 11,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "110:00-120:00",
+    "items": 9,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  },
+  {
+    "window": "120:00-130:00",
+    "items": 7,
+    "pre_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "post_heal": {
+      "misplacement": 0,
+      "perception": 0,
+      "rules": {}
+    },
+    "healed_count": 0,
+    "ok": true
+  }
+]
