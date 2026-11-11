@@ -1,0 +1,263 @@
+{
+  "equations": [
+    {
+      "latex": "C_{n+1} = \\frac{n C_n + 1(C_n+1)}{n+1}",
+      "description": "Formula for the center of mass of n plus 1 blocks, based on the center of mass of n blocks and the position of the n plus 1th block. The formula is N times C sub N plus 1 times C sub N plus 1, all divided by N plus 1, where C sub N is the center of mass of the first N blocks.",
+      "discussed_start": "11:30",
+      "discussed_end": "12:14",
+      "confidence": 0.95
+    },
+    {
+      "latex": "C_{n+1} = C_n + \\frac{1}{n+1}",
+      "description": "A recursive formula for the center of mass of n plus 1 blocks, where C sub N plus 1 equals C sub N plus 1 over N plus 1.",
+      "discussed_start": "12:35",
+      "discussed_end": "12:54",
+      "confidence": 0.95
+    },
+    {
+      "latex": "C_1 = 1",
+      "description": "The center of mass for the first block is 1.",
+      "discussed_start": "13:14",
+      "discussed_end": "13:25",
+      "confidence": 0.95
+    },
+    {
+      "latex": "C_2 = 1 + \\frac{1}{2}",
+      "description": "The center of mass for two blocks, C sub 2, is equal to 1 plus 1 half.",
+      "discussed_start": "13:28",
+      "discussed_end": "13:42",
+      "confidence": 0.95
+    },
+    {
+      "latex": "C_3 = C_2 + \\frac{1}{3} = 1 + \\frac{1}{2} + \\frac{1}{3}",
+      "description": "The center of mass for three blocks, C sub 3, is equal to C sub 2 plus 1 third, which simplifies to 1 plus 1 half plus 1 third.",
+      "discussed_start": "13:46",
+      "discussed_end": "14:00",
+      "confidence": 0.95
+    },
+    {
+      "latex": "C_N = 1 + \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + \\dots + \\frac{1}{N}",
+      "description": "The center of mass for N blocks, C sub N, is equal to the sum of the reciprocals from 1 to N: 1 plus 1 half plus 1 third plus 1 fourth plus an ellipsis plus 1 over N.",
+      "discussed_start": "14:03",
+      "discussed_end": "14:18",
+      "confidence": 0.95
+    },
+    {
+      "latex": "C_N = S_N",
+      "description": "The center of mass for N blocks, C sub N, is equal to S sub N, the sum of the harmonic series.",
+      "discussed_start": "14:53",
+      "discussed_end": "15:02",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\ln N < S_N < (\\ln N) + 1",
+      "description": "Inequality relating the natural logarithm of N to S sub N, where the natural logarithm of N is less than S sub N, which is less than the natural logarithm of N plus 1. This shows the harmonic series diverges. The expression is enclosed in a red box.",
+      "discussed_start": "15:23",
+      "discussed_end": "15:29",
+      "confidence": 0.95
+    },
+    {
+      "latex": "As N \\to \\infty, \\ln N \\to \\infty.",
+      "description": "As N approaches infinity, the natural logarithm of N approaches infinity.",
+      "discussed_start": "15:38",
+      "discussed_end": "15:44",
+      "confidence": 0.95
+    },
+    {
+      "latex": "S_N \\to \\infty",
+      "description": "S sub N approaches infinity.",
+      "discussed_start": "15:52",
+      "discussed_end": "16:05",
+      "confidence": 0.95
+    },
+    {
+      "latex": "13 \\text{blocks} = 26 \\text{ units}",
+      "description": "Thirteen blocks equal twenty-six units.",
+      "discussed_start": "17:51",
+      "discussed_end": "18:00",
+      "confidence": 0.95
+    },
+    {
+      "latex": "26 - 2 = 24",
+      "description": "Twenty-six minus two equals twenty-four.",
+      "discussed_start": "18:07",
+      "discussed_end": "18:12",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\ln N = 24",
+      "description": "The natural logarithm of N equals 24. This expression is enclosed in a white box.",
+      "discussed_start": "18:15",
+      "discussed_end": "18:22",
+      "confidence": 0.95
+    },
+    {
+      "latex": "N = e^{24}",
+      "description": "N equals E to the 24th power.",
+      "discussed_start": "18:44",
+      "discussed_end": "18:47",
+      "confidence": 0.95
+    },
+    {
+      "latex": "(3 \\text{cm}) e^{24} \\approx 8 \\times 10^8 \\text{m}",
+      "description": "3 centimeters times E to the 24th power is approximately equal to 8 times 10 to the 8th meters.",
+      "discussed_start": "19:04",
+      "discussed_end": "19:16",
+      "confidence": 0.95
+    },
+    {
+      "latex": "1+x+x^2+x^3+\\dots = \\frac{1}{1-x}",
+      "description": "The geometric series 1 plus X plus X squared plus X cubed plus an ellipsis equals 1 over 1 minus X.",
+      "discussed_start": "22:52",
+      "discussed_end": "23:00",
+      "confidence": 0.95
+    },
+    {
+      "latex": "|x| < 1",
+      "description": "The absolute value of X is less than 1, which is the condition for the geometric series to converge.",
+      "discussed_start": "23:05",
+      "discussed_end": "23:08",
+      "confidence": 0.95
+    },
+    {
+      "latex": "1+x+x^2+\\dots = S",
+      "description": "The sum of the infinite series 1 plus X plus X squared plus an ellipsis is equal to S.",
+      "discussed_start": "23:47",
+      "discussed_end": "23:54",
+      "confidence": 0.95
+    },
+    {
+      "latex": "x+x^2+x^3+\\dots = Sx",
+      "description": "The sum of the infinite series X plus X squared plus X cubed plus an ellipsis is equal to S times X.",
+      "discussed_start": "24:15",
+      "discussed_end": "24:25",
+      "confidence": 0.95
+    },
+    {
+      "latex": "1 = S-Sx",
+      "description": "One is equal to S minus S times X.",
+      "discussed_start": "24:43",
+      "discussed_end": "24:52",
+      "confidence": 0.95
+    },
+    {
+      "latex": "S-Sx = S(1-x)",
+      "description": "S minus S times X is equal to S times the quantity 1 minus X.",
+      "discussed_start": "25:00",
+      "discussed_end": "25:04",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\frac{1}{1-x} = S",
+      "description": "1 over 1 minus X is equal to S.",
+      "discussed_start": "25:06",
+      "discussed_end": "25:12",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\infty - \\infty = \\infty - \\infty",
+      "description": "Infinity minus infinity equals infinity minus infinity.",
+      "discussed_start": "26:12",
+      "discussed_end": "26:19",
+      "confidence": 0.95
+    },
+    {
+      "latex": "a_0+a_1x+a_2x^2+a_3x^3+\\dots = \\sum_{n=0}^{\\infty} a_n x^n",
+      "description": "A general power series is represented as a sum of terms A sub 0 plus A sub 1 times X plus A sub 2 times X squared plus A sub 3 times X cubed plus an ellipsis, which equals the summation from N equals 0 to infinity of A sub N times X to the power of N.",
+      "discussed_start": "27:46",
+      "discussed_end": "28:09",
+      "confidence": 0.95
+    },
+    {
+      "latex": "|x| < R",
+      "description": "The absolute value of X is less than R, indicating the radius of convergence where the power series converges.",
+      "discussed_start": "28:23",
+      "discussed_end": "28:27",
+      "confidence": 0.95
+    },
+    {
+      "latex": "(-R < x < R)",
+      "description": "The interval of convergence for X, where X is greater than negative R and less than R.",
+      "discussed_start": "28:48",
+      "discussed_end": "28:53",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\sum a_n x^n \\text{ diverges}",
+      "description": "The sum of A sub N times X to the power of N diverges when the absolute value of X is greater than R.",
+      "discussed_start": "29:21",
+      "discussed_end": "29:27",
+      "confidence": 0.95
+    },
+    {
+      "latex": "|a_n x^n| \\to 0 \\text{ exponentially fast for } |x| < R.",
+      "description": "The absolute value of A sub N times X to the N power approaches 0 exponentially fast when the absolute value of X is less than R.",
+      "discussed_start": "30:00",
+      "discussed_end": "30:15",
+      "confidence": 0.95
+    },
+    {
+      "latex": "|a_n x^n| \\not\\to 0 \\text{ for } |x| > R.",
+      "description": "The absolute value of A sub N times X to the N power does not approach 0 when the absolute value of X is greater than R.",
+      "discussed_start": "30:19",
+      "discussed_end": "30:26",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\frac{d}{dx} (a_0 + a_1x + a_2x^2 + a_3x^3 + \\dots) = a_1 + 2a_2x + 3a_3x^2 + \\dots",
+      "description": "The derivative with respect to X of the power series (A sub 0 plus A sub 1 times X plus A sub 2 times X squared plus A sub 3 times X cubed plus an ellipsis) is equal to A sub 1 plus 2 times A sub 2 times X plus 3 times A sub 3 times X squared plus an ellipsis.",
+      "discussed_start": "35:50",
+      "discussed_end": "36:26",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\int (a_0 + a_1x + a_2x^2 + \\dots) dx = C + a_0x + a_1\\frac{x^2}{2} + a_2\\frac{x^3}{3} + \\dots",
+      "description": "The integral of the power series (A sub 0 plus A sub 1 times X plus A sub 2 times X squared plus an ellipsis) with respect to X is equal to a constant C plus A sub 0 times X plus A sub 1 times X squared over 2 plus A sub 2 times X cubed over 3 plus an ellipsis.",
+      "discussed_start": "36:30",
+      "discussed_end": "37:04",
+      "confidence": 0.95
+    },
+    {
+      "latex": "f(x) = \\sum_{n=0}^{\\infty} \\frac{f^{(n)}(0)}{n!} x^n",
+      "description": "Taylor's formula states that a function f(x) is equal to the summation from n equals 0 to infinity of the nth derivative of f evaluated at 0, divided by n factorial, multiplied by x to the power of n.",
+      "discussed_start": "40:24",
+      "discussed_end": "40:43",
+      "confidence": 0.95
+    },
+    {
+      "latex": "f^{(n)}(0)",
+      "description": "The nth derivative of f evaluated at 0.",
+      "discussed_start": "44:33",
+      "discussed_end": "44:42",
+      "confidence": 0.95
+    },
+    {
+      "latex": "e^x = \\sum_{n=0}^{\\infty} \\frac{1}{n!} x^n",
+      "description": "The exponential function E to the X is equal to the summation from N equals 0 to infinity of 1 over N factorial, multiplied by X to the N power.",
+      "discussed_start": "44:50",
+      "discussed_end": "44:57",
+      "confidence": 0.95
+    },
+    {
+      "latex": "e = e^1 = 1 + 1 + \\frac{1}{2!} + \\frac{1}{3!} + \\frac{1}{4!} + \\frac{1}{5!} + \\dots",
+      "description": "Euler's number e is equal to e to the first power, which is equal to 1 plus 1 plus 1 over 2 factorial plus 1 over 3 factorial plus 1 over 4 factorial plus 1 over 5 factorial plus an ellipsis. The terms 1 plus 1 correspond to n equals 0 and n equals 1, respectively.",
+      "discussed_start": "45:06",
+      "discussed_end": "45:27",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\sin x = x - \\frac{x^3}{3!} + \\frac{x^5}{5!} - \\frac{x^7}{7!} + \\dots",
+      "description": "The sine function, sine X, is equal to X minus X cubed over 3 factorial plus X to the 5th power over 5 factorial minus X to the 7th power over 7 factorial plus an ellipsis.",
+      "discussed_start": "46:09",
+      "discussed_end": "46:24",
+      "confidence": 0.95
+    },
+    {
+      "latex": "\\cos x = 1 - \\frac{x^2}{2!} + \\frac{x^4}{4!} - \\frac{x^6}{6!} + \\dots",
+      "description": "The cosine function, cosine X, is equal to 1 minus X squared over 2 factorial plus X to the 4th power over 4 factorial minus X to the 6th power over 6 factorial plus an ellipsis.",
+      "discussed_start": "46:26",
+      "discussed_end": "46:42",
+      "confidence": 0.95
+    }
+  ]
+}

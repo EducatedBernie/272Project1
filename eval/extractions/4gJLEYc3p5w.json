@@ -1,0 +1,116 @@
+{
+  "equations": [
+    {
+      "latex": "\\dot{y} + ty = t",
+      "description": "A first-order linear ordinary differential equation involving the derivative of y with respect to t, and the product of t and y.",
+      "discussed_start": "00:09",
+      "discussed_end": "00:14",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y(0) = 3",
+      "description": "The initial condition for the differential equation, stating that the value of y is 3 when t is 0.",
+      "discussed_start": "00:16",
+      "discussed_end": "00:19",
+      "confidence": 1.0
+    },
+    {
+      "latex": "U\\dot{y} + Ut y = Ut",
+      "description": "The first-order linear ordinary differential equation multiplied by an integrating factor U.",
+      "discussed_start": "01:19",
+      "discussed_end": "01:29",
+      "confidence": 1.0
+    },
+    {
+      "latex": "(\\dot{U} y)",
+      "description": "The derivative of the product of U and y with respect to t, representing the desired form of the left-hand side of the differential equation after applying an integrating factor.",
+      "discussed_start": "01:35",
+      "discussed_end": "01:40",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\dot{U} = Ut",
+      "description": "A derived differential equation for the integrating factor U, where U dot is the derivative of U with respect to t.",
+      "discussed_start": "01:53",
+      "discussed_end": "01:56",
+      "confidence": 1.0
+    },
+    {
+      "latex": "U = e^{\\int t \\, dt} = e^{t^2/2}",
+      "description": "The integrating factor U, calculated as the exponential of the indefinite integral of t.",
+      "discussed_start": "02:04",
+      "discussed_end": "02:20",
+      "confidence": 1.0
+    },
+    {
+      "latex": "(\\dot{U} y) = te^{t^2/2}",
+      "description": "The differential equation rewritten with the integrating factor, where the left side is the derivative of the product U times y and the right side is t multiplied by e to the power of t squared over 2.",
+      "discussed_start": "02:45",
+      "discussed_end": "02:54",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\int (\\dot{U} y) = \\int te^{t^2/2}",
+      "description": "Both sides of the differential equation are integrated with respect to t to solve for y.",
+      "discussed_start": "03:09",
+      "discussed_end": "03:17",
+      "confidence": 1.0
+    },
+    {
+      "latex": "Uy = e^{t^2/2} + C",
+      "description": "The result of integrating both sides of the modified differential equation, including the constant of integration C.",
+      "discussed_start": "03:22",
+      "discussed_end": "04:00",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y = 1 + Ce^{-t^2/2}",
+      "description": "The general solution for y as a function of t, obtained by dividing by the integrating factor U and simplifying.",
+      "discussed_start": "04:16",
+      "discussed_end": "04:43",
+      "confidence": 1.0
+    },
+    {
+      "latex": "3 = 1 + C",
+      "description": "The initial condition y of 0 equals 3 applied to the general solution to solve for the constant C.",
+      "discussed_start": "05:00",
+      "discussed_end": "05:05",
+      "confidence": 1.0
+    },
+    {
+      "latex": "C = 2",
+      "description": "The value of the constant of integration C found from the initial condition.",
+      "discussed_start": "05:06",
+      "discussed_end": "05:09",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\int_{t=0}^{t} (\\dot{U}y) \\, ds = \\int_{0}^{t} se^{s^2/2} \\, ds",
+      "description": "The definite integral form of the modified differential equation, with integration limits from 0 to t and using a dummy variable s for integration.",
+      "discussed_start": "05:40",
+      "discussed_end": "06:26",
+      "confidence": 1.0
+    },
+    {
+      "latex": "Uy - U(0)y(0) = \\left[e^{s^2/2}\\right]_{0}^{t} = e^{t^2/2} - 1",
+      "description": "The result of evaluating the definite integrals on both sides, expressing the difference of Uy at t and 0, and showing the evaluation of the exponential function at t and 0.",
+      "discussed_start": "06:35",
+      "discussed_end": "07:16",
+      "confidence": 1.0
+    },
+    {
+      "latex": "U(0)=1, y(0)=3",
+      "description": "The values of the integrating factor U at t=0 and the initial condition for y at t=0.",
+      "discussed_start": "07:27",
+      "discussed_end": "07:41",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y = e^{-t^2/2}[e^{t^2/2} - 1 + 3] = e^{-t^2/2}[e^{t^2/2} + 2]",
+      "description": "The solution for y derived using definite integrals, before final simplification.",
+      "discussed_start": "07:54",
+      "discussed_end": "08:33",
+      "confidence": 1.0
+    }
+  ]
+}

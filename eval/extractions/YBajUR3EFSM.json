@@ -1,0 +1,277 @@
+{
+  "equations": [
+    {
+      "latex": "ax + by + cz = d",
+      "description": "The general form of a linear equation representing a plane in three-dimensional space, where a, b, c, and d are constants, and x, y, z are the coordinates of a point on the plane.",
+      "discussed_start": "01:06",
+      "discussed_end": "01:33",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{N} = \\langle 1, 5, 10 \\rangle",
+      "description": "A normal vector N with components 1, 5, and 10.",
+      "discussed_start": "02:00",
+      "discussed_end": "02:06",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{N} = \\langle 1, 5, 10 \\rangle",
+      "description": "A normal vector N with components 1, 5, and 10 drawn on a 3D coordinate system.",
+      "discussed_start": "02:41",
+      "discussed_end": "02:44",
+      "confidence": 1.0
+    },
+    {
+      "latex": "P = (x, y, z)",
+      "description": "A point P in three-dimensional space with coordinates x, y, and z.",
+      "discussed_start": "03:07",
+      "discussed_end": "03:11",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{OP} \\cdot \\vec{N} = 0",
+      "description": "The dot product of vector OP (from the origin to point P) and the normal vector N is equal to zero, indicating perpendicularity.",
+      "discussed_start": "03:26",
+      "discussed_end": "03:32",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x + 5y + 10z = 0",
+      "description": "The equation of a plane passing through the origin with a normal vector N = <1, 5, 10>.",
+      "discussed_start": "03:42",
+      "discussed_end": "03:49",
+      "confidence": 1.0
+    },
+    {
+      "latex": "P_0 (2, 1, -1) \\text{ and } \\perp \\vec{N} = \\langle 1, 5, 10 \\rangle",
+      "description": "A problem asking for the equation of a plane through point P0 (2, 1, -1) and perpendicular to the normal vector N = <1, 5, 10>.",
+      "discussed_start": "04:14",
+      "discussed_end": "04:24",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{P_0 P} \\cdot \\vec{N} = 0",
+      "description": "The dot product of vector P0P (from point P0 to point P) and the normal vector N is equal to zero, indicating perpendicularity.",
+      "discussed_start": "05:51",
+      "discussed_end": "05:58",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\langle x-2, y-1, z+1 \\rangle \\cdot \\langle 1, 5, 10 \\rangle = 0",
+      "description": "The dot product of the vector from P0(2,1,-1) to P(x,y,z) and the normal vector N=<1,5,10> is equal to zero.",
+      "discussed_start": "06:08",
+      "discussed_end": "06:21",
+      "confidence": 1.0
+    },
+    {
+      "latex": "(x-2) + 5(y-1) + 10(z+1) = 0",
+      "description": "The expanded form of the dot product equation for the plane.",
+      "discussed_start": "06:27",
+      "discussed_end": "06:38",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x + 5y + 10z = -3",
+      "description": "The simplified equation of the plane passing through P0(2,1,-1) with normal vector N = <1, 5, 10>.",
+      "discussed_start": "06:44",
+      "discussed_end": "06:58",
+      "confidence": 1.0
+    },
+    {
+      "latex": "ax+by+cz=d, \\quad \\langle a, b, c \\rangle = \\text{normal vector } \\vec{N}.",
+      "description": "In the equation of a plane, the coefficients a, b, and c represent the components of the normal vector N to the plane.",
+      "discussed_start": "09:45",
+      "discussed_end": "10:01",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{v} = \\langle 1, 2, -1 \\rangle",
+      "description": "A vector v with components 1, 2, and -1.",
+      "discussed_start": "11:00",
+      "discussed_end": "11:07",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x+y+3z=5",
+      "description": "The equation of a plane.",
+      "discussed_start": "11:00",
+      "discussed_end": "11:07",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{v} = \\langle 1, 2, -1 \\rangle",
+      "description": "The example vector v with components 1, 2, and -1.",
+      "discussed_start": "12:00",
+      "discussed_end": "12:05",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x+y+3z=5",
+      "description": "The example equation of a plane.",
+      "discussed_start": "12:08",
+      "discussed_end": "12:12",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{N} = \\langle 1, 1, 3 \\rangle",
+      "description": "The normal vector N to the plane x+y+3z=5, derived from the coefficients of x, y, and z.",
+      "discussed_start": "12:29",
+      "discussed_end": "12:35",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{v} \\cdot \\vec{N} = \\langle 1, 2, -1 \\rangle \\cdot \\langle 1, 1, 3 \\rangle = 1 + 2 - 3 = 0",
+      "description": "The calculation of the dot product between vector v=<1,2,-1> and normal vector N=<1,1,3>, which results in 0.",
+      "discussed_start": "14:05",
+      "discussed_end": "14:21",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{v} \\parallel \\text{plane}",
+      "description": "A statement indicating that vector v is parallel to the plane.",
+      "discussed_start": "14:50",
+      "discussed_end": "14:54",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x+y+3z=5",
+      "description": "The equation of a plane.",
+      "discussed_start": "16:15",
+      "discussed_end": "16:18",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x+y+3z=0",
+      "description": "The equation of a plane passing through the origin.",
+      "discussed_start": "16:24",
+      "discussed_end": "16:27",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\begin{cases} x+z=1 \\\\ x+y=2 \\\\ x+2y+3z=3 \\end{cases}",
+      "description": "A system of three linear equations with three variables x, y, and z.",
+      "discussed_start": "18:02",
+      "discussed_end": "18:16",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{the line } \\mathcal{P}_1 \\cap \\mathcal{P}_2",
+      "description": "The line formed by the intersection of plane P1 and plane P2.",
+      "discussed_start": "20:20",
+      "discussed_end": "20:29",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{intersects } \\mathcal{P}_3 \\text{ in a point} = \\text{the solution}",
+      "description": "The intersection of the line (from P1 and P2) and plane P3 is a single point, which represents the solution.",
+      "discussed_start": "20:31",
+      "discussed_end": "20:45",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{Solution to } AX = B \\text{ is given by } X = A^{-1}B",
+      "description": "The solution X to a linear system AX=B, found by multiplying by the inverse of matrix A.",
+      "discussed_start": "21:08",
+      "discussed_end": "21:20",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\rightarrow \\text{if line } \\mathcal{P}_1 \\cap \\mathcal{P}_2 \\text{ is contained in } \\mathcal{P}_3: \\text{infinitely many solutions!}",
+      "description": "If the line of intersection of planes P1 and P2 is contained within plane P3, there are infinitely many solutions.",
+      "discussed_start": "26:57",
+      "discussed_end": "27:09",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\rightarrow \\text{if the line } \\mathcal{P}_1 \\cap \\mathcal{P}_2 \\text{ is parallel to } \\mathcal{P}_3 \\text{ (and not in it): no solutions}",
+      "description": "If the line of intersection of planes P1 and P2 is parallel to, but not contained within, plane P3, there are no solutions.",
+      "discussed_start": "27:52",
+      "discussed_end": "28:11",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{Recall: } A^{-1} = \\frac{1}{\\det(A)} \\text{adj}(A)",
+      "description": "The formula for the inverse of matrix A, involving the determinant of A and the adjugate of A.",
+      "discussed_start": "33:23",
+      "discussed_end": "33:34",
+      "confidence": 1.0
+    },
+    {
+      "latex": "A \\text{ is invertible } \\iff \\det(A) \\neq 0.",
+      "description": "A matrix A is invertible if and only if its determinant is not equal to zero.",
+      "discussed_start": "34:00",
+      "discussed_end": "34:15",
+      "confidence": 1.0
+    },
+    {
+      "latex": "AX = 0",
+      "description": "A homogeneous linear system where matrix A multiplied by vector X equals the zero vector.",
+      "discussed_start": "36:34",
+      "discussed_end": "36:38",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\begin{cases} x+z=0 \\\\ x+y=0 \\\\ x+2y+3z=0 \\end{cases}",
+      "description": "A system of three homogeneous linear equations.",
+      "discussed_start": "37:00",
+      "discussed_end": "37:10",
+      "confidence": 1.0
+    },
+    {
+      "latex": "(0,0,0)",
+      "description": "The coordinates of the origin, which is the trivial solution for a homogeneous system.",
+      "discussed_start": "37:42",
+      "discussed_end": "37:44",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{if } \\det(A) \\neq 0",
+      "description": "Condition for the determinant of matrix A to be non-zero.",
+      "discussed_start": "38:46",
+      "discussed_end": "38:50",
+      "confidence": 1.0
+    },
+    {
+      "latex": "AX = 0 \\iff X = A^{-1} \\cdot 0 = 0.",
+      "description": "Solving the homogeneous system AX=0 by multiplying by the inverse of A, which yields X=0.",
+      "discussed_start": "39:03",
+      "discussed_end": "39:15",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\det(\\vec{N_1}, \\vec{N_2}, \\vec{N_3}) = 0",
+      "description": "The determinant of the matrix formed by the normal vectors N1, N2, and N3 is equal to zero.",
+      "discussed_start": "40:34",
+      "discussed_end": "40:45",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\vec{N_1}, \\vec{N_2}, \\vec{N_3} \\text{ coplanar}",
+      "description": "A statement indicating that the normal vectors N1, N2, and N3 lie on the same plane.",
+      "discussed_start": "40:54",
+      "discussed_end": "41:04",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{if } \\det(A) \\neq 0",
+      "description": "Condition for the determinant of matrix A to be non-zero.",
+      "discussed_start": "47:35",
+      "discussed_end": "47:39",
+      "confidence": 1.0
+    },
+    {
+      "latex": "X = A^{-1}B",
+      "description": "The unique solution X to the system AX=B when the determinant of A is non-zero.",
+      "discussed_start": "47:49",
+      "discussed_end": "47:52",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{if } \\det(A) = 0",
+      "description": "Condition for the determinant of matrix A to be zero.",
+      "discussed_start": "47:56",
+      "discussed_end": "48:00",
+      "confidence": 1.0
+    }
+  ]
+}

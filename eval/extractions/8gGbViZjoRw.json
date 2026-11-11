@@ -1,0 +1,81 @@
+{
+  "equations": [
+    {
+      "latex": "(w(x)+1) \\cdot e^{w(x)} = x",
+      "description": "Implicit equation defining the function w(x).",
+      "discussed_start": "00:37",
+      "discussed_end": "00:45",
+      "confidence": 0.9
+    },
+    {
+      "latex": "\\text{Hint: } w(1) = 0.",
+      "description": "Hint stating that the value of the function w at x equals 1 is 0.",
+      "discussed_start": "01:48",
+      "discussed_end": "01:56",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w(x) \\approx w'(1) \\cdot (x-1) + w(1)",
+      "description": "Linear approximation of the function w(x) near x=1.",
+      "discussed_start": "03:10",
+      "discussed_end": "03:26",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w'(1) \\cdot (x-1)",
+      "description": "Simplified linear approximation of w(x) near x=1, using w(1)=0.",
+      "discussed_start": "03:41",
+      "discussed_end": "03:49",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w'(x) \\cdot e^{w(x)} + (w(x)+1) e^{w(x)} \\cdot w'(x) = 1",
+      "description": "Result of implicitly differentiating the main equation with respect to x.",
+      "discussed_start": "04:59",
+      "discussed_end": "05:33",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w'(x) (w(x)+2) e^{w(x)} = 1",
+      "description": "Factored form of the implicit differentiation result, isolating w'(x).",
+      "discussed_start": "06:19",
+      "discussed_end": "06:39",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w'(x) = \\frac{1}{(w(x)+2) e^{w(x)}}",
+      "description": "Explicit expression for the derivative w'(x) obtained by implicit differentiation.",
+      "discussed_start": "06:43",
+      "discussed_end": "06:57",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w'(1) = \\frac{1}{(w(1)+2) e^{w(1)}}",
+      "description": "Expression for the derivative w'(1) at x=1.",
+      "discussed_start": "07:17",
+      "discussed_end": "07:33",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w'(1) = \\frac{1}{2 \\cdot 1} = \\frac{1}{2}",
+      "description": "Calculated value of the derivative w'(1) at x=1.",
+      "discussed_start": "07:54",
+      "discussed_end": "08:09",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w(x) \\approx \\frac{1}{2}(x-1) \\text{ when } x \\approx 1",
+      "description": "Final linear approximation of w(x) near x=1, after substituting the value of w'(1).",
+      "discussed_start": "08:23",
+      "discussed_end": "08:44",
+      "confidence": 0.9
+    },
+    {
+      "latex": "w(\\frac{3}{2}) \\approx \\frac{1}{2}(\\frac{3}{2}-1) = \\frac{1}{4}",
+      "description": "Estimated value of w(3/2) using the linear approximation.",
+      "discussed_start": "08:56",
+      "discussed_end": "09:16",
+      "confidence": 0.9
+    }
+  ]
+}

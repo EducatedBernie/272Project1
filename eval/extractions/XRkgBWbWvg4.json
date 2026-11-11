@@ -1,0 +1,410 @@
+{
+  "equations": [
+    {
+      "latex": "x = a \\cos t",
+      "description": "Parametric equation for the x-coordinate of a circle with radius 'a'.",
+      "discussed_start": "00:48",
+      "discussed_end": "00:54",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y = a \\sin t",
+      "description": "Parametric equation for the y-coordinate of a circle with radius 'a'.",
+      "discussed_start": "00:54",
+      "discussed_end": "00:58",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x^2 + y^2 = a^2",
+      "description": "The Cartesian equation for a circle centered at the origin with radius 'a'.",
+      "discussed_start": "01:00",
+      "discussed_end": "01:07",
+      "confidence": 1.0
+    },
+    {
+      "latex": "ds^2 = dx^2 + dy^2",
+      "description": "The differential arc length squared, representing the Pythagorean theorem for infinitesimal changes in x and y.",
+      "discussed_start": "01:49",
+      "discussed_end": "01:59",
+      "confidence": 1.0
+    },
+    {
+      "latex": "ds = \\sqrt{\\left(\\frac{dx}{dt}\\right)^2 + \\left(\\frac{dy}{dt}\\right)^2} dt",
+      "description": "The differential arc length 'ds' in terms of derivatives with respect to a parameter 't'.",
+      "discussed_start": "02:13",
+      "discussed_end": "02:37",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{dx}{dt} = -a \\sin t",
+      "description": "The derivative of the x-coordinate of a parametric circle with respect to time 't'.",
+      "discussed_start": "03:00",
+      "discussed_end": "03:10",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{dy}{dt} = a \\cos t",
+      "description": "The derivative of the y-coordinate of a parametric circle with respect to time 't'.",
+      "discussed_start": "03:11",
+      "discussed_end": "03:16",
+      "confidence": 1.0
+    },
+    {
+      "latex": "ds = \\sqrt{(-a \\sin t)^2 + (a \\cos t)^2} dt",
+      "description": "The differential arc length with the derivatives of the circle's parametric equations substituted in.",
+      "discussed_start": "03:22",
+      "discussed_end": "03:36",
+      "confidence": 1.0
+    },
+    {
+      "latex": "ds = \\sqrt{a^2} dt = a dt",
+      "description": "The simplified differential arc length for a circle, where 'a' is the radius.",
+      "discussed_start": "03:37",
+      "discussed_end": "03:42",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{ds}{dt} = a",
+      "description": "The speed of a particle moving along a parametric circle, which is equal to the radius 'a'.",
+      "discussed_start": "03:48",
+      "discussed_end": "03:59",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x = a \\cos kt",
+      "description": "Parametric equation for the x-coordinate of a circle, with a speed factor 'k'.",
+      "discussed_start": "04:53",
+      "discussed_end": "04:57",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y = a \\sin kt",
+      "description": "Parametric equation for the y-coordinate of a circle, with a speed factor 'k'.",
+      "discussed_start": "04:57",
+      "discussed_end": "05:01",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{ds}{dt} = ak",
+      "description": "The speed of a particle moving along a parametric circle with a speed factor 'k'.",
+      "discussed_start": "05:08",
+      "discussed_end": "05:15",
+      "confidence": 1.0
+    },
+    {
+      "latex": "(a>0, k>0)",
+      "description": "Conditions stating that 'a' and 'k' are positive constants.",
+      "discussed_start": "05:22",
+      "discussed_end": "05:29",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\Delta s^2 \\approx \\Delta x^2 + \\Delta y^2",
+      "description": "An approximation for the change in arc length squared using changes in x and y, for notation discussion.",
+      "discussed_start": "06:03",
+      "discussed_end": "06:12",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\left(\\frac{\\Delta s}{\\Delta t}\\right)^2 \\approx \\left(\\frac{\\Delta x}{\\Delta t}\\right)^2 + \\left(\\frac{\\Delta y}{\\Delta t}\\right)^2",
+      "description": "The square of the approximate rate of change of arc length with respect to time, expressed in terms of approximate rates of change of x and y.",
+      "discussed_start": "06:37",
+      "discussed_end": "06:56",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{ds}{dt} = \\sqrt{\\left(\\frac{dx}{dt}\right)^2 + \\left(\\frac{dy}{dt}\right)^2}",
+      "description": "The rate of change of arc length with respect to time, derived from the limit of the approximation.",
+      "discussed_start": "06:59",
+      "discussed_end": "07:13",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\left(\\frac{dx}{dt}\\right)^2",
+      "description": "The square of the first derivative of x with respect to t.",
+      "discussed_start": "07:42",
+      "discussed_end": "07:49",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{d^2x}{dt^2}",
+      "description": "Incorrect notation for the square of the first derivative of x with respect to t.",
+      "discussed_start": "07:51",
+      "discussed_end": "08:06",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{d^2x}{dt^2}",
+      "description": "Correct notation for the second derivative of x with respect to t.",
+      "discussed_start": "08:26",
+      "discussed_end": "08:33",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{d^2x}{dt^2} = \\left(\\frac{d}{dt}\\right)^2 x",
+      "description": "Definition of the second derivative of x with respect to t as the square of the differentiation operator applied to x.",
+      "discussed_start": "08:44",
+      "discussed_end": "08:57",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{d}{dt}(-a \\sin t)",
+      "description": "The first derivative of (-a sin t) with respect to t.",
+      "discussed_start": "09:03",
+      "discussed_end": "09:16",
+      "confidence": 1.0
+    },
+    {
+      "latex": "-a \\cos t",
+      "description": "The result of differentiating -a sin t with respect to t.",
+      "discussed_start": "09:24",
+      "discussed_end": "09:29",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x = 2 \\sin t",
+      "description": "Parametric equation for the x-coordinate for a specific example.",
+      "discussed_start": "10:29",
+      "discussed_end": "10:32",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y = \\cos t",
+      "description": "Parametric equation for the y-coordinate for a specific example.",
+      "discussed_start": "10:32",
+      "discussed_end": "10:35",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{1}{4} x^2 + y^2 = \\sin^2 t + \\cos^2 t = 1",
+      "description": "The Cartesian equation for an ellipse, derived from parametric equations, showing a relationship similar to a circle.",
+      "discussed_start": "11:06",
+      "discussed_end": "11:18",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\frac{ds}{dt} = \\sqrt{(2 \\cos t)^2 + (\\sin t)^2}",
+      "description": "The speed of a particle moving along an ellipse, calculated using the derivatives of its parametric equations.",
+      "discussed_start": "13:28",
+      "discussed_end": "13:41",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\text{Arclength} = \\int_{0}^{2\\pi} \\sqrt{4 \\cos^2 t + \\sin^2 t} dt",
+      "description": "The integral formula for the total arc length of the ellipse.",
+      "discussed_start": "13:54",
+      "discussed_end": "14:11",
+      "confidence": 1.0
+    },
+    {
+      "latex": "dA = \\int 2\\pi (2 \\sin t) \\sqrt{4 \\cos^2 t + \\sin^2 t} dt",
+      "description": "The integral for surface area, showing the circumference term '2pi * x' multiplied by the differential arc length 'ds'.",
+      "discussed_start": "24:40",
+      "discussed_end": "25:15",
+      "confidence": 0.95
+    },
+    {
+      "latex": "dA = \\int_{0}^{\\pi} 2\\pi (2 \\sin t) \\sqrt{4 \\cos^2 t + \\sin^2 t} dt",
+      "description": "The integral for surface area with limits from 0 to pi, representing half the ellipse revolved around the y-axis.",
+      "discussed_start": "25:47",
+      "discussed_end": "26:01",
+      "confidence": 0.95
+    },
+    {
+      "latex": "u = \\cos t",
+      "description": "A substitution variable 'u' equals cosine of t for evaluating the integral.",
+      "discussed_start": "26:42",
+      "discussed_end": "26:45",
+      "confidence": 1.0
+    },
+    {
+      "latex": "du = -\\sin t dt",
+      "description": "The differential 'du' in terms of negative sine of t and differential dt.",
+      "discussed_start": "26:45",
+      "discussed_end": "26:52",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x = r \\cos \\theta",
+      "description": "The conversion formula for the x-coordinate from polar to Cartesian coordinates.",
+      "discussed_start": "30:08",
+      "discussed_end": "30:15",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y = r \\sin \\theta",
+      "description": "The conversion formula for the y-coordinate from polar to Cartesian coordinates.",
+      "discussed_start": "30:16",
+      "discussed_end": "30:20",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r = \\sqrt{x^2+y^2}",
+      "description": "The conversion formula for radius 'r' from Cartesian to polar coordinates.",
+      "discussed_start": "31:00",
+      "discussed_end": "31:05",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\theta = \\tan^{-1} y/x",
+      "description": "The conversion formula for angle 'theta' from Cartesian to polar coordinates.",
+      "discussed_start": "31:11",
+      "discussed_end": "31:19",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r = \\pm \\sqrt{x^2+y^2}",
+      "description": "The radius 'r' from Cartesian coordinates, showing the ambiguity of sign.",
+      "discussed_start": "31:40",
+      "discussed_end": "31:44",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\theta = \\tan^{-1} (-y/-x)",
+      "description": "The angle 'theta' from Cartesian coordinates, showing the ambiguity of inverse tangent with negative signs.",
+      "discussed_start": "31:51",
+      "discussed_end": "32:02",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r = \\sqrt{2}",
+      "description": "The radius 'r' for the point (1, -1) in polar coordinates.",
+      "discussed_start": "36:28",
+      "discussed_end": "36:31",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\theta = 7\\pi/4",
+      "description": "The angle 'theta' for the point (1, -1) in polar coordinates.",
+      "discussed_start": "36:31",
+      "discussed_end": "36:37",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\theta = -\\pi/4",
+      "description": "An alternative angle 'theta' for the point (1, -1) in polar coordinates.",
+      "discussed_start": "36:51",
+      "discussed_end": "36:56",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r = -\\sqrt{2}",
+      "description": "An alternative negative radius 'r' for the point (1, -1) in polar coordinates.",
+      "discussed_start": "37:19",
+      "discussed_end": "37:22",
+      "confidence": 1.0
+    },
+    {
+      "latex": "\\theta = 3\\pi/4",
+      "description": "An alternative angle 'theta' for the point (1, -1) corresponding to a negative radius.",
+      "discussed_start": "37:22",
+      "discussed_end": "37:25",
+      "confidence": 1.0
+    },
+    {
+      "latex": "0 \\le r < \\infty",
+      "description": "A typical convention for the range of the radius 'r' in polar coordinates.",
+      "discussed_start": "39:56",
+      "discussed_end": "40:05",
+      "confidence": 1.0
+    },
+    {
+      "latex": "-\\pi < \\theta \\le \\pi",
+      "description": "A typical convention for the range of the angle 'theta' in polar coordinates.",
+      "discussed_start": "40:06",
+      "discussed_end": "40:15",
+      "confidence": 1.0
+    },
+    {
+      "latex": "0 \\le \\theta < 2\\pi",
+      "description": "An alternative typical convention for the range of the angle 'theta' in polar coordinates.",
+      "discussed_start": "40:17",
+      "discussed_end": "40:25",
+      "confidence": 1.0
+    },
+    {
+      "latex": "y = 1",
+      "description": "A simple line equation in Cartesian coordinates.",
+      "discussed_start": "41:12",
+      "discussed_end": "41:14",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r \\sin \\theta = 1",
+      "description": "The line equation y=1 expressed in polar coordinates.",
+      "discussed_start": "41:35",
+      "discussed_end": "41:45",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r = \\frac{1}{\\sin \\theta}",
+      "description": "The polar equation of the line y=1, solved for r.",
+      "discussed_start": "41:47",
+      "discussed_end": "41:54",
+      "confidence": 1.0
+    },
+    {
+      "latex": "0 < \\theta < \\pi",
+      "description": "The range of theta for the polar equation of the line y=1.",
+      "discussed_start": "42:59",
+      "discussed_end": "43:03",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r = r(\\theta)",
+      "description": "Notation indicating that the radius 'r' is expressed as a function of the angle 'theta'.",
+      "discussed_start": "43:21",
+      "discussed_end": "43:26",
+      "confidence": 1.0
+    },
+    {
+      "latex": "(x-a)^2 + y^2 = a^2",
+      "description": "The Cartesian equation for a circle centered at (a, 0) with radius 'a'.",
+      "discussed_start": "45:28",
+      "discussed_end": "45:33",
+      "confidence": 1.0
+    },
+    {
+      "latex": "x^2 - 2ax + a^2 + y^2 = a^2",
+      "description": "The expanded form of the Cartesian equation for a circle centered at (a, 0).",
+      "discussed_start": "46:01",
+      "discussed_end": "46:09",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r^2 - 2ax = 0",
+      "description": "Simplified Cartesian equation of the circle after canceling 'a^2' and substituting 'r^2' for 'x^2+y^2'.",
+      "discussed_start": "46:18",
+      "discussed_end": "46:27",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r^2 - 2ar \\cos \\theta = 0",
+      "description": "The circle equation in polar coordinates after substituting 'x=r cos theta' and 'r^2=x^2+y^2'.",
+      "discussed_start": "46:48",
+      "discussed_end": "46:56",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r^2 = 2ar \\cos \\theta",
+      "description": "Simplified polar equation for the circle, moving the term to the right side.",
+      "discussed_start": "47:09",
+      "discussed_end": "47:12",
+      "confidence": 1.0
+    },
+    {
+      "latex": "r = 2a \\cos \\theta",
+      "description": "Final polar equation for the circle centered at (a, 0) with radius 'a'.",
+      "discussed_start": "47:20",
+      "discussed_end": "47:32",
+      "confidence": 1.0
+    },
+    {
+      "latex": "-\\pi/2 \\le \\theta < \\pi/2",
+      "description": "The range of theta for the polar equation of the circle centered at (a,0) with radius a.",
+      "discussed_start": "49:00",
+      "discussed_end": "49:11",
+      "confidence": 1.0
+    }
+  ]
+}
