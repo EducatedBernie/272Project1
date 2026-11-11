@@ -1,0 +1,41 @@
+FROM python:3.12-slim
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ffmpeg \
+    tini \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip install --no-cache-dir yt-dlp
+
+COPY --from=denoland/deno:bin-2.7.6 /deno /usr/local/bin/deno
+
+WORKDIR /app
+
+# Install Python dependencies first (cache layer)
+# Dummy package so setuptools can resolve deps without full source tree
+COPY pipeline/pyproject.toml ./
+RUN mkdir -p src && touch src/__init__.py && pip install --no-cache-dir . && rm -rf src
+
+# Copy pipeline source
+COPY pipeline/ .
+
+# Startup script — runs migrations then starts worker
+COPY <<'EOF' /app/start.sh
+#!/bin/sh
+set -e
+echo "Running migrations..."
+alembic upgrade head
+echo "Starting worker..."
+exec python scripts/worker.py
+EOF
+RUN chmod +x /app/start.sh
+
+# Non-root user
+RUN useradd -m worker
+USER worker
+
+ENV PYTHONPATH=/app
+
+# Tini as init — reaps zombie subprocesses from yt-dlp/ffmpeg
+ENTRYPOINT ["/usr/bin/tini", "--"]
+CMD ["/app/start.sh"]

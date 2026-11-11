@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Environment
+.env
+*-key.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Postgres data (Docker volume, but just in case)
+pgdata/
+
+# Uploaded videos
+pipeline/uploads/
+
+# Cowork (outreach, leads, non-code work)
+cowork/
+
+# MathSpeech supplementary data (wav samples, source code, xlsx)
+dataset/supplemetnary/
+pipeline/.wrangler/
+*.mp4
+
+# Uploaded-video demo JSONs (12-char hash IDs). Committed demos use
+# 11-char YouTube IDs or descriptive names, so this pattern won't catch them.
+viewer/public/demo/????????????.json
+
+# Content-addressed lecture frames generated for local notes previews
+viewer/public/notes-frames/

@@ -1,0 +1,12 @@
+# Railway **web-service** configuration. Non-standard filename on purpose:
+# `railway.toml` at repo root would get auto-applied to the worker service
+# too, which doesn't serve HTTP — the healthcheck below would fail its
+# build. Scoping via filename avoids that.
+#
+# To wire this up on a service, set its "Config-as-code → File Path" in
+# the Railway dashboard to `railway.web.toml`. The worker has no config
+# file — its liveness is tracked via pipeline_runs.heartbeat_at instead.
+
+[deploy]
+healthcheckPath = "/api/health"
+healthcheckTimeout = 30
