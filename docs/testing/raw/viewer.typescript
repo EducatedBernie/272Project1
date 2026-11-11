@@ -1,0 +1,84 @@
+^D$ scripts/run-all-tests.sh viewer
+
+[1;36m━━ Viewer unit tests (node:test) ━━[0m
+[32m✔ isValidAlignmentMeta accepts well-formed data [90m(0.488083ms)[39m[39m
+[32m✔ isValidAlignmentMeta rejects null/undefined/non-object [90m(0.078667ms)[39m[39m
+[32m✔ isValidAlignmentMeta rejects pre-fix runs that wrote unmatched_word_count [90m(0.057667ms)[39m[39m
+[32m✔ isValidAlignmentMeta rejects malformed numeric fields [90m(0.057ms)[39m[39m
+[32m✔ selectAlignmentMeta prefers demo over db [90m(0.059541ms)[39m[39m
+[32m✔ selectAlignmentMeta falls back to db when demo absent [90m(0.051833ms)[39m[39m
+[32m✔ selectAlignmentMeta returns null when db data is invalid [90m(0.044583ms)[39m[39m
+[32m✔ selectAlignmentMeta returns null when both sources missing [90m(0.041167ms)[39m[39m
+[32m✔ attaches visual to segment whose range contains its start [90m(1.930334ms)[39m[39m
+[32m✔ attaches visual starting at exact segment boundary to earlier segment [90m(0.37875ms)[39m[39m
+[32m✔ falls back to nearest following segment when no containing segment [90m(0.086625ms)[39m[39m
+[32m✔ falls back to last segment if visual start is after every segment [90m(0.061666ms)[39m[39m
+[32m✔ each segment's visuals are sorted by start [90m(0.497833ms)[39m[39m
+[32m✔ empty inputs return empty anchored list [90m(0.084958ms)[39m[39m
+[32m✔ preserves all segment fields on the anchored segment [90m(0.059792ms)[39m[39m
+[32m✔ sorts unsorted segment input before anchoring [90m(0.077667ms)[39m[39m
+[32m✔ validates and selects Gemini call manifests [90m(2.353375ms)[39m[39m
+[32m✔ rejects non-manifest values [90m(0.7165ms)[39m[39m
+[32m✔ formats byte counts [90m(0.265ms)[39m[39m
+[32m✔ plain text without math returns single text part [90m(1.2125ms)[39m[39m
+[32m✔ simple math env splits text and latex [90m(0.144958ms)[39m[39m
+[32m✔ multiple math envs in one string [90m(0.083125ms)[39m[39m
+[32m✔ escaped currency outside math env renders as literal $ (no backslash) [90m(0.060458ms)[39m[39m
+[32m✔ escaped currency at start of string [90m(0.604792ms)[39m[39m
+[32m✔ escaped currency inside math env preserves \$ for KaTeX [90m(0.097125ms)[39m[39m
+[32m✔ multiple escaped currencies inside math envs [90m(0.235917ms)[39m[39m
+[32m✔ mixed math variable and escaped currency [90m(0.493917ms)[39m[39m
+[32m✔ escaped currency before math env does not consume the math delimiter [90m(0.231709ms)[39m[39m
+[32m✔ unclosed math delimiter falls through as plain text [90m(0.308542ms)[39m[39m
+[32m✔ empty string returns empty array [90m(0.120834ms)[39m[39m
+[32m✔ string with only math env [90m(0.118542ms)[39m[39m
+[32m✔ math env with digit-leading content (e.g., $2x$) still treated as math [90m(0.094417ms)[39m[39m
+[32m✔ regression: bare $ pairs still match (Bug 1 needs prompt+reprocess to fix at source) [90m(0.166ms)[39m[39m
+[32m✔ global KaTeX color rule preserves inline transparent placeholders [90m(0.532084ms)[39m[39m
+[32m✔ configured KaTeX renders mhchem water notation [90m(4.764708ms)[39m[39m
+[32m✔ configured KaTeX renders mhchem organic reaction notation [90m(2.115208ms)[39m[39m
+[32m✔ configured KaTeX still renders ordinary math [90m(0.161292ms)[39m[39m
+[32m✔ live model picker defaults to the centralized worker default [90m(0.722208ms)[39m[39m
+[32m✔ model override is omitted for the default selection and preserves explicit choices [90m(0.091459ms)[39m[39m
+[32m✔ notes render original-frame crops, clip their bounds, and preserve full-frame and text fallbacks [90m(21.409208ms)[39m[39m
+[32m✔ notes requests require UUIDs and reject malformed bodies [90m(1.03525ms)[39m[39m
+[32m✔ generation requires login while saved notes status is public [90m(3.597333ms)[39m[39m
+[90m﹣ notes jobs deduplicate, retry failures, pin sources and never replace extraction runs [90m(0.067041ms)[39m # SKIP[39m
+[32m✔ honors a requested run only when it is public for the video [90m(0.426583ms)[39m[39m
+[32m✔ falls back when requested run is not in the public run list [90m(0.075417ms)[39m[39m
+[32m✔ falls back to newest public row when latest complete run is unavailable [90m(0.055458ms)[39m[39m
+[32m✔ returns null when no public runs are available [90m(0.04975ms)[39m[39m
+[32m✔ full reprocess params canonicalize YouTube source [90m(0.873834ms)[39m[39m
+[32m✔ full reprocess params use r2_key as upload source [90m(0.087542ms)[39m[39m
+[32m✔ full reprocess params fall back to youtube_url as upload playback URL [90m(0.06225ms)[39m[39m
+[32m✔ null/undefined/empty → no error message recorded [90m(0.911209ms)[39m[39m
+[32m✔ short cancel-by-user message → cancelled [90m(0.085542ms)[39m[39m
+[32m✔ real-world traceback ending with \n (regression for d660283c) → cancelled [90m(0.0715ms)[39m[39m
+[32m✔ real failure (Gemini error) → not cancelled, returns last line [90m(0.071291ms)[39m[39m
+[32m✔ sanitizeRunError removes traceback frames [90m(0.0505ms)[39m[39m
+[32m✔ worker SIGTERM marker → not cancelled (a real shutdown, not a user cancel) [90m(0.055125ms)[39m[39m
+[32m✔ trailing whitespace doesn't swallow the message [90m(0.046042ms)[39m[39m
+[32m✔ bare 'CancelledError' substring is NOT enough to classify as cancellation [90m(0.045125ms)[39m[39m
+[32m✔ approxCost bills Gemini 3 Flash output plus thinking tokens [90m(0.481833ms)[39m[39m
+[32m✔ approxCost uses the Gemini 3.7 Flash introductory standard rate [90m(0.081458ms)[39m[39m
+[32m✔ approxCost charges cached input tokens at cached rate [90m(0.067ms)[39m[39m
+[32m✔ approxCost applies totals-level thoughts to legacy single-model summaries [90m(0.056458ms)[39m[39m
+[32m✔ notes model pricing includes cached input and thinking tokens [90m(0.086583ms)[39m[39m
+[32m✔ slow YouTube readiness recovers without remount; actual errors remain distinguishable [90m(1.9725ms)[39m[39m
+[32m✔ canonicalizes playlist watch URLs to bare watch URLs [90m(0.514167ms)[39m[39m
+[32m✔ extracts and canonicalizes common YouTube URL forms [90m(0.597666ms)[39m[39m
+[32m✔ does not rewrite non-YouTube URLs [90m(0.0745ms)[39m[39m
+[32m✔ does not rewrite non-YouTube URLs with v query params [90m(0.207125ms)[39m[39m
+[34mℹ tests 68[39m
+[34mℹ suites 0[39m
+[34mℹ pass 67[39m
+[34mℹ fail 0[39m
+[34mℹ cancelled 0[39m
+[34mℹ skipped 1[39m
+[34mℹ todo 0[39m
+[34mℹ duration_ms 827.421125[39m
+
+[1;36m━━ Viewer typecheck (tsc --noEmit) ━━[0m
+tsc: 0 errors
+
+exit code: 0

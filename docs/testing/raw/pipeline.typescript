@@ -1,0 +1,43 @@
+^D$ scripts/run-all-tests.sh pipeline
+
+[1;36m━━ Pipeline (pytest) — unit + DB-backed tests ━━[0m
+[1m================================================= test session starts ==================================================[0m
+platform darwin -- Python 3.12.13, pytest-9.2.0, pluggy-1.7.0
+rootdir: /Users/bernie/Documents/SJSU Classes/272 - Enterprise SW/final-project/272Project1/pipeline
+configfile: pyproject.toml
+plugins: anyio-4.16.0
+collected 283 items
+
+tests/test_call_logs.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                                     [  1%][0m
+tests/test_content_meta.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                                 [  3%][0m
+tests/test_eval_runner.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                               [  6%][0m
+tests/test_healer.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                  [ 15%][0m
+tests/test_load_auto_captions.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                            [ 16%][0m
+tests/test_model_defaults.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                            [ 19%][0m
+tests/test_notes_illustrations.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                             [ 25%][0m
+tests/test_process_video_v2_failures.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                           [ 30%][0m
+tests/test_process_video_v2_heal_integration.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                           [ 32%][0m
+tests/test_prompts.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                            [ 38%][0m
+tests/test_schemas.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                          [ 44%][0m
+tests/test_study_notes.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                 [ 63%][0m
+tests/test_usage_accumulator.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                 [ 68%][0m
+tests/test_validators.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                     [ 81%][0m
+tests/test_word_align.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                                    [ 82%][0m
+tests/test_worker.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                               [ 98%][0m
+tests/test_youtube_url.py [32m.[0m[32m.[0m[32m.[0m[32m.[0m[33m                                                                                   [100%][0m
+
+[33m=================================================== warnings summary ===================================================[0m
+src/extraction/latex_fix.py:6
+  /Users/bernie/Documents/SJSU Classes/272 - Enterprise SW/final-project/272Project1/pipeline/src/extraction/latex_fix.py:6: SyntaxWarning: invalid escape sequence '\R'
+    \r (carriage return)  → \rho, \rightarrow, \Rightarrow, \rangle
+
+tests/test_load_auto_captions.py: 7 warnings
+tests/test_study_notes.py: 84 warnings
+tests/test_worker.py: 80 warnings
+  /Users/bernie/Documents/SJSU Classes/272 - Enterprise SW/final-project/272Project1/pipeline/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py:3627: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    return util.wrap_callable(lambda ctx: fn(), fn)  # type: ignore
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+[33m========================================== [32m283 passed[0m, [33m[1m172 warnings[0m[33m in 3.90s[0m[33m ===========================================[0m
+
+exit code: 0

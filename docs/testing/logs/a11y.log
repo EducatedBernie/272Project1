@@ -1,0 +1,16 @@
+[WebServer] ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+
+Running 10 tests using 1 worker
+
+  ✓   1 [chromium] › tests/a11y/equation-reading.spec.ts:8:5 › a rendered display equation is announced as math, not as raw LaTeX (1.6s)
+  ✓   2 [chromium] › tests/a11y/equation-reading.spec.ts:39:5 › playing the demo does not stack two live-region announcements (871ms)
+  ✓   3 [chromium] › tests/a11y/equation-reading.spec.ts:61:5 › transcript live region does not announce raw LaTeX source (966ms)
+  ✓   4 [chromium] › tests/a11y/landing.axe.spec.ts:7:7 › landing page accessibility (axe-core) › initial state (7.1s)
+  ✓   5 [chromium] › tests/a11y/landing.axe.spec.ts:16:7 › landing page accessibility (axe-core) › after switching to Silent Board Work demo (3.4s)
+  ✓   6 [chromium] › tests/a11y/landing.axe.spec.ts:26:7 › landing page accessibility (axe-core) › after switching the output showcase to Diagrams (6.8s)
+  ✓   7 [chromium] › tests/a11y/landing.axe.spec.ts:36:7 › landing page accessibility (axe-core) › landing copy never overclaims MathML support (2.9s)
+  ✓   8 [chromium] › tests/a11y/landing.tree.spec.ts:4:7 › landing accessibility tree shape › landing landmarks and hero tree match (1.2s)
+  ✓   9 [chromium] › tests/a11y/landing.tree.spec.ts:17:7 › landing accessibility tree shape › output and demo control trees match (1.0s)
+  ✓  10 [chromium] › tests/a11y/landing.tree.spec.ts:36:7 › landing accessibility tree shape › demo viewer tree after Silent Board Work selection (907ms)
+
+  10 passed (32.5s)

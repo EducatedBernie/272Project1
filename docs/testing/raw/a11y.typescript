@@ -1,0 +1,21 @@
+^D$ scripts/run-all-tests.sh a11y
+
+[1;36m━━ Accessibility (Playwright: axe-core + virtual screen reader) ━━[0m
+[2m[WebServer] [22m[33m[1m⚠[22m[39m The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+
+[2mRunning [22m10[2m tests using [22m1[2m worker[22m
+
+  [32m✓[39m  [2m 1 [22m[chromium] › tests/a11y/equation-reading.spec.ts:8:5 › a rendered display equation is announced as math, not as raw LaTeX[2m (1.6s)[22m
+  [32m✓[39m  [2m 2 [22m[chromium] › tests/a11y/equation-reading.spec.ts:39:5 › playing the demo does not stack two live-region announcements[2m (871ms)[22m
+  [32m✓[39m  [2m 3 [22m[chromium] › tests/a11y/equation-reading.spec.ts:61:5 › transcript live region does not announce raw LaTeX source[2m (966ms)[22m
+  [32m✓[39m  [2m 4 [22m[chromium] › tests/a11y/landing.axe.spec.ts:7:7 › landing page accessibility (axe-core) › initial state[2m (7.1s)[22m
+  [32m✓[39m  [2m 5 [22m[chromium] › tests/a11y/landing.axe.spec.ts:16:7 › landing page accessibility (axe-core) › after switching to Silent Board Work demo[2m (3.4s)[22m
+  [32m✓[39m  [2m 6 [22m[chromium] › tests/a11y/landing.axe.spec.ts:26:7 › landing page accessibility (axe-core) › after switching the output showcase to Diagrams[2m (6.8s)[22m
+  [32m✓[39m  [2m 7 [22m[chromium] › tests/a11y/landing.axe.spec.ts:36:7 › landing page accessibility (axe-core) › landing copy never overclaims MathML support[2m (2.9s)[22m
+  [32m✓[39m  [2m 8 [22m[chromium] › tests/a11y/landing.tree.spec.ts:4:7 › landing accessibility tree shape › landing landmarks and hero tree match[2m (1.2s)[22m
+  [32m✓[39m  [2m 9 [22m[chromium] › tests/a11y/landing.tree.spec.ts:17:7 › landing accessibility tree shape › output and demo control trees match[2m (1.0s)[22m
+  [32m✓[39m  [2m10 [22m[chromium] › tests/a11y/landing.tree.spec.ts:36:7 › landing accessibility tree shape › demo viewer tree after Silent Board Work selection[2m (907ms)[22m
+
+[32m  10 passed[39m[2m (32.5s)[22m
+
+exit code: 0

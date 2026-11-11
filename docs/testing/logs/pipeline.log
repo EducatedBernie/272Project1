@@ -1,0 +1,38 @@
+================================================= test session starts ==================================================
+platform darwin -- Python 3.12.13, pytest-9.2.0, pluggy-1.7.0
+rootdir: /Users/bernie/Documents/SJSU Classes/272 - Enterprise SW/final-project/272Project1/pipeline
+configfile: pyproject.toml
+plugins: anyio-4.16.0
+collected 283 items
+
+tests/test_call_logs.py ....                                                                                     [  1%]
+tests/test_content_meta.py .....                                                                                 [  3%]
+tests/test_eval_runner.py ........                                                                               [  6%]
+tests/test_healer.py ..........................                                                                  [ 15%]
+tests/test_load_auto_captions.py ....                                                                            [ 16%]
+tests/test_model_defaults.py ........                                                                            [ 19%]
+tests/test_notes_illustrations.py ..................                                                             [ 25%]
+tests/test_process_video_v2_failures.py ..............                                                           [ 30%]
+tests/test_process_video_v2_heal_integration.py ......                                                           [ 32%]
+tests/test_prompts.py ...............                                                                            [ 38%]
+tests/test_schemas.py .................                                                                          [ 44%]
+tests/test_study_notes.py ......................................................                                 [ 63%]
+tests/test_usage_accumulator.py ................                                                                 [ 68%]
+tests/test_validators.py ...................................                                                     [ 81%]
+tests/test_word_align.py ....                                                                                    [ 82%]
+tests/test_worker.py .............................................                                               [ 98%]
+tests/test_youtube_url.py ....                                                                                   [100%]
+
+=================================================== warnings summary ===================================================
+src/extraction/latex_fix.py:6
+  /Users/bernie/Documents/SJSU Classes/272 - Enterprise SW/final-project/272Project1/pipeline/src/extraction/latex_fix.py:6: SyntaxWarning: invalid escape sequence '\R'
+    \r (carriage return)  → \rho, \rightarrow, \Rightarrow, \rangle
+
+tests/test_load_auto_captions.py: 7 warnings
+tests/test_study_notes.py: 84 warnings
+tests/test_worker.py: 80 warnings
+  /Users/bernie/Documents/SJSU Classes/272 - Enterprise SW/final-project/272Project1/pipeline/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py:3627: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    return util.wrap_callable(lambda ctx: fn(), fn)  # type: ignore
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+========================================== 283 passed, 172 warnings in 3.90s ===========================================
