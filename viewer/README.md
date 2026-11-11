@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Chalkboard viewer (Next.js)
 
-## Getting Started
+The web tier of Chalkboard: the marketing/landing page, the submission dashboard, the lecture viewer, and the study-notes page, plus the API routes they call. See the [root README](../README.md) for the full-stack quick start.
 
-First, run the development server:
+## Layout
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+app/(marketing)/page.tsx          Landing page (interactive demo built from public/demo/*.json)
+app/(app)/dashboard/              Submission dashboard + run monitoring (password-protected)
+app/(app)/video/[id]/             Lecture viewer: player, synchronized transcript, equations by topic
+app/(app)/video/[id]/notes/       Study notes with citations and frame crops
+app/(app)/api/                    18 route handlers: process, runs, cancel, upload, notes, health, auth, …
+components/                       Viewer, transcript, equation panels, landing sections
+lib/                              Data access (PostgreSQL), transforms, timing/sync logic + unit tests
+tests/a11y/                       Playwright accessibility suite (axe + virtual screen reader)
+public/demo/                      10 pre-processed lectures used by the landing-page demo
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Commands
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm ci
+npm run dev          # http://localhost:3000 — needs DATABASE_URL, DASHBOARD_PASSWORD, AUTH_SECRET in ../.env
+npm test             # unit tests (node:test via tsx)
+npx tsc --noEmit     # typecheck
+npm run test:a11y    # Playwright accessibility suite (starts its own dev server on :3001)
+npm run build        # production build (standalone output, used by ../Dockerfile.web)
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The landing page and its interactive demo work without a database. The dashboard, lecture and notes pages read from PostgreSQL, which the Python worker populates.

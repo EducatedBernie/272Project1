@@ -479,7 +479,7 @@ Also detected: a granularity anti-pattern in the equations prompt (v0.3) — pro
 
 **Files changed:** `pipeline/src/extraction/schemas.py`, `pipeline/src/extraction/prompts.py`, `pipeline/src/extraction/topic_map.py`, `pipeline/scripts/process_video_v2.py`, `pipeline/tests/test_schemas.py`, `pipeline/tests/test_prompts.py`, `viewer/lib/types.ts`, `viewer/lib/transform.ts`, `viewer/components/TextBlocks.tsx` (new), `viewer/components/GroupedEquations.tsx`. Version bumps: `EQUATIONS_PROMPT_VERSION v0.3 → v0.4`, `VISUAL_CONTENT_PROMPT_VERSION v0.2 → v0.3`, `TOPIC_MAP_PROMPT_VERSION` (new) `v0.2`.
 
-**Spec:** [`docs/superpowers/specs/2026-04-23-prompt-determinism-design.md`](superpowers/specs/2026-04-23-prompt-determinism-design.md) · **Plan:** [`docs/superpowers/plans/2026-04-23-prompt-determinism-plan.md`](superpowers/plans/2026-04-23-prompt-determinism-plan.md)
+**Spec:** [`docs/design-history/specs/2026-04-23-prompt-determinism-design.md`](design-history/specs/2026-04-23-prompt-determinism-design.md) · **Plan:** [`docs/design-history/plans/2026-04-23-prompt-determinism-plan.md`](design-history/plans/2026-04-23-prompt-determinism-plan.md)
 
 ---
 

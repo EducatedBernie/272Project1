@@ -12,8 +12,7 @@ fall through to `except Exception:`, writing a traceback to
 in a third module that both files import from defeats the dual-class
 hazard regardless of how the worker is launched.
 
-See: docs/superpowers/reviews/2026-04-28-cancel-error-fix-review.md and
-the regression test test_poll_once_cancelled_with_cross_module_class.
+See the regression test test_poll_once_cancelled_with_cross_module_class.
 """
 
 

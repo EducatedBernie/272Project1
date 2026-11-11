@@ -2990,7 +2990,7 @@ Revisit if Task 2.9's prompt hardening + PR 2 repair don't move the bug rate bel
 
 ## Execution choices
 
-Plan complete and saved to `docs/superpowers/plans/2026-04-29-validators-and-repair.md`. Three PRs, ~3.5 days of focused work with AI-assisted coding. Two execution options:
+Plan complete and saved to `docs/design-history/plans/2026-04-29-validators-and-repair.md`. Three PRs, ~3.5 days of focused work with AI-assisted coding. Two execution options:
 
 **1. Subagent-Driven (recommended)** — Dispatch a fresh subagent per task, review between tasks, fast iteration. Best fit for the per-task TDD discipline this plan uses.
 

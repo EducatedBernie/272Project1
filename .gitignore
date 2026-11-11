@@ -14,7 +14,17 @@ out/
 
 # Environment
 .env
+.env.*
+!.env.example
 *-key.json
+
+# Local AI-assistant state
+.claude/
+.codex/
+AGENTS.md
+
+# TypeScript incremental build info
+*.tsbuildinfo
 
 # IDE
 .vscode/

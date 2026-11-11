@@ -8,7 +8,7 @@
 
 **Tech Stack:** Python 3.12, Pydantic 2, pytest; TypeScript, Next.js 15, React 19; Gemini 3 Flash Preview via `google-genai` SDK.
 
-**Spec:** [`docs/superpowers/specs/2026-04-23-prompt-determinism-design.md`](../specs/2026-04-23-prompt-determinism-design.md)
+**Spec:** [`docs/design-history/specs/2026-04-23-prompt-determinism-design.md`](../specs/2026-04-23-prompt-determinism-design.md)
 
 **Deployment note:** This project auto-deploys to Railway on `git push origin main`. Tasks are ordered so the viewer ships forward-compat BEFORE the pipeline starts producing new-shape output. No intermediate broken state for in-flight renders.
 

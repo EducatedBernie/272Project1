@@ -461,7 +461,7 @@ After all tasks complete, in order:
 - [ ] `cd viewer && npx tsc --noEmit` reports no type errors.
 - [ ] `git status` shows: deleted `viewer/lib/accessibility-contract.test.ts`; new `viewer/playwright.config.ts`, `viewer/tests/a11y/*.ts`, `viewer/tests/a11y/__snapshots__/*.json`, `viewer/tests/a11y/README.md`; modified `viewer/package.json`, `viewer/package-lock.json`, `viewer/.gitignore`, `viewer/eslint.config.mjs`.
 - [ ] Snapshot files are <50 lines each (if they're huge, `interestingOnly: true` isn't being honored — debug before committing).
-- [ ] Commit message references this plan: `Layer accessibility testing per docs/superpowers/plans/2026-06-26-a11y-testing-layers.md`.
+- [ ] Commit message references this plan: `Layer accessibility testing per docs/design-history/plans/2026-06-26-a11y-testing-layers.md`.
 
 ## Stop conditions — escalate, don't paper over
 
