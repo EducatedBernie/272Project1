@@ -1,0 +1,134 @@
+@import "tailwindcss" layer(base);
+
+@layer base {
+  :root {
+    --paper:      #f6f3ec;
+    --paper-2:    #ece7dc;
+    --paper-3:    #e0dbce;
+    --ink:        #141414;
+    --ink-2:      #2a2a2a;
+    --chalk-bg:   #1a2620;
+    --chalk-bg-2: #0f1814;
+    --chalk-fg:   #f0ebdf;
+    --accent:     #d97a3d;
+    --accent-2:   #9e3f11;
+    --accent-soft:#f1d9c4;
+    --rule:       #1a1a1a1f;
+    --rule-2:     #1a1a1a33;
+    --text-muted: #55514a;
+
+    /* Status hues used by dashboard run cards, charts, etc. */
+    --good:       #2f7d3e;
+    --good-soft:  #e6efe8;
+    --blue:       #2c5e9e;
+    --blue-soft:  #d3e0ef;
+    --purple:     #5b3f94;
+    --purple-soft:#eae4f2;
+    --err:        #a32d2d;
+    --err-soft:   #f2d6d6;
+
+    /* Compat mapping — existing components that read these keep working.
+       Old semantics: --muted was a light surface, --muted-fg was gray text.
+       Preserve that: --muted -> paper-2 (light surface); --muted-fg -> text-muted. */
+    --background:    var(--paper);
+    --foreground:    var(--ink);
+    --card:          #ffffff;
+    --border:        var(--rule);
+    --muted:         var(--paper-2);
+    --muted-fg:      var(--text-muted);
+    --active:        color-mix(in srgb, var(--accent) 12%, #fff);
+    --active-border: var(--accent);
+  }
+
+  .dark {
+    --paper:      #0f1814;
+    --paper-2:    #1a2620;
+    --paper-3:    #243329;
+    --ink:        #f0ebdf;
+    --ink-2:      #d8d4c8;
+    --chalk-bg:   #0f1814;
+    --chalk-bg-2: #050907;
+    --chalk-fg:   #f0ebdf;
+    --accent:     #d97a3d;
+    --accent-2:   #e08c55;
+    --accent-soft:color-mix(in srgb, var(--accent) 24%, var(--paper-2));
+    --rule:       #ffffff14;
+    --rule-2:     #ffffff26;
+    --text-muted: #a8a596;
+
+    --good:       #6cbf7c;
+    --good-soft:  color-mix(in srgb, var(--good) 18%, var(--paper-2));
+    --blue:       #6ba3d8;
+    --blue-soft:  color-mix(in srgb, var(--blue) 18%, var(--paper-2));
+    --purple:     #a48ad8;
+    --purple-soft:color-mix(in srgb, var(--purple) 18%, var(--paper-2));
+    --err:        #e58a8a;
+    --err-soft:   color-mix(in srgb, var(--err) 18%, var(--paper-2));
+
+    --background:    var(--paper);
+    --foreground:    var(--ink);
+    --card:          var(--paper-2);
+    --border:        var(--rule);
+    --muted:         var(--paper-2);
+    --muted-fg:      var(--text-muted);
+    --active:        color-mix(in srgb, var(--accent) 18%, var(--paper-2));
+    --active-border: var(--accent);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html,
+    *,
+    *::before,
+    *::after {
+      scroll-behavior: auto !important;
+    }
+  }
+
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans), system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    font-feature-settings: "ss01", "cv11";
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    margin: 0;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
+  --font-mono: var(--font-mono);
+}
+
+.katex {
+  color: var(--foreground);
+}
+
+/* KaTeX renders an absolutely-positioned .katex-mathml span (screen-reader-only,
+   1px clipped) for every math instance. KaTeX's own CSS does not set a
+   positioning context on .katex itself, so without this rule those spans
+   escape to the initial containing block (<html>) and bloat scrollHeight by
+   tens of thousands of pixels — visible as endless empty space below the
+   page. Anchoring them to .katex is what KaTeX expects. */
+.katex {
+  position: relative;
+}
+
+/* Pulse halo used on running RunCard rows. Lives here (not inside the
+   component that triggers it) so any dashboard-adjacent surface can
+   reuse the keyframe. */
+@keyframes chalkboard-pulse {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 60%, transparent);
+  }
+  100% {
+    box-shadow: 0 0 0 9px transparent;
+  }
+}

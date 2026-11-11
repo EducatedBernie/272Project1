@@ -1,0 +1,7 @@
+- tablist "Chalkboard output types":
+  - tab "Equations" [selected]
+  - tab "Diagrams"
+  - tab "Code"
+  - tab "Text"
+  - tab "Charts"
+  - tab "Tables"

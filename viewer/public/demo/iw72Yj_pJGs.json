@@ -1,0 +1,74 @@
+{
+  "videoId": "iw72Yj_pJGs",
+  "title": "L'Hopitals, MVT, and EVT",
+  "youtubeUrl": "https://www.youtube.com/watch?v=iw72Yj_pJGs",
+  "duration": 6737.0,
+  "segments": [
+    {
+      "id": "seg-0",
+      "text": "Right? So we are looking for the extremes, either the min or the max.",
+      "start": 5785.1,
+      "end": 5789.4
+    },
+    {
+      "id": "seg-1",
+      "text": "So, if this is $[-2, 1]$, right?",
+      "start": 5792.7,
+      "end": 5796.0
+    },
+    {
+      "id": "seg-2",
+      "text": "I don't know what the actual graph looks like, but",
+      "start": 5796.0,
+      "end": 5799.3
+    },
+    {
+      "id": "seg-3",
+      "text": "If you have any particular graph, right? And it's asking for negative two to negative or $[-1, 2]$, right?",
+      "start": 5799.3,
+      "end": 5808.7
+    },
+    {
+      "id": "seg-4",
+      "text": "It might be that the extremes on the end point.",
+      "start": 5812.6,
+      "end": 5814.6
+    },
+    {
+      "id": "seg-5",
+      "text": "This is the highest point. So it's not just the case of looking for like the local max in the interval, we have to test the end points as well.",
+      "start": 5815.8,
+      "end": 5823.3
+    },
+    {
+      "id": "seg-6",
+      "text": "Okay, so the first step, um, is to try and find any critical points on the",
+      "start": 5827.0,
+      "end": 5830.4
+    }
+  ],
+  "equations": [],
+  "visualContent": [
+    {
+      "id": "vc-0",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A Cartesian coordinate system is drawn with green x and y axes. A continuous green curve is drawn on this plane. The curve starts in the upper left quadrant, descends to cross the negative x-axis, then continues to a local minimum below the x-axis. From there, it ascends to cross the y-axis and then the positive x-axis, reaching a local maximum above the x-axis. It then descends briefly, crosses the positive x-axis again, and finally ascends continuously towards the upper right. Two small arrows are drawn on the curve: one points downwards near the local minimum, and another points upwards near the far right ascending portion of the curve.",
+      "start": 5802.0,
+      "end": 5815.0,
+      "confidence": 1.0
+    }
+  ],
+  "autoCaptions": [],
+  "sections": [],
+  "alignmentMeta": {
+    "merged_count": 1,
+    "ref_coverage": 0.009,
+    "matched_words": 103,
+    "word_coverage": 0.981,
+    "total_ref_words": 11470,
+    "total_sentences": 8,
+    "matched_sentences": 8,
+    "total_gemini_words": 105
+  }
+}

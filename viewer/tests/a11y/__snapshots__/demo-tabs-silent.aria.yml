@@ -1,0 +1,6 @@
+- tablist "Demo lectures":
+  - tab "Physics Lecture"
+  - tab "Silent Board Work" [selected]
+  - tab /Feynman \(\d+\)/
+  - tab "Advanced Algorithms"
+  - tab "Partial Derivatives"

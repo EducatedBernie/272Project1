@@ -1,0 +1,1459 @@
+{
+  "videoId": "lQ6FBA1HM3s",
+  "title": "Organic Chemistry \u2014 Nomenclature (Khan Academy)",
+  "youtubeUrl": "https://www.youtube.com/watch?v=lQ6FBA1HM3s",
+  "duration": 672.0,
+  "segments": [
+    {
+      "id": "seg-0",
+      "text": "The electron is to chemistry what money is to capitalism.",
+      "start": 0.1,
+      "end": 2.4
+    },
+    {
+      "id": "seg-1",
+      "text": "It's all about who has it, who wants it, and what they're willing to do to get it.",
+      "start": 2.4,
+      "end": 6.5
+    },
+    {
+      "id": "seg-2",
+      "text": "Electrons are what make it possible for an atom to bond with other atoms to form molecules, and when that happens, a tremendous amount of energy can be exchanged in the process.",
+      "start": 6.5,
+      "end": 14.6
+    },
+    {
+      "id": "seg-3",
+      "text": "But not all chemical reactions involve electrons changing hands; acid-base reactions, you'll recall, are more about swapping protons.",
+      "start": 16.6,
+      "end": 21.5
+    },
+    {
+      "id": "seg-4",
+      "text": "But because electrons are the real coin of the realm in chemistry, the most important reactions that take place on Earth involve the transfer of one or more electrons from one atom to another.",
+      "start": 21.5,
+      "end": 30.2
+    },
+    {
+      "id": "seg-5",
+      "text": "These are redox reactions.",
+      "start": 30.2,
+      "end": 33.1
+    },
+    {
+      "id": "seg-6",
+      "text": "Redox, which is a portmanteau of reduction-oxidation.",
+      "start": 33.1,
+      "end": 46.7
+    },
+    {
+      "id": "seg-7",
+      "text": "But what's up with those words?",
+      "start": 46.7,
+      "end": 48.7
+    },
+    {
+      "id": "seg-8",
+      "text": "You know what reduction is: making less of something.",
+      "start": 49.1,
+      "end": 51.2
+    },
+    {
+      "id": "seg-9",
+      "text": "And then oxidation maybe has something to do with oxygen?",
+      "start": 51.2,
+      "end": 53.0
+    },
+    {
+      "id": "seg-10",
+      "text": "Well, sometimes, but not always.",
+      "start": 53.0,
+      "end": 55.4
+    },
+    {
+      "id": "seg-11",
+      "text": "These are actually super terrible choices for what is actually happening in redox reactions, but we are stuck with them.",
+      "start": 55.4,
+      "end": 62.0
+    },
+    {
+      "id": "seg-12",
+      "text": "Reduction is when a substance gains electrons.",
+      "start": 62.0,
+      "end": 64.3
+    },
+    {
+      "id": "seg-13",
+      "text": "Yes, it gains, which is the opposite of what the word reduce means.",
+      "start": 64.3,
+      "end": 70.6
+    },
+    {
+      "id": "seg-14",
+      "text": "Fantastic. And yes, sometimes I want to punish the people who named these things so inaccurately, but they didn't know any better and they're all dead, so we can't do anything about it.",
+      "start": 70.6,
+      "end": 79.4
+    },
+    {
+      "id": "seg-15",
+      "text": "Protochemists would make pure metals by heating or smelting their ores.",
+      "start": 79.4,
+      "end": 81.7
+    },
+    {
+      "id": "seg-16",
+      "text": "And they noticed during the smelting that these substances would become lighter, so I guess it's not crazy that they decided to say that these substances were being reduced.",
+      "start": 81.7,
+      "end": 91.7
+    },
+    {
+      "id": "seg-17",
+      "text": "Our old French friend Antoine Lavoisier figured out that this was because oxygen gas was actually leaving the compound, making it lighter.",
+      "start": 91.7,
+      "end": 98.2
+    },
+    {
+      "id": "seg-18",
+      "text": "What he didn't know was the actual chemistry involved.",
+      "start": 98.2,
+      "end": 102.3
+    },
+    {
+      "id": "seg-19",
+      "text": "Oxygen is, unsurprisingly, the quintessential oxidizer; it pulls electrons off of one molecule to make itself more stable.",
+      "start": 102.3,
+      "end": 108.9
+    },
+    {
+      "id": "seg-20",
+      "text": "But if you heat it up enough, it gets all energetic.",
+      "start": 108.9,
+      "end": 110.8
+    },
+    {
+      "id": "seg-21",
+      "text": "Today, we understand that oxidation and reduction are all about electron transfer.",
+      "start": 110.8,
+      "end": 114.6
+    },
+    {
+      "id": "seg-22",
+      "text": "So you might think that we'd rename them, and some chemists have tried, producing terms like electronation and deelectronation, but once a set of terms is decided upon and used for a while, it's pretty difficult to uncreate it.",
+      "start": 114.6,
+      "end": 127.2
+    },
+    {
+      "id": "seg-23",
+      "text": "So we're stuck. To keep these seemingly nonsensical names straight, I rely on the phrase OIL RIG.",
+      "start": 127.2,
+      "end": 131.7
+    },
+    {
+      "id": "seg-24",
+      "text": "Oxidation is loss of electrons, reduction is gain of electrons.",
+      "start": 134.8,
+      "end": 137.8
+    },
+    {
+      "id": "seg-25",
+      "text": "We just gotta know this stuff because it's everywhere.",
+      "start": 137.8,
+      "end": 140.0
+    },
+    {
+      "id": "seg-26",
+      "text": "When your cells convert sugar into energy so you can move and breathe and think, that's redox.",
+      "start": 140.0,
+      "end": 146.2
+    },
+    {
+      "id": "seg-27",
+      "text": "When plants photosynthesize sunlight into food, that's redox.",
+      "start": 146.2,
+      "end": 149.3
+    },
+    {
+      "id": "seg-28",
+      "text": "The battery powering your laptop: redox.",
+      "start": 149.3,
+      "end": 151.7
+    },
+    {
+      "id": "seg-29",
+      "text": "Fire: also redox.",
+      "start": 151.7,
+      "end": 155.2
+    },
+    {
+      "id": "seg-30",
+      "text": "Since electron swapping is the name of the game here, when you study redox reactions, it's important, critical, absolutely essential to keep track of the electrons.",
+      "start": 155.2,
+      "end": 164.3
+    },
+    {
+      "id": "seg-31",
+      "text": "Think of them as dollars or pesos or pounds or euros; in any transaction, one person is going to gain them and the other is going to lose them.",
+      "start": 164.3,
+      "end": 171.4
+    },
+    {
+      "id": "seg-32",
+      "text": "And to stay on top of things, you have to keep tabs on who's ahead and who's behind.",
+      "start": 174.0,
+      "end": 178.2
+    },
+    {
+      "id": "seg-33",
+      "text": "Atoms are fond of sharing electrons, though, forming covalent bonds, so sometimes keeping track of where they are and where they're going to end up isn't quite so simple.",
+      "start": 178.2,
+      "end": 185.9
+    },
+    {
+      "id": "seg-34",
+      "text": "Let's think of every covalent compound like a marriage, though it's going to be a weird marriage because like there might be like six people in it, sometimes the same person several times, without commitment, no commitment, and also no emotion.",
+      "start": 187.9,
+      "end": 198.4
+    },
+    {
+      "id": "seg-35",
+      "text": "Don't think too much about it.",
+      "start": 198.4,
+      "end": 201.1
+    },
+    {
+      "id": "seg-36",
+      "text": "Like in a marriage where money gets shared, covalent compounds share electrons.",
+      "start": 201.1,
+      "end": 204.6
+    },
+    {
+      "id": "seg-37",
+      "text": "The trick is figuring out who gets the cash when the vows break.",
+      "start": 204.6,
+      "end": 209.2
+    },
+    {
+      "id": "seg-38",
+      "text": "So we've created a useful little system, assigning electrons 100% to atoms that are actually at the moment sharing them.",
+      "start": 209.2,
+      "end": 215.6
+    },
+    {
+      "id": "seg-39",
+      "text": "The number that we assign is the atom's oxidation state or oxidation number.",
+      "start": 215.6,
+      "end": 219.3
+    },
+    {
+      "id": "seg-40",
+      "text": "Even though we are of course aware of covalent bonds and the sharing of electrons, the processes are easier to follow if we imagine that the atoms are already splitting up the bank account, as if they were in an ionic or non-sharing bond.",
+      "start": 219.3,
+      "end": 230.2
+    },
+    {
+      "id": "seg-41",
+      "text": "So an atom's oxidation number is basically what its charge would be if it actually owned all of its electrons exclusively, like the newly-minted bachelors that they may become.",
+      "start": 230.2,
+      "end": 238.5
+    },
+    {
+      "id": "seg-42",
+      "text": "So to figure out those oxidation states or oxidation numbers, we have some simple rules for some atoms.",
+      "start": 238.5,
+      "end": 244.3
+    },
+    {
+      "id": "seg-43",
+      "text": "First, the oxidation number for any element by itself, whether it's monatomic or diatomic or polyatomic, like an atom of calcium or a molecule of $H_{2}$ or an even bigger molecule of sulfur $S_{8}$, the oxidation number is 0.",
+      "start": 244.3,
+      "end": 256.7
+    },
+    {
+      "id": "seg-44",
+      "text": "Atoms by definition do not have a charge; if they had a charge they would be ions, and if they're sharing with themselves they share equally.",
+      "start": 256.7,
+      "end": 265.6
+    },
+    {
+      "id": "seg-45",
+      "text": "Second, for a monatomic ion, basically a charged atom, it's simply the size or number of its charge.",
+      "start": 265.6,
+      "end": 270.0
+    },
+    {
+      "id": "seg-46",
+      "text": "So the iron(II) in $Fe^{2+}$ has an oxidation state of +2, while a chloride ion is -1.",
+      "start": 270.0,
+      "end": 275.6
+    },
+    {
+      "id": "seg-47",
+      "text": "Third, oxygen, which is unsurprisingly all over redox chemistry, almost always has an oxidation of -2, unless it happens to be in a peroxide molecule like hydrogen peroxide.",
+      "start": 278.1,
+      "end": 287.4
+    },
+    {
+      "id": "seg-48",
+      "text": "Fourth, hydrogen is +1. And fifth, fluorine is -1, as are all the other halogens most of the time.",
+      "start": 287.4,
+      "end": 293.7
+    },
+    {
+      "id": "seg-49",
+      "text": "Pretty much unless they're bonded to fluorine or oxygen because fluorine and oxygen are so bad that they can make anybody's oxidation number positive, if you know what I mean.",
+      "start": 295.9,
+      "end": 303.0
+    },
+    {
+      "id": "seg-50",
+      "text": "And those are the rules.",
+      "start": 303.0,
+      "end": 305.0
+    },
+    {
+      "id": "seg-51",
+      "text": "That's all you need to know. Now, the total of all the oxidation numbers of all the atoms in a neutral compound will add up to 0, like water with one oxygen with a -2 oxidation state and two hydrogens at +1 and voila, the neutral compound has an oxidation number of 0.",
+      "start": 304.8,
+      "end": 321.2
+    },
+    {
+      "id": "seg-52",
+      "text": "A polyatomic ion, on the other hand, has to work out to have an oxidation state that matches its charge.",
+      "start": 321.2,
+      "end": 324.3
+    },
+    {
+      "id": "seg-53",
+      "text": "So $SO_{4}^{2-}$, the sulfate ion, has four oxygens for a total of -8, but we don't have a rule for sulfur, so I guess we just give up and walk away, who cares anymore!",
+      "start": 326.9,
+      "end": 336.6
+    },
+    {
+      "id": "seg-54",
+      "text": "No, we use like third-grade algebra because we have to end up with an oxidation number of -2 for the whole compound, we know that sulfur in this particular compound has an oxidation state of +6.",
+      "start": 336.6,
+      "end": 347.4
+    },
+    {
+      "id": "seg-55",
+      "text": "But sulfur's oxidation state isn't always +6, and that's why we don't have a rule for sulfur or a lot of other elements for that matter, because oxidation states of most elements change depending on what they're bonded with.",
+      "start": 347.4,
+      "end": 358.8
+    },
+    {
+      "id": "seg-56",
+      "text": "You can use this same logic to figure out what happens when these compounds interact in redox reactions.",
+      "start": 358.8,
+      "end": 364.9
+    },
+    {
+      "id": "seg-57",
+      "text": "Molecular divorce courts of electrons changing hands, being haggled over, and traded with, some players taking big profits while others lose nearly everything.",
+      "start": 364.9,
+      "end": 374.2
+    },
+    {
+      "id": "seg-58",
+      "text": "Them's the breaks. Let's start out with a simple example: a chemical reaction that I believe has saved more lives than any other in the history of chemistry, created by a war criminal to blow people up during World War I, the Haber process.",
+      "start": 374.2,
+      "end": 386.0
+    },
+    {
+      "id": "seg-59",
+      "text": "The Haber process removes the ultra-stable elemental nitrogen from the air and combines it with hydrogen to form $NH_3$, ammonia, for use in bombs and also in fertilizer, increasing the carrying capacity of the earth by billions.",
+      "start": 386.0,
+      "end": 400.2
+    },
+    {
+      "id": "seg-60",
+      "text": "Nitrogen in the air exists as elemental diatomic nitrogen, and hydrogen likewise is also diatomic $H_2$.",
+      "start": 402.6,
+      "end": 407.0
+    },
+    {
+      "id": "seg-61",
+      "text": "So we know that starting out, all of the atoms have an oxidation state of zero.",
+      "start": 407.0,
+      "end": 411.7
+    },
+    {
+      "id": "seg-62",
+      "text": "The product of the reaction, ammonia, is a neutral compound with one nitrogen and three hydrogens.",
+      "start": 411.7,
+      "end": 417.1
+    },
+    {
+      "id": "seg-63",
+      "text": "The hydrogens each have an oxidation state of $+1$. Remember the rules? So nitrogen must have an oxidation state of $-3$.",
+      "start": 417.1,
+      "end": 423.2
+    },
+    {
+      "id": "seg-64",
+      "text": "Nitrogen thus gained electrons, its oxidation state went down, and so it was reduced.",
+      "start": 423.2,
+      "end": 427.3
+    },
+    {
+      "id": "seg-65",
+      "text": "So, at least when talking about what oxidation states are doing, the word 'reduced' makes sense.",
+      "start": 427.3,
+      "end": 433.6
+    },
+    {
+      "id": "seg-66",
+      "text": "Hydrogen lost electrons, the oxidation state went up, and it was oxidized.",
+      "start": 433.6,
+      "end": 437.8
+    },
+    {
+      "id": "seg-67",
+      "text": "Now, this is a pretty simple equation to balance, but redox equations can be a huge headache sometimes because of the number of individual atoms involved, so we often have to balance them in half-reactions.",
+      "start": 437.8,
+      "end": 448.0
+    },
+    {
+      "id": "seg-68",
+      "text": "So even though we don't really need to do the half-reactions because this is a pretty simple equation, we're going to do them anyway just because it's an example that's simple to start with.",
+      "start": 448.0,
+      "end": 455.2
+    },
+    {
+      "id": "seg-69",
+      "text": "So start out with the nitrogen getting reduced.",
+      "start": 455.2,
+      "end": 457.4
+    },
+    {
+      "id": "seg-70",
+      "text": "We have $N_2$ with an oxidation state of zero becoming $NH_3$ with an oxidation state of $-3$.",
+      "start": 457.4,
+      "end": 461.4
+    },
+    {
+      "id": "seg-71",
+      "text": "First, we balance the number of nitrogens, then add the number of electrons that we need to have to have there be the same number of electrons on each side.",
+      "start": 464.1,
+      "end": 470.7
+    },
+    {
+      "id": "seg-72",
+      "text": "Do the same with the oxidation half of the reaction and then combine them to get your whole reaction with the electrons canceling out.",
+      "start": 470.7,
+      "end": 475.5
+    },
+    {
+      "id": "seg-73",
+      "text": "Now, yes, maybe that seemed like an unnecessary step, but allow me to show you a more complicated example that will prove how necessary it may be.",
+      "start": 475.5,
+      "end": 483.2
+    },
+    {
+      "id": "seg-74",
+      "text": "In this flask is silver diamine.",
+      "start": 483.2,
+      "end": 485.2
+    },
+    {
+      "id": "seg-75",
+      "text": "We're going to use some redox chemistry to get the elemental silver out of it nice and clean and shiny, and it's not going to be no simple Haber process.",
+      "start": 486.3,
+      "end": 492.2
+    },
+    {
+      "id": "seg-76",
+      "text": "The silver diamine is going to react with an organic aldehyde, any aldehyde, actually.",
+      "start": 492.2,
+      "end": 496.4
+    },
+    {
+      "id": "seg-77",
+      "text": "The business end of the aldehyde is the $CHO$ and the $R$ in organic chemistry is a symbol for some organic group of atoms, and in this reaction, those atoms don't matter.",
+      "start": 496.4,
+      "end": 506.3
+    },
+    {
+      "id": "seg-78",
+      "text": "The silver diamine reacts with the aldehyde and hydroxide creating carboxylic acid, ammonia, and water.",
+      "start": 508.0,
+      "end": 512.5
+    },
+    {
+      "id": "seg-79",
+      "text": "First, let's assign ourselves some oxidation states.",
+      "start": 512.5,
+      "end": 514.6
+    },
+    {
+      "id": "seg-80",
+      "text": "The silver is in a complex with two neutral ammonias that are going to remain unreacted throughout the equation, so we can treat them like a single species with an oxidation state of zero.",
+      "start": 514.6,
+      "end": 524.3
+    },
+    {
+      "id": "seg-81",
+      "text": "Since the silver diamine has a charge of $+1$ and the ammonias don't affect that, silver's oxidation state must also be $+1$.",
+      "start": 524.3,
+      "end": 530.7
+    },
+    {
+      "id": "seg-82",
+      "text": "The aldehyde has one hydrogen at $+1$ and one oxygen at $-2$ but is neutral overall, so the carbon must be $+1$ as well.",
+      "start": 533.4,
+      "end": 541.7
+    },
+    {
+      "id": "seg-83",
+      "text": "The hydroxide ion is simple: $-2$ for the oxygen, $+1$ for the hydrogen, and an overall charge and thus oxidation state of $-1$.",
+      "start": 541.7,
+      "end": 548.4
+    },
+    {
+      "id": "seg-84",
+      "text": "On the reaction side, the silver is now atomic, so its oxidation state is zero.",
+      "start": 548.4,
+      "end": 552.5
+    },
+    {
+      "id": "seg-85",
+      "text": "The carboxylic acid has two oxygens and one hydrogen, so the carbon now has an oxidation state of $+3$.",
+      "start": 552.5,
+      "end": 558.7
+    },
+    {
+      "id": "seg-86",
+      "text": "The $NH_3$ remains at zero and the hydrogen and oxygen of water also haven't changed oxidation state.",
+      "start": 561.5,
+      "end": 565.1
+    },
+    {
+      "id": "seg-87",
+      "text": "So silver's oxidation state decreased, or was reduced, from $+1$ to zero while carbon was oxidized from $+1$ to $+3$.",
+      "start": 565.1,
+      "end": 572.1
+    },
+    {
+      "id": "seg-88",
+      "text": "Half-reaction time.",
+      "start": 572.1,
+      "end": 574.1
+    },
+    {
+      "id": "seg-89",
+      "text": "Silver was reduced, gaining one electron, forming elemental silver and ammonia from silver diamine.",
+      "start": 574.6,
+      "end": 578.9
+    },
+    {
+      "id": "seg-90",
+      "text": "The aldehyde was oxidized forming carboxylic acid and requiring two electrons.",
+      "start": 578.9,
+      "end": 583.1
+    },
+    {
+      "id": "seg-91",
+      "text": "With the help of those electrons, we know that at the very least we have to double the reduction half of the equation entirely in order to get the right number of electrons on both sides.",
+      "start": 583.1,
+      "end": 592.4
+    },
+    {
+      "id": "seg-92",
+      "text": "We do that, and oh god, that's good stuff.",
+      "start": 592.4,
+      "end": 595.1
+    },
+    {
+      "id": "seg-93",
+      "text": "And we combine them together for a perfectly balanced redox equation.",
+      "start": 595.1,
+      "end": 597.6
+    },
+    {
+      "id": "seg-94",
+      "text": "And now watch me take those electrons and turn them into money.",
+      "start": 599.8,
+      "end": 602.0
+    },
+    {
+      "id": "seg-95",
+      "text": "And there you have it, folks. That is pure silver coating the inside of the flask.",
+      "start": 602.0,
+      "end": 607.0
+    },
+    {
+      "id": "seg-96",
+      "text": "Thank you for watching this episode of Crash Course Chemistry.",
+      "start": 607.0,
+      "end": 609.9
+    },
+    {
+      "id": "seg-97",
+      "text": "If you were paying attention, you learned that any reaction where electrons move around from atom to atom is a redox reaction, that oxidation is the loss of electrons, and that reduction is the gain of electrons and that oxidation numbers are assigned to atoms that take part in reactions in order to keep track of what their electrons are up to.",
+      "start": 609.9,
+      "end": 627.8
+    },
+    {
+      "id": "seg-98",
+      "text": "You also learned a few simple tricks to help figure out what an atom's oxidation state is and you got a little practice figuring out how to assign oxidation states and balance oxidation reactions with two examples, one pretty simple and another a little less so.",
+      "start": 627.8,
+      "end": 639.0
+    },
+    {
+      "id": "seg-99",
+      "text": "This episode of Crash Course Chemistry was written by Kim Krieger and myself.",
+      "start": 639.0,
+      "end": 642.2
+    },
+    {
+      "id": "seg-100",
+      "text": "Our script editor was Blake de Pastino.",
+      "start": 642.2,
+      "end": 644.2
+    },
+    {
+      "id": "seg-101",
+      "text": "Our chemistry consultant is Dr. Heiko Langner, and a troop of chemistry teachers also advised and edited this one, so thanks very much to all of them.",
+      "start": 644.2,
+      "end": 652.4
+    },
+    {
+      "id": "seg-102",
+      "text": "This episode was filmed, edited, and directed by Nicholas Jenkins.",
+      "start": 652.4,
+      "end": 656.0
+    },
+    {
+      "id": "seg-103",
+      "text": "Our sound designer and script supervisor is Michael Aranda, and our graphics team is Thought Cafe.",
+      "start": 656.0,
+      "end": 659.8
+    }
+  ],
+  "equations": [
+    {
+      "id": "eq-0",
+      "latex": "4Fe + 3O_{2} \\longrightarrow 2Fe_{2}O_{3}",
+      "description": "Chemical equation for the oxidation of iron.",
+      "start": 105.0,
+      "end": 111.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-1",
+      "latex": "\\overset{+2}{Fe^{2+}}",
+      "description": "Oxidation state of iron(II) ion.",
+      "start": 271.0,
+      "end": 277.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-2",
+      "latex": "\\overset{-1}{Cl^{-}}",
+      "description": "Oxidation state of chloride ion.",
+      "start": 271.0,
+      "end": 277.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-3",
+      "latex": "N\\overset{-2}{O}_{3}^{-}",
+      "description": "Oxidation state of oxygen in nitrate ion.",
+      "start": 279.0,
+      "end": 283.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-4",
+      "latex": "H_{2}\\overset{-2}{O}",
+      "description": "Oxidation state of oxygen in water.",
+      "start": 279.0,
+      "end": 283.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-5",
+      "latex": "\\overset{\\pm 0}{O}_{2}",
+      "description": "Oxidation state of elemental oxygen.",
+      "start": 284.0,
+      "end": 287.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-6",
+      "latex": "H_{2}\\overset{-1}{O}_{2}",
+      "description": "Oxidation state of oxygen in hydrogen peroxide.",
+      "start": 284.0,
+      "end": 287.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-7",
+      "latex": "\\overset{+1}{H}_{2}O",
+      "description": "Oxidation state of hydrogen in water.",
+      "start": 289.0,
+      "end": 291.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-8",
+      "latex": "\\overset{+1}{H}Cl",
+      "description": "Oxidation state of hydrogen in hydrochloric acid.",
+      "start": 289.0,
+      "end": 291.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-9",
+      "latex": "\\overset{+1}{H}_{2}\\overset{-2}{O}",
+      "description": "Sum of oxidation states in water.",
+      "start": 293.0,
+      "end": 294.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-10",
+      "latex": "S\\overset{-2}{O}_{4}^{2-}",
+      "description": "Calculation of sulfur's oxidation state in the sulfate ion.",
+      "start": 323.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-11",
+      "latex": "-2 \\cdot 4 = -8",
+      "description": "Total contribution of oxygen to the oxidation state.",
+      "start": 331.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-12",
+      "latex": "S + (-8) = -2",
+      "description": "Setting up the equation for sulfur's oxidation state (S).",
+      "start": 339.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-13",
+      "latex": "+6 + (-8) = -2",
+      "description": "Solving for S.",
+      "start": 342.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-14",
+      "latex": "\\overset{+6}{S}\\overset{-2}{O}_{4}^{2-}",
+      "description": "Final oxidation states in sulfate ion.",
+      "start": 346.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-15",
+      "latex": "\\overset{\\pm 0}{N_{2}} + 3 \\overset{\\pm 0}{H_{2}} = 2 \\overset{-3}{N} \\overset{+1}{H_{3}}",
+      "description": "Chemical equation for the Haber process with oxidation states assigned and arrows indicating oxidation and reduction.",
+      "start": 393.0,
+      "end": 438.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-16",
+      "latex": "N_{2} + 3e^{-} \\rightarrow 2NH_{3}",
+      "description": "Nitrogen reduction half-reaction as presented in the simplified animation.",
+      "start": 457.0,
+      "end": 471.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-17",
+      "latex": "3H_{2} \\rightarrow 2NH_{3} + 3e^{-}",
+      "description": "Hydrogen oxidation half-reaction as presented in the simplified animation.",
+      "start": 471.0,
+      "end": 477.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-18",
+      "latex": "[ Ag (NH_{3})_{2} ]^{+} + 1e^{-} = \\overset{0}{Ag} + 2NH_{3}",
+      "description": "Reduction half-reaction for silver diamine with oxidation state labels and reduction arrow.",
+      "start": 575.0,
+      "end": 580.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-19",
+      "latex": "\\overset{+1}{R-CHO} + 2OH^{-} = \\overset{+3}{R-COOH} + H_{2}O + 2e^{-}",
+      "description": "Oxidation half-reaction for the aldehyde with oxidation state labels and oxidation arrow.",
+      "start": 580.0,
+      "end": 584.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-20",
+      "latex": "\\begin{aligned} & R-CHO + 2OH^{-} = R-COOH + H_{2}O + 2e^{-} \\\\ & 2 [ Ag (NH_{3})_{2} ]^{+} + 2e^{-} = 2Ag + 4NH_{3} \\\\ & \\text{---} \\\\ & 2 [ Ag (NH_{3})_{2} ]^{+} + R-CHO + 2OH^{-} = 2Ag + 4NH_{3} + R-COOH + H_{2}O \\end{aligned}",
+      "description": "The process of multiplying the reduction half-reaction by 2 and combining both half-reactions to find the final balanced equation.",
+      "start": 584.0,
+      "end": 600.0,
+      "confidence": 1.0
+    }
+  ],
+  "visualContent": [
+    {
+      "id": "vc-0",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Two pink circles each containing a white plus sign, representing protons.",
+      "start": 19.0,
+      "end": 22.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-1",
+      "contentType": "slide",
+      "latex": "",
+      "description": "ACID BASE REACTIONS\nSWAPPING PROTONS",
+      "start": 19.0,
+      "end": 22.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-2",
+      "contentType": "slide",
+      "latex": "",
+      "description": "REDOX REACTION\nREDUCTION-OXIDATION REACTIONS",
+      "start": 32.0,
+      "end": 34.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-3",
+      "contentType": "slide",
+      "latex": "",
+      "description": "PORTMANTEAU [port-man-teau] noun\n1: A LARGE SUITCASE\n2: A WORD OR MORPHEME WHOSE FORM AND MEANING ARE DERIVED FROM A BLENDING OF TWO OR MORE DISTINCT FORMS (AS SMOG FROM SMOKE AND FOG)",
+      "start": 34.0,
+      "end": 37.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-4",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Sec 10-0 REDOX REACTIONS",
+      "start": 45.0,
+      "end": 47.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-5",
+      "contentType": "slide",
+      "latex": "",
+      "description": "REDUCTION",
+      "start": 64.0,
+      "end": 66.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-6",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Fig 10.1 ANTOINE LAVOISIER\nMOL-E-COOL!\nAntoine. He's a gas... Not a real gas.",
+      "start": 93.0,
+      "end": 102.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-7",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OXYGEN",
+      "start": 104.0,
+      "end": 111.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-8",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A diagram illustrating the reaction between four iron atoms (represented as blue circles labeled Fe) and three oxygen molecules (represented as pairs of pink circles labeled O) to form iron(III) oxide (represented as a lattice cluster of pink and blue circles).",
+      "start": 104.0,
+      "end": 111.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-9",
+      "contentType": "equation",
+      "latex": "4Fe + 3O_{2} \\longrightarrow 2Fe_{2}O_{3}",
+      "description": "Chemical equation for the oxidation of iron.",
+      "start": 105.0,
+      "end": 111.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-10",
+      "contentType": "slide",
+      "latex": "",
+      "description": "ELECTRON TRANSFER",
+      "start": 114.0,
+      "end": 117.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-11",
+      "contentType": "slide",
+      "latex": "",
+      "description": "ELECTRONATION",
+      "start": 119.0,
+      "end": 121.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-12",
+      "contentType": "slide",
+      "latex": "",
+      "description": "DEELECTRONATION",
+      "start": 122.0,
+      "end": 123.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-13",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A diagram showing a sodium atom (Na+) losing an electron (a small minus sign) to a chlorine atom (Cl-).",
+      "start": 134.0,
+      "end": 137.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-14",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OIL\nOXIDATION IS LOSS OF ELECTRONS",
+      "start": 134.0,
+      "end": 137.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-15",
+      "contentType": "slide",
+      "latex": "",
+      "description": "RIG\nREDUCTION IS GAIN OF ELECTRONS",
+      "start": 138.0,
+      "end": 140.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-16",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "The same diagram showing the chlorine atom (Cl-) gaining the electron previously lost by the sodium atom.",
+      "start": 138.0,
+      "end": 140.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-17",
+      "contentType": "slide",
+      "latex": "",
+      "description": "ELECTRON",
+      "start": 163.0,
+      "end": 169.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-18",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Symbol for an electron: a circle with a minus sign inside.",
+      "start": 163.0,
+      "end": 169.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-19",
+      "contentType": "slide",
+      "latex": "",
+      "description": "COVALENT BONDS",
+      "start": 179.0,
+      "end": 182.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-20",
+      "contentType": "slide",
+      "latex": "",
+      "description": "COVALENT COMPOUNDS\nSHARE ELECTRONS",
+      "start": 203.0,
+      "end": 206.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-21",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OXIDATION STATE",
+      "start": 218.0,
+      "end": 220.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-22",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OXIDATION NUMBER",
+      "start": 232.0,
+      "end": 234.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-23",
+      "contentType": "slide",
+      "latex": "",
+      "description": "DIATOMIC",
+      "start": 250.0,
+      "end": 251.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-24",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Rule one\nCALCIUM",
+      "start": 252.0,
+      "end": 253.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-25",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A red circle with 'Ca' inside representing a calcium atom.",
+      "start": 252.0,
+      "end": 253.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-26",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Rule one\nHYDROGEN",
+      "start": 254.0,
+      "end": 255.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-27",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A white circle with 'H2' inside representing a hydrogen molecule.",
+      "start": 254.0,
+      "end": 255.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-28",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Rule one\nSULFUR",
+      "start": 256.0,
+      "end": 258.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-29",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A cluster of 8 yellow circles with an 'S8' label in the middle, representing a sulfur molecule.",
+      "start": 256.0,
+      "end": 258.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-30",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Rule two\nMONATOMIC ION\nOXIDATION NUMBER = CHARGE OF ION",
+      "start": 267.0,
+      "end": 277.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-31",
+      "contentType": "equation",
+      "latex": "\\overset{+2}{Fe^{2+}}",
+      "description": "Oxidation state of iron(II) ion.",
+      "start": 271.0,
+      "end": 277.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-32",
+      "contentType": "equation",
+      "latex": "\\overset{-1}{Cl^{-}}",
+      "description": "Oxidation state of chloride ion.",
+      "start": 271.0,
+      "end": 277.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-33",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Rule three\nOXYGEN\nOXIDATION STATE = -2",
+      "start": 278.0,
+      "end": 283.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-34",
+      "contentType": "equation",
+      "latex": "N\\overset{-2}{O}_{3}^{-}",
+      "description": "Oxidation state of oxygen in nitrate ion.",
+      "start": 279.0,
+      "end": 283.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-35",
+      "contentType": "equation",
+      "latex": "H_{2}\\overset{-2}{O}",
+      "description": "Oxidation state of oxygen in water.",
+      "start": 279.0,
+      "end": 283.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-36",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OXYGEN\nEXCEPTIONS",
+      "start": 284.0,
+      "end": 287.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-37",
+      "contentType": "equation",
+      "latex": "\\overset{\\pm 0}{O}_{2}",
+      "description": "Oxidation state of elemental oxygen.",
+      "start": 284.0,
+      "end": 287.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-38",
+      "contentType": "equation",
+      "latex": "H_{2}\\overset{-1}{O}_{2}",
+      "description": "Oxidation state of oxygen in hydrogen peroxide.",
+      "start": 284.0,
+      "end": 287.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-39",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Rule four\nHYDROGEN\nOXIDATION STATE = +1",
+      "start": 288.0,
+      "end": 291.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-40",
+      "contentType": "equation",
+      "latex": "\\overset{+1}{H}_{2}O",
+      "description": "Oxidation state of hydrogen in water.",
+      "start": 289.0,
+      "end": 291.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-41",
+      "contentType": "equation",
+      "latex": "\\overset{+1}{H}Cl",
+      "description": "Oxidation state of hydrogen in hydrochloric acid.",
+      "start": 289.0,
+      "end": 291.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-42",
+      "contentType": "slide",
+      "latex": "",
+      "description": "NEUTRAL COMPOUND\nSUM OF ALL OXIDATION STATES = 0",
+      "start": 291.0,
+      "end": 294.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-43",
+      "contentType": "equation",
+      "latex": "\\overset{+1}{H}_{2}\\overset{-2}{O}",
+      "description": "Sum of oxidation states in water.",
+      "start": 293.0,
+      "end": 294.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-44",
+      "contentType": "slide",
+      "latex": "",
+      "description": "POLYATOMIC ION",
+      "start": 322.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-45",
+      "contentType": "equation",
+      "latex": "S\\overset{-2}{O}_{4}^{2-}",
+      "description": "Calculation of sulfur's oxidation state in the sulfate ion.",
+      "start": 323.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-46",
+      "contentType": "equation",
+      "latex": "-2 \\cdot 4 = -8",
+      "description": "Total contribution of oxygen to the oxidation state.",
+      "start": 331.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-47",
+      "contentType": "equation",
+      "latex": "S + (-8) = -2",
+      "description": "Setting up the equation for sulfur's oxidation state (S).",
+      "start": 339.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-48",
+      "contentType": "equation",
+      "latex": "+6 + (-8) = -2",
+      "description": "Solving for S.",
+      "start": 342.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-49",
+      "contentType": "equation",
+      "latex": "\\overset{+6}{S}\\overset{-2}{O}_{4}^{2-}",
+      "description": "Final oxidation states in sulfate ion.",
+      "start": 346.0,
+      "end": 348.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-50",
+      "contentType": "slide",
+      "latex": "",
+      "description": "REDOX REACTION\nREDUCTION-OXIDATION REACTIONS",
+      "start": 364.0,
+      "end": 366.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-51",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "An animation titled Molecular Divorce Court. It depicts characters representing atoms in a courtroom setting. A judge sits behind a desk with a nameplate that reads MOLECULAR DIVORCE COURT. Two characters stand before the judge: one wearing a mask and holding a sign that says I GET HALF, and another wearing a suit and holding a sign that says WILL WORK FOR FOOD. Other characters include a person in a suit, a girl with pigtails, a character made of fries in a tuxedo, and a woman holding a loaf of bread. The background is pink.",
+      "start": 366.0,
+      "end": 374.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-52",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "An image labeled Fig 10.2 FRITZ HABER showing a portrait of Fritz Haber wearing glasses. A speech bubble next to him contains the text: MOL-E-COOL! Haber...H\u00fcbe. The background features molecular structures.",
+      "start": 388.0,
+      "end": 390.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-53",
+      "contentType": "slide",
+      "latex": "",
+      "description": "AMMONIA",
+      "start": 393.0,
+      "end": 438.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-54",
+      "contentType": "equation",
+      "latex": "\\overset{\\pm 0}{N_{2}} + 3 \\overset{\\pm 0}{H_{2}} = 2 \\overset{-3}{N} \\overset{+1}{H_{3}}",
+      "description": "Chemical equation for the Haber process with oxidation states assigned and arrows indicating oxidation and reduction.",
+      "start": 393.0,
+      "end": 438.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-55",
+      "contentType": "equation",
+      "latex": "N_{2} + 3e^{-} \\rightarrow 2NH_{3}",
+      "description": "Nitrogen reduction half-reaction as presented in the simplified animation.",
+      "start": 457.0,
+      "end": 471.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-56",
+      "contentType": "equation",
+      "latex": "3H_{2} \\rightarrow 2NH_{3} + 3e^{-}",
+      "description": "Hydrogen oxidation half-reaction as presented in the simplified animation.",
+      "start": 471.0,
+      "end": 477.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-57",
+      "contentType": "slide",
+      "latex": "",
+      "description": "SILVER DIAMINE\n[Ag(NH3)2]+",
+      "start": 494.0,
+      "end": 496.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-58",
+      "contentType": "slide",
+      "latex": "",
+      "description": "ALDEHYDE\nR-CHO",
+      "start": 499.0,
+      "end": 506.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-59",
+      "contentType": "slide",
+      "latex": "",
+      "description": "SILVER DIAMINE\nOXIDATION STATE = 0\n+1   \u00b10\n[ Ag (NH3)2 ]+",
+      "start": 515.0,
+      "end": 533.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-60",
+      "contentType": "slide",
+      "latex": "",
+      "description": "ALDEHYDE\nOXIDATION STATE = 0\n+1 +1 -2\nR-CHO",
+      "start": 534.0,
+      "end": 542.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-61",
+      "contentType": "slide",
+      "latex": "",
+      "description": "HYDROXIDE ION\nOXIDATION STATE = -1\n-2 +1\nOH-",
+      "start": 543.0,
+      "end": 549.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-62",
+      "contentType": "slide",
+      "latex": "",
+      "description": "CARBOXYLIC ACID\nOXIDATION STATE = 0\n+3 -2 -2 +1\nR-COOH",
+      "start": 554.0,
+      "end": 561.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-63",
+      "contentType": "slide",
+      "latex": "",
+      "description": "REDUCTION HALF REACTION",
+      "start": 575.0,
+      "end": 580.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-64",
+      "contentType": "equation",
+      "latex": "[ Ag (NH_{3})_{2} ]^{+} + 1e^{-} = \\overset{0}{Ag} + 2NH_{3}",
+      "description": "Reduction half-reaction for silver diamine with oxidation state labels and reduction arrow.",
+      "start": 575.0,
+      "end": 580.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-65",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OXIDATION HALF REACTION",
+      "start": 580.0,
+      "end": 584.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-66",
+      "contentType": "equation",
+      "latex": "\\overset{+1}{R-CHO} + 2OH^{-} = \\overset{+3}{R-COOH} + H_{2}O + 2e^{-}",
+      "description": "Oxidation half-reaction for the aldehyde with oxidation state labels and oxidation arrow.",
+      "start": 580.0,
+      "end": 584.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-67",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OVERALL REDOX REACTION",
+      "start": 584.0,
+      "end": 600.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-68",
+      "contentType": "equation",
+      "latex": "\\begin{aligned} & R-CHO + 2OH^{-} = R-COOH + H_{2}O + 2e^{-} \\\\ & 2 [ Ag (NH_{3})_{2} ]^{+} + 2e^{-} = 2Ag + 4NH_{3} \\\\ & \\text{---} \\\\ & 2 [ Ag (NH_{3})_{2} ]^{+} + R-CHO + 2OH^{-} = 2Ag + 4NH_{3} + R-COOH + H_{2}O \\end{aligned}",
+      "description": "The process of multiplying the reduction half-reaction by 2 and combining both half-reactions to find the final balanced equation.",
+      "start": 584.0,
+      "end": 600.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-69",
+      "contentType": "slide",
+      "latex": "",
+      "description": "REDOX REACTIONS\nOXIDATION\nREDUCTION\nOXIDATION NUMBERS\nREDOX REACTIONS\nOXIDATION REACTIONS\nBALANCING OXIDATION REACTIONS",
+      "start": 611.0,
+      "end": 640.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-70",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Writers Kim Krieger & Hank Green Script Editors Blake de Pastino Chemistry Consultant Dr. Heiko Langner Director Nicholas Jenkins Script Supervisor Michael Aranda Sound Design Michael Aranda Graphics Team Thought Cafe Suzanna Brusikiewicz Jonathan Carbiere Nick Counter Tyler Sammy James Tuer Adam Winnik Corey MacDonald Special Thanks to Addie Clark Chris Conley Edi Gonzalez Lucas Moore Julia Rasinski Rachel Wentz",
+      "start": 641.0,
+      "end": 663.0,
+      "confidence": 1.0
+    }
+  ],
+  "autoCaptions": [],
+  "sections": [
+    {
+      "title": "Fundamentals of Redox and Oxidation States",
+      "end_time": "6:00",
+      "start_time": "0:00",
+      "description": "Introduces the concepts of oxidation and reduction, explains the OIL RIG mnemonic, and provides the fundamental rules for assigning oxidation numbers to atoms and molecules."
+    },
+    {
+      "title": "Applying Half-Reactions to Balance Equations",
+      "end_time": "11:02",
+      "start_time": "6:00",
+      "description": "Demonstrates how to track electron transfers and balance chemical equations using the Haber process and the silver diamine reaction as practical examples."
+    }
+  ],
+  "alignmentMeta": {}
+}

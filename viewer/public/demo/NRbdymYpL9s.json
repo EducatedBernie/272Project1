@@ -1,0 +1,406 @@
+{
+  "videoId": "NRbdymYpL9s",
+  "title": "Simple Derivation",
+  "youtubeUrl": "https://www.youtube.com/watch?v=NRbdymYpL9s",
+  "duration": 76.0,
+  "segments": [
+    {
+      "id": "seg-0",
+      "text": "Hi, so today I just wanted to showcase the derivation of something.",
+      "start": 1.9,
+      "end": 5.4
+    },
+    {
+      "id": "seg-1",
+      "text": "I'm not going to narrate the math, I'll just showcase the step one by one on my screen.",
+      "start": 8.2,
+      "end": 12.6
+    },
+    {
+      "id": "seg-2",
+      "text": "And, yeah, let's go ahead.",
+      "start": 12.6,
+      "end": 17.4
+    },
+    {
+      "id": "seg-3",
+      "text": "So this is the equation $ax^2 + bx + c = 0$ we're looking at.",
+      "start": 17.4,
+      "end": 19.3
+    },
+    {
+      "id": "seg-4",
+      "text": "And step one, we're going to isolate the $x$ terms.",
+      "start": 19.3,
+      "end": 22.8
+    },
+    {
+      "id": "seg-5",
+      "text": "So that's what I do $ax^2 + bx = -c$.",
+      "start": 22.8,
+      "end": 25.4
+    },
+    {
+      "id": "seg-6",
+      "text": "And then we're going to divide through $x^2 + \\left(\\frac{b}{a}\\right)x = -\\frac{c}{a}$.",
+      "start": 28.7,
+      "end": 30.7
+    },
+    {
+      "id": "seg-7",
+      "text": "The next step is to complete the square $x^2 + \\left(\\frac{b}{a}\\right)x + \\left(\\frac{b}{2a}\\right)^2 = -\\frac{c}{a} + \\left(\\frac{b}{2a}\\right)^2$.",
+      "start": 35.2,
+      "end": 38.4
+    },
+    {
+      "id": "seg-8",
+      "text": "And the step after that is factoring the left side $\\left(x + \\frac{b}{2a}\\right)^2 = \\frac{b^2 - 4ac}{4a^2}$.",
+      "start": 45.6,
+      "end": 48.6
+    },
+    {
+      "id": "seg-9",
+      "text": "It factors nicely. And now we take the square root of both sides $x + \\frac{b}{2a} = \\pm \\frac{\\sqrt{b^2 - 4ac}}{2a}$.",
+      "start": 54.3,
+      "end": 57.4
+    },
+    {
+      "id": "seg-10",
+      "text": "And then we isolate the $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.",
+      "start": 64.5,
+      "end": 66.5
+    },
+    {
+      "id": "seg-11",
+      "text": "Yeah, hopefully you enjoyed.",
+      "start": 71.5,
+      "end": 73.5
+    }
+  ],
+  "equations": [
+    {
+      "id": "eq-0",
+      "latex": "ax^2 + bx + c = 0",
+      "description": "Standard form of a quadratic equation.",
+      "start": 0,
+      "end": 20,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "eq-1",
+      "latex": "ax^2 + bx = -c",
+      "description": "Subtracting $c$ from both sides to isolate the $x$ terms.",
+      "start": 24,
+      "end": 27,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "eq-2",
+      "latex": "x^2 + \\left(\\frac{b}{a}\\right)x = -\\frac{c}{a}",
+      "description": "Dividing the entire equation by $a$.",
+      "start": 31,
+      "end": 35,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "eq-3",
+      "latex": "\\left(\\frac{b}{a}\\right)x + \\left(\\frac{b}{2a}\\right)^2 = -\\frac{c}{a} + \\left(\\frac{b}{2a}\\right)^2",
+      "description": "Adding the square of half the $x$-coefficient to both sides to complete the square.",
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "eq-4",
+      "latex": "\\left(x + \\frac{b}{2a}\\right)^2 = \\frac{(b^2 - 4ac)}{4a^2}",
+      "description": "Factoring the left side into a perfect square and simplifying the right side.",
+      "start": 49,
+      "end": 52,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "eq-5",
+      "latex": "x + \\frac{b}{2a} = \\pm \\frac{\\sqrt{b^2 - 4ac}}{2a}",
+      "description": "Taking the square root of both sides.",
+      "start": 57,
+      "end": 60,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "eq-6",
+      "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "description": "Isolating $x$ to find the final quadratic formula.",
+      "start": 65,
+      "end": 70,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    }
+  ],
+  "visualContent": [
+    {
+      "id": "vc-0",
+      "contentType": "equation",
+      "latex": "ax^2 + bx + c = 0",
+      "description": "Standard form of a quadratic equation.",
+      "start": 0,
+      "end": 20,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "vc-1",
+      "contentType": "equation",
+      "latex": "ax^2 + bx = -c",
+      "description": "Subtracting $c$ from both sides to isolate the $x$ terms.",
+      "start": 24,
+      "end": 27,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "vc-2",
+      "contentType": "equation",
+      "latex": "x^2 + \\left(\\frac{b}{a}\\right)x = -\\frac{c}{a}",
+      "description": "Dividing the entire equation by $a$.",
+      "start": 31,
+      "end": 35,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "vc-3",
+      "contentType": "equation",
+      "latex": "\\left(\\frac{b}{a}\\right)x + \\left(\\frac{b}{2a}\\right)^2 = -\\frac{c}{a} + \\left(\\frac{b}{2a}\\right)^2",
+      "description": "Adding the square of half the $x$-coefficient to both sides to complete the square.",
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "vc-4",
+      "contentType": "equation",
+      "latex": "\\left(x + \\frac{b}{2a}\\right)^2 = \\frac{(b^2 - 4ac)}{4a^2}",
+      "description": "Factoring the left side into a perfect square and simplifying the right side.",
+      "start": 49,
+      "end": 52,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "vc-5",
+      "contentType": "equation",
+      "latex": "x + \\frac{b}{2a} = \\pm \\frac{\\sqrt{b^2 - 4ac}}{2a}",
+      "description": "Taking the square root of both sides.",
+      "start": 57,
+      "end": 60,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    },
+    {
+      "id": "vc-6",
+      "contentType": "equation",
+      "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "description": "Isolating $x$ to find the final quadratic formula.",
+      "start": 65,
+      "end": 70,
+      "confidence": 1.0,
+      "section": "Mathematical Equation Derivation"
+    }
+  ],
+  "autoCaptions": [
+    {
+      "start": 1.9,
+      "end": 8.2,
+      "text": "Hi. So today I just wanted to showcase"
+    },
+    {
+      "start": 5.4,
+      "end": 10.1,
+      "text": "um you know the derivation of something."
+    },
+    {
+      "start": 8.2,
+      "end": 12.6,
+      "text": "I'm not going to narrate the math. Um"
+    },
+    {
+      "start": 10.1,
+      "end": 17.4,
+      "text": "I'll just showcase the step one by step"
+    },
+    {
+      "start": 12.6,
+      "end": 19.3,
+      "text": "one by one on my screen. And um yeah,"
+    },
+    {
+      "start": 17.4,
+      "end": 22.8,
+      "text": "let's go ahead. So this is the equation"
+    },
+    {
+      "start": 19.3,
+      "end": 25.4,
+      "text": "we're looking at. In step one, um we're"
+    },
+    {
+      "start": 22.8,
+      "end": 28.7,
+      "text": "going to isolate the x terms. So that's"
+    },
+    {
+      "start": 25.4,
+      "end": 33.1,
+      "text": "what I do."
+    },
+    {
+      "start": 28.7,
+      "end": 33.1,
+      "text": "And then we're going to divide through."
+    },
+    {
+      "start": 35.2,
+      "end": 41.4,
+      "text": "Um the next step is to complete the"
+    },
+    {
+      "start": 38.4,
+      "end": 41.4,
+      "text": "square"
+    },
+    {
+      "start": 45.6,
+      "end": 52.0,
+      "text": "and the step after that is factoring uh"
+    },
+    {
+      "start": 48.6,
+      "end": 52.0,
+      "text": "the left side."
+    },
+    {
+      "start": 54.3,
+      "end": 61.3,
+      "text": "It factors nicely. And now we take the"
+    },
+    {
+      "start": 57.4,
+      "end": 61.3,
+      "text": "square root of both sides"
+    },
+    {
+      "start": 64.5,
+      "end": 68.8,
+      "text": "and then we isolate the x."
+    },
+    {
+      "start": 71.5,
+      "end": 77.4,
+      "text": "Yeah. Hopefully you enjoyed uh watching"
+    },
+    {
+      "start": 74.9,
+      "end": 77.4,
+      "text": "this process."
+    }
+  ],
+  "sections": [
+    {
+      "start_time": "00:00",
+      "end_time": "01:14",
+      "title": "Mathematical Equation Derivation",
+      "description": "The presenter demonstrates isolating terms, completing the square, and taking square roots to solve a quadratic equation."
+    }
+  ],
+  "alignmentMeta": {
+    "matched_sentences": 13,
+    "total_sentences": 13,
+    "matched_words": 110,
+    "total_gemini_words": 111,
+    "total_ref_words": 128,
+    "word_coverage": 0.991,
+    "ref_coverage": 0.8594,
+    "unmatched_ref_words": [
+      {
+        "time": 5.4,
+        "word": "um"
+      },
+      {
+        "time": 5.4,
+        "word": "you"
+      },
+      {
+        "time": 5.4,
+        "word": "know"
+      },
+      {
+        "time": 8.2,
+        "word": "um"
+      },
+      {
+        "time": 10.1,
+        "word": "step"
+      },
+      {
+        "time": 12.6,
+        "word": "one"
+      },
+      {
+        "time": 12.6,
+        "word": "by"
+      },
+      {
+        "time": 12.6,
+        "word": "um"
+      },
+      {
+        "time": 19.3,
+        "word": "in"
+      },
+      {
+        "time": 19.3,
+        "word": "um"
+      },
+      {
+        "time": 22.8,
+        "word": "x"
+      },
+      {
+        "time": 35.2,
+        "word": "um"
+      },
+      {
+        "time": 45.6,
+        "word": "uh"
+      },
+      {
+        "time": 64.5,
+        "word": "x"
+      },
+      {
+        "time": 71.5,
+        "word": "uh"
+      },
+      {
+        "time": 71.5,
+        "word": "watching"
+      },
+      {
+        "time": 74.9,
+        "word": "this"
+      },
+      {
+        "time": 74.9,
+        "word": "process"
+      }
+    ],
+    "merged_count": 1
+  }
+}

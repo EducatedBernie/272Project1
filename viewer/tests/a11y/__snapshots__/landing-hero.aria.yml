@@ -1,0 +1,9 @@
+- heading "Your lecture, turned into study notes." [level=1]:
+  - text: ""
+  - emphasis: turned into study notes.
+- paragraph: Learn from comprehensive explanations or switch to a condensed review. Keep equations, code, and original lecture diagrams alongside the ideas, with citations that take you back to the source.
+- link "Create study notes":
+  - /url: /login
+- link "Book a meeting":
+  - /url: https://calendar.app.google/vEWCoPkyxMN8ZUqp8
+- text: Comprehensive + condensed Equations + original diagrams Source citations

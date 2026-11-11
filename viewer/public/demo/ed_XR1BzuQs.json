@@ -1,0 +1,2637 @@
+{
+  "videoId": "ed_XR1BzuQs",
+  "title": "This lecture introduces Lewis structures, providing step-by-step rules for drawing molecules, calculating formal charges, and understanding resonance hybrids to predict molecular stability.",
+  "youtubeUrl": "https://www.youtube.com/watch?v=ed_XR1BzuQs",
+  "duration": 2617.0,
+  "segments": [
+    {
+      "id": "seg-0",
+      "text": "Lewis structures.",
+      "start": 25.6,
+      "end": 27.6
+    },
+    {
+      "id": "seg-1",
+      "text": "So I tell students who have sort of no background in chemistry before they come into this class, and there always are some, that there's some topics in 5.111 that having no experience with the topic is actually a good thing.",
+      "start": 30.1,
+      "end": 42.3
+    },
+    {
+      "id": "seg-2",
+      "text": "And Lewis structures is one of these things.",
+      "start": 42.3,
+      "end": 44.2
+    },
+    {
+      "id": "seg-3",
+      "text": "I think if you've seen it before you're like, \"oh yeah, that's easy, I know how to do that,\" you don't practice and you get on an exam and you're like, \"oh wait a minute, I forgot how to do this.\"",
+      "start": 46.5,
+      "end": 54.4
+    },
+    {
+      "id": "seg-4",
+      "text": "And the students who haven't seen it before know all the rules and just get brilliant perfect scores on the exam and the other students are like, \"man, I forgot how to do my Lewis structures.\"",
+      "start": 54.4,
+      "end": 66.1
+    },
+    {
+      "id": "seg-5",
+      "text": "So, here are Lewis structures.",
+      "start": 66.1,
+      "end": 70.0
+    },
+    {
+      "id": "seg-6",
+      "text": "We're going to go over them.",
+      "start": 70.0,
+      "end": 71.6
+    },
+    {
+      "id": "seg-7",
+      "text": "So I really like Lewis structures because they're relatively simple.",
+      "start": 71.6,
+      "end": 77.3
+    },
+    {
+      "id": "seg-8",
+      "text": "And they work like 90% of the time they are the correct structure.",
+      "start": 77.3,
+      "end": 81.3
+    },
+    {
+      "id": "seg-9",
+      "text": "And I'm a big fan of simple things working.",
+      "start": 81.3,
+      "end": 83.7
+    },
+    {
+      "id": "seg-10",
+      "text": "If you wanted to get from 90% to 100% you'd have to, you know, use Schr\u00f6dinger's equation, but you can get 90% just with the simple Lewis structures.",
+      "start": 87.4,
+      "end": 95.7
+    },
+    {
+      "id": "seg-11",
+      "text": "I'm a big fan of that.",
+      "start": 95.7,
+      "end": 97.8
+    },
+    {
+      "id": "seg-12",
+      "text": "I love it when simple things really work pretty well.",
+      "start": 97.8,
+      "end": 99.8
+    },
+    {
+      "id": "seg-13",
+      "text": "Okay, so in Lewis structures the key to this is thinking about the electrons being shared so that you get a full valence shell.",
+      "start": 99.8,
+      "end": 112.8
+    },
+    {
+      "id": "seg-14",
+      "text": "And having the electrons distributed in such a way that all of the atoms have the number of electrons that make them happy, which is usually eight electrons, which is an octet, that noble gas configuration.",
+      "start": 112.8,
+      "end": 130.4
+    },
+    {
+      "id": "seg-15",
+      "text": "So every dot in a Lewis structure represents a valence electron.",
+      "start": 130.4,
+      "end": 136.3
+    },
+    {
+      "id": "seg-16",
+      "text": "And we can then look at some atoms and put dots around them to indicate the number of valence electrons.",
+      "start": 136.3,
+      "end": 145.0
+    },
+    {
+      "id": "seg-17",
+      "text": "So we also have to know how many valence electrons atoms have, and so why don't you just practice with that with a clicker question.",
+      "start": 147.8,
+      "end": 157.2
+    },
+    {
+      "id": "seg-18",
+      "text": "And here's a part of the periodic table up here if you need it.",
+      "start": 159.1,
+      "end": 176.6
+    },
+    {
+      "id": "seg-19",
+      "text": "How many valence electrons does fluorine ($F$) have? All right, I'm told 10 seconds, everyone was crazy fast.",
+      "start": 176.6,
+      "end": 192.2
+    },
+    {
+      "id": "seg-20",
+      "text": "Yes. So 7 is the correct answer.",
+      "start": 193.9,
+      "end": 195.9
+    },
+    {
+      "id": "seg-21",
+      "text": "You could look at the periodic table and sometimes with these it's a counting thing, so this is one where you want to always double check whether if things don't make sense.",
+      "start": 197.7,
+      "end": 208.6
+    },
+    {
+      "id": "seg-22",
+      "text": "All right. So we can put seven electrons around fluorine.",
+      "start": 210.4,
+      "end": 213.5
+    },
+    {
+      "id": "seg-23",
+      "text": "And we'll have two fluorines here, they'll both have seven electrons around them.",
+      "start": 214.6,
+      "end": 220.6
+    },
+    {
+      "id": "seg-24",
+      "text": "And now I'm going to jump to another slide, but I'm going to show you the seven again in case you haven't written them down, if you don't want to, they're not in your handout, but that's probably okay.",
+      "start": 220.6,
+      "end": 230.6
+    },
+    {
+      "id": "seg-25",
+      "text": "So when you bring them together, you can bring them together in such a way that they can all share.",
+      "start": 230.6,
+      "end": 237.3
+    },
+    {
+      "id": "seg-26",
+      "text": "And so if we put in green then one of the fluorine's seven and then we put in blue the other fluorine's seven, you can see that they can share two in the middle and both are very, very happy.",
+      "start": 237.3,
+      "end": 248.8
+    },
+    {
+      "id": "seg-27",
+      "text": "So just thinking about this really simple idea: how many electrons will give you an octet, will give you eight, and how can you put things together in such a way that allows for that to happen.",
+      "start": 248.8,
+      "end": 264.6
+    },
+    {
+      "id": "seg-28",
+      "text": "Now there are a few atoms that or elements that do not want eight in their valence shell.",
+      "start": 264.6,
+      "end": 274.8
+    },
+    {
+      "id": "seg-29",
+      "text": "And hydrogen is one of them, it just has that $1s$, so it only wants two, that's all it can handle.",
+      "start": 274.8,
+      "end": 280.5
+    },
+    {
+      "id": "seg-30",
+      "text": "So this is an exception, hydrogen is going to want two electrons.",
+      "start": 283.3,
+      "end": 286.1
+    },
+    {
+      "id": "seg-31",
+      "text": "Hydrogen loves to interact with things though, it interacts with lots and lots of things, and here hydrogen with its one valence electron is interacting with chlorine with its seven valence electrons and they are sharing two electrons forming a bond together.",
+      "start": 286.1,
+      "end": 305.4
+    },
+    {
+      "id": "seg-32",
+      "text": "So when we're talking about Lewis structures, we're talking about different kinds of electrons.",
+      "start": 305.4,
+      "end": 311.3
+    },
+    {
+      "id": "seg-33",
+      "text": "So we are talking about bonding electrons, the electrons that are involved in the bond, and also lone pair electrons.",
+      "start": 311.3,
+      "end": 319.7
+    },
+    {
+      "id": "seg-34",
+      "text": "So chlorine in $HCl$ is going to have two bonding electrons, one was its and one came from hydrogen.",
+      "start": 319.7,
+      "end": 327.2
+    },
+    {
+      "id": "seg-35",
+      "text": "And it's also going to have six lone pair electrons, or we could say three lone pairs.",
+      "start": 330.7,
+      "end": 337.2
+    },
+    {
+      "id": "seg-36",
+      "text": "So when we say a lone pair, that indicates two electrons there.",
+      "start": 337.2,
+      "end": 340.4
+    },
+    {
+      "id": "seg-37",
+      "text": "So it has one, two, three, four, five, six, or one pair, two pairs, three pairs.",
+      "start": 340.4,
+      "end": 349.4
+    },
+    {
+      "id": "seg-38",
+      "text": "Three pairs.",
+      "start": 349.4,
+      "end": 351.9
+    },
+    {
+      "id": "seg-39",
+      "text": "Now there are rules to Lewis structures, and here's the complete rule, in your handout, this wouldn't fit on one page, it's on two pages.",
+      "start": 351.9,
+      "end": 359.8
+    },
+    {
+      "id": "seg-40",
+      "text": "And these rules, if you do work these problems, you will remember these rules and they become pretty easy, but it's important to work Lewis structure problems so that they, the rules become really familiar to you.",
+      "start": 359.8,
+      "end": 375.3
+    },
+    {
+      "id": "seg-41",
+      "text": "And it takes time to work Lewis structure problems, so don't wait to the last minute to start this problem set, there's a lot of Lewis structure problems on it, which means it's not difficult, but it's going to take some time.",
+      "start": 375.3,
+      "end": 386.6
+    },
+    {
+      "id": "seg-42",
+      "text": "Alright, so let's briefly go over these rules.",
+      "start": 386.6,
+      "end": 389.8
+    },
+    {
+      "id": "seg-43",
+      "text": "First what you want to do is draw the skeleton structure, just put the atoms down.",
+      "start": 389.8,
+      "end": 395.7
+    },
+    {
+      "id": "seg-44",
+      "text": "Hydrogen and Fluorine are always going to be terminal atoms, don't put them in the middle of a molecule, that gets chemistry professors really upset to see Hydrogen in the middle with lots of bonds to things, so don't do it.",
+      "start": 395.7,
+      "end": 408.4
+    },
+    {
+      "id": "seg-45",
+      "text": "And typically the element with the lowest ionization energy goes in the middle and there are some exceptions and we'll see some of those exceptions, but that's, that should be your first guess.",
+      "start": 411.1,
+      "end": 422.3
+    },
+    {
+      "id": "seg-46",
+      "text": "You want to count the number of valence electrons, if there's a negative charge you need to count that in, or if there's a positive charge you need to subtract that from the total.",
+      "start": 422.3,
+      "end": 431.1
+    },
+    {
+      "id": "seg-47",
+      "text": "Then you want to figure out the total number of electrons needed, so everyone has their full valence shell.",
+      "start": 431.1,
+      "end": 437.2
+    },
+    {
+      "id": "seg-48",
+      "text": "You need to subtract these two to get the number of bonding electrons, and here are some of the things that it's really easy to make math mistakes here, so if your structure makes zero sense at the end go back and check your math.",
+      "start": 437.2,
+      "end": 451.7
+    },
+    {
+      "id": "seg-49",
+      "text": "Assign two bonding electrons to each bond, if any remain you want to think about whether you have double or triple bonds.",
+      "start": 451.7,
+      "end": 459.5
+    },
+    {
+      "id": "seg-50",
+      "text": "And there's only certain kinds of atoms that can have double and triple bonds, so be careful where you're putting your double and triple bonds.",
+      "start": 459.5,
+      "end": 468.4
+    },
+    {
+      "id": "seg-51",
+      "text": "If any valence electrons remain those are lone pairs, and then lastly you want to figure out the formal charge on all the atoms in your structure to make sure that this is a valid structure and we're going to talk about formal charge.",
+      "start": 468.4,
+      "end": 481.9
+    },
+    {
+      "id": "seg-52",
+      "text": "So first let's just try an example and your sheet has two examples on the same page.",
+      "start": 481.9,
+      "end": 487.4
+    },
+    {
+      "id": "seg-53",
+      "text": "We have $HCN$ and we also have $CN^-$, so we're going to do $HCN$ first, so don't fill your entire page 'cause you're going to have to write things for $CN^-$ as well.",
+      "start": 487.4,
+      "end": 498.6
+    },
+    {
+      "id": "seg-54",
+      "text": "But before we start we need to figure out which atom is likely going to be in the middle and so why don't you tell me what you think on a clicker question.",
+      "start": 498.6,
+      "end": 509.6
+    },
+    {
+      "id": "seg-55",
+      "text": "Okay, ten more seconds.",
+      "start": 547.7,
+      "end": 563.6
+    },
+    {
+      "id": "seg-56",
+      "text": "Yep, so here again we want to have one that has the lower ionization energy and you also want to consider other things like Hydrogen can't be in the middle.",
+      "start": 563.6,
+      "end": 574.8
+    },
+    {
+      "id": "seg-57",
+      "text": "Okay, and it was written that way, but sometimes they're written in a way that is not as straightforward.",
+      "start": 574.8,
+      "end": 579.2
+    },
+    {
+      "id": "seg-58",
+      "text": "Okay, so we'll put that up. Alright, so we'll go through the rules and we'll try to work this out.",
+      "start": 585.0,
+      "end": 589.2
+    },
+    {
+      "id": "seg-59",
+      "text": "So first I can write, I'm going to start this, I'll write over here.",
+      "start": 589.2,
+      "end": 593.0
+    },
+    {
+      "id": "seg-60",
+      "text": "So number one, we're just going to write $HCN$ with $C$ in the middle.",
+      "start": 593.0,
+      "end": 601.8
+    },
+    {
+      "id": "seg-61",
+      "text": "So that's the first thing we're going to do.",
+      "start": 601.8,
+      "end": 603.9
+    },
+    {
+      "id": "seg-62",
+      "text": "Next we're going to consider the valence electrons, and you can just help me out by yelling things out.",
+      "start": 603.9,
+      "end": 608.1
+    },
+    {
+      "id": "seg-63",
+      "text": "How many valence electrons does Hydrogen have?",
+      "start": 608.1,
+      "end": 612.8
+    },
+    {
+      "id": "seg-64",
+      "text": "One. What about Carbon?",
+      "start": 612.8,
+      "end": 615.9
+    },
+    {
+      "id": "seg-65",
+      "text": "Four.",
+      "start": 615.9,
+      "end": 617.9
+    },
+    {
+      "id": "seg-66",
+      "text": "And you can always check me on my math, how much does that equal?",
+      "start": 617.8,
+      "end": 622.5
+    },
+    {
+      "id": "seg-67",
+      "text": "Nitrogen?",
+      "start": 617.8,
+      "end": 619.8
+    },
+    {
+      "id": "seg-68",
+      "text": "Five.",
+      "start": 619.8,
+      "end": 621.8
+    },
+    {
+      "id": "seg-69",
+      "text": "Ten.",
+      "start": 622.5,
+      "end": 624.5
+    },
+    {
+      "id": "seg-70",
+      "text": "Excellent. There's nothing like adding simple numbers in front of 350 people to really put the stress in one's day.",
+      "start": 625.5,
+      "end": 632.7
+    },
+    {
+      "id": "seg-71",
+      "text": "Okay, so to have a complete full valence shell, what do I need for Hydrogen?",
+      "start": 632.7,
+      "end": 638.8
+    },
+    {
+      "id": "seg-72",
+      "text": "Two. What about Carbon?",
+      "start": 638.8,
+      "end": 641.5
+    },
+    {
+      "id": "seg-73",
+      "text": "Eight. Eight to be complete.",
+      "start": 641.5,
+      "end": 643.5
+    },
+    {
+      "id": "seg-74",
+      "text": "Nitrogen?",
+      "start": 645.1,
+      "end": 647.1
+    },
+    {
+      "id": "seg-75",
+      "text": "Eight. And I think if we add this up we should get 18, how's that?",
+      "start": 646.6,
+      "end": 649.2
+    },
+    {
+      "id": "seg-76",
+      "text": "Alright, so for four now, we're going to subtract these numbers from each other to tell us how many bonding electrons.",
+      "start": 649.2,
+      "end": 657.9
+    },
+    {
+      "id": "seg-77",
+      "text": "electrons we have.",
+      "start": 657.9,
+      "end": 660.4
+    },
+    {
+      "id": "seg-78",
+      "text": "So we have $18 - 10$ and we should have 8 bonding electrons.",
+      "start": 660.4,
+      "end": 665.0
+    },
+    {
+      "id": "seg-79",
+      "text": "For 5, I'm going to now assign two per bond.",
+      "start": 665.0,
+      "end": 668.7
+    },
+    {
+      "id": "seg-80",
+      "text": "So I'm going to put one here, another here, another here, another here.",
+      "start": 673.6,
+      "end": 676.5
+    },
+    {
+      "id": "seg-81",
+      "text": "So I've assigned two per bond.",
+      "start": 676.5,
+      "end": 679.4
+    },
+    {
+      "id": "seg-82",
+      "text": "And now I see if I have any left.",
+      "start": 679.4,
+      "end": 683.0
+    },
+    {
+      "id": "seg-83",
+      "text": "Do I have some left?",
+      "start": 683.0,
+      "end": 687.8
+    },
+    {
+      "id": "seg-84",
+      "text": "I've used four, I had eight, so yes, I have four more.",
+      "start": 687.8,
+      "end": 693.0
+    },
+    {
+      "id": "seg-85",
+      "text": "And if you have more bonding electrons, then you are supposed to assign those bonding electrons and think about whether it's allowed to have double or triple bonds.",
+      "start": 693.0,
+      "end": 705.6
+    },
+    {
+      "id": "seg-86",
+      "text": "Can hydrogen be involved in a double bond?",
+      "start": 705.6,
+      "end": 708.9
+    },
+    {
+      "id": "seg-87",
+      "text": "No. Carbon nitrogen?",
+      "start": 708.9,
+      "end": 712.6
+    },
+    {
+      "id": "seg-88",
+      "text": "Yes, or a triple bond. So I have four more.",
+      "start": 712.6,
+      "end": 715.2
+    },
+    {
+      "id": "seg-89",
+      "text": "So I'm going to put 1, 2, 3, 4.",
+      "start": 715.2,
+      "end": 717.2
+    },
+    {
+      "id": "seg-90",
+      "text": "So I'm going to have a triple bond between my carbon and my nitrogen.",
+      "start": 719.7,
+      "end": 722.7
+    },
+    {
+      "id": "seg-91",
+      "text": "And now I'm good.",
+      "start": 722.7,
+      "end": 725.6
+    },
+    {
+      "id": "seg-92",
+      "text": "So now I want to see do I have any extra electrons?",
+      "start": 725.6,
+      "end": 728.6
+    },
+    {
+      "id": "seg-93",
+      "text": "So for this I had 8, I mean I had 10, I used 8, so I have 2 left.",
+      "start": 728.6,
+      "end": 737.2
+    },
+    {
+      "id": "seg-94",
+      "text": "So I'm going to assign those two as a lone pair.",
+      "start": 737.2,
+      "end": 739.8
+    },
+    {
+      "id": "seg-95",
+      "text": "What about carbon?",
+      "start": 743.8,
+      "end": 746.8
+    },
+    {
+      "id": "seg-96",
+      "text": "Should I put them on hydrogen?",
+      "start": 743.8,
+      "end": 745.8
+    },
+    {
+      "id": "seg-97",
+      "text": "No.",
+      "start": 745.8,
+      "end": 747.8
+    },
+    {
+      "id": "seg-98",
+      "text": "No, carbon already has its eight because it has a, it has four bonds.",
+      "start": 746.8,
+      "end": 750.0
+    },
+    {
+      "id": "seg-99",
+      "text": "So then I'm going to put it on nitrogen.",
+      "start": 750.0,
+      "end": 757.5
+    },
+    {
+      "id": "seg-100",
+      "text": "And then the only thing left is formal charge, which we haven't talked about yet.",
+      "start": 757.5,
+      "end": 762.6
+    },
+    {
+      "id": "seg-101",
+      "text": "So before we do formal charge, I just want to do this same thing with CN^-.",
+      "start": 762.6,
+      "end": 765.9
+    },
+    {
+      "id": "seg-102",
+      "text": "And I will say, if you want to draw triple bonds, that's fine too, you don't have to indicate the dots as bonds, it's perfectly fine to write out a triple bond.",
+      "start": 774.2,
+      "end": 784.6
+    },
+    {
+      "id": "seg-103",
+      "text": "So I could have written this as well.",
+      "start": 784.6,
+      "end": 792.6
+    },
+    {
+      "id": "seg-104",
+      "text": "Okay, so let's look at CN^-. So how many, how many valence electrons does carbon have again?",
+      "start": 792.6,
+      "end": 802.4
+    },
+    {
+      "id": "seg-105",
+      "text": "4.",
+      "start": 802.4,
+      "end": 804.4
+    },
+    {
+      "id": "seg-106",
+      "text": "Nitrogen?",
+      "start": 805.2,
+      "end": 807.2
+    },
+    {
+      "id": "seg-107",
+      "text": "Am I done? No, I need to add 1 because there's a charge on this molecule of $-1$.",
+      "start": 805.2,
+      "end": 811.7
+    },
+    {
+      "id": "seg-108",
+      "text": "5.",
+      "start": 807.2,
+      "end": 809.2
+    },
+    {
+      "id": "seg-109",
+      "text": "So now, so I have 10 again.",
+      "start": 811.7,
+      "end": 821.2
+    },
+    {
+      "id": "seg-110",
+      "text": "3, I'm going to figure out how many electrons I need to complete my valence shell.",
+      "start": 821.2,
+      "end": 827.3
+    },
+    {
+      "id": "seg-111",
+      "text": "How many from carbon?",
+      "start": 827.3,
+      "end": 830.8
+    },
+    {
+      "id": "seg-112",
+      "text": "8.",
+      "start": 830.8,
+      "end": 832.8
+    },
+    {
+      "id": "seg-113",
+      "text": "Nitrogen?",
+      "start": 833.1,
+      "end": 835.1
+    },
+    {
+      "id": "seg-114",
+      "text": "So now I have 16.",
+      "start": 833.1,
+      "end": 835.1
+    },
+    {
+      "id": "seg-115",
+      "text": "8.",
+      "start": 835.1,
+      "end": 837.1
+    },
+    {
+      "id": "seg-116",
+      "text": "I will subtract now 16, or 10 from 16, and get 6 bonding electrons.",
+      "start": 839.5,
+      "end": 847.4
+    },
+    {
+      "id": "seg-117",
+      "text": "And I'm going to assign first just two of them.",
+      "start": 847.4,
+      "end": 849.9
+    },
+    {
+      "id": "seg-118",
+      "text": "So I'll assign 1, 2 here.",
+      "start": 849.9,
+      "end": 853.9
+    },
+    {
+      "id": "seg-119",
+      "text": "And then we, this is to assign.",
+      "start": 853.9,
+      "end": 855.9
+    },
+    {
+      "id": "seg-120",
+      "text": "6 says do you have any left over? I had six and I only used two, so the answer is yes, I have four more.",
+      "start": 858.5,
+      "end": 869.8
+    },
+    {
+      "id": "seg-121",
+      "text": "So I can put those in. 1, 2, 3, 4. Again we're going to have a triple bond.",
+      "start": 869.8,
+      "end": 875.0
+    },
+    {
+      "id": "seg-122",
+      "text": "And then we ask are there any electrons left?",
+      "start": 875.0,
+      "end": 878.2
+    },
+    {
+      "id": "seg-123",
+      "text": "So we had 10, we used 6 of them, and so we're going to have now 4 more here.",
+      "start": 881.5,
+      "end": 887.4
+    },
+    {
+      "id": "seg-124",
+      "text": "So now I can assign, this only has, this is not complete for carbon, so I can put a lone pair on carbon and I can put a lone pair on nitrogen and now they have their complete octet.",
+      "start": 892.1,
+      "end": 904.7
+    },
+    {
+      "id": "seg-125",
+      "text": "And we get to assign formal charge.",
+      "start": 904.7,
+      "end": 906.7
+    },
+    {
+      "id": "seg-126",
+      "text": "So I could write it this way or I could have written it with a triple bond here and don't forget to put the charge on the.",
+      "start": 908.7,
+      "end": 919.9
+    },
+    {
+      "id": "seg-127",
+      "text": "All right, so now let's consider formal charge, because we're never done with our Lewis structures until we've considered formal charge.",
+      "start": 919.9,
+      "end": 929.0
+    },
+    {
+      "id": "seg-128",
+      "text": "So formal charge is a measure of the extent to which the atom has really kind of lost or gained an electron in the process of forming this covalent bond.",
+      "start": 929.0,
+      "end": 940.0
+    },
+    {
+      "id": "seg-129",
+      "text": "So as we'll talk about, it's not the same as oxidation number where you have like sodium $+1$, but there's again, there's some differences in how many it brought to the table and what it ends up with in the end.",
+      "start": 940.0,
+      "end": 954.7
+    },
+    {
+      "id": "seg-130",
+      "text": "So there's an equation which you'll have to learn, but if you do enough of these problems, it'll be stuck in your brain and you can't purge it even if you want to.",
+      "start": 954.7,
+      "end": 962.6
+    },
+    {
+      "id": "seg-131",
+      "text": "And so formal charge, $FC$, is equal to the number of valence electrons, symbol $V$ here, minus the number of lone pair electrons, minus half of the number of bonding electrons.",
+      "start": 962.6,
+      "end": 980.4
+    },
+    {
+      "id": "seg-132",
+      "text": "So at least this equation makes sense; if you forget what they mean, you can probably think about it and it'll come back to you.",
+      "start": 980.4,
+      "end": 987.3
+    },
+    {
+      "id": "seg-133",
+      "text": "So in doing these formal charges, you want the formal charges to add up to the charge on the molecule.",
+      "start": 990.8,
+      "end": 998.2
+    },
+    {
+      "id": "seg-134",
+      "text": "So if we had $HCN$, that's a neutral molecule, so the sum of all of the formal charges must be zero, or you did something wrong.",
+      "start": 998.2,
+      "end": 1011.1
+    },
+    {
+      "id": "seg-135",
+      "text": "If it's $CN^-$, the sum of the formal charges has to add up to $-1$, or you did something wrong.",
+      "start": 1011.1,
+      "end": 1017.6
+    },
+    {
+      "id": "seg-136",
+      "text": "So this is a good way of checking your math.",
+      "start": 1017.6,
+      "end": 1020.4
+    },
+    {
+      "id": "seg-137",
+      "text": "So always remember that the sum needs to add up to the total charge on the molecule.",
+      "start": 1023.0,
+      "end": 1028.3
+    },
+    {
+      "id": "seg-138",
+      "text": "If you remember that, that's a really good check to make sure you didn't make some kind of weird math mistake and add things wrong and have an inappropriate number of lone pairs or something going on.",
+      "start": 1028.3,
+      "end": 1040.0
+    },
+    {
+      "id": "seg-139",
+      "text": "Okay, so let's calculate formal charge now on our $CN^-$ molecule up here.",
+      "start": 1040.0,
+      "end": 1043.4
+    },
+    {
+      "id": "seg-140",
+      "text": "So the formal charge now on carbon here...",
+      "start": 1043.4,
+      "end": 1048.6
+    },
+    {
+      "id": "seg-141",
+      "text": "So how many valence electrons do carbon have?",
+      "start": 1048.6,
+      "end": 1056.2
+    },
+    {
+      "id": "seg-142",
+      "text": "Four. How many lone pairs does it have?",
+      "start": 1056.2,
+      "end": 1061.2
+    },
+    {
+      "id": "seg-143",
+      "text": "It has one lone pair, two lone pair electrons; this is a total number of lone pair electrons here.",
+      "start": 1061.2,
+      "end": 1066.3
+    },
+    {
+      "id": "seg-144",
+      "text": "And then half the number of bonding electrons, so it has six bonding electrons, and half of that is three, and so that should add up to a charge of $-1$.",
+      "start": 1066.3,
+      "end": 1077.5
+    },
+    {
+      "id": "seg-145",
+      "text": "You can also instead of thinking half the number of bonding electrons, you can also just think about number of bonds if you want to do this.",
+      "start": 1077.5,
+      "end": 1087.1
+    },
+    {
+      "id": "seg-146",
+      "text": "All right, so see if you have the hang of it, let's do a clicker question.",
+      "start": 1087.1,
+      "end": 1090.4
+    },
+    {
+      "id": "seg-147",
+      "text": "Okay, most people got that right, I can't actually read the number, but that was very good.",
+      "start": 1152.2,
+      "end": 1156.1
+    },
+    {
+      "id": "seg-148",
+      "text": "It always seems wrong to put zero as the answer, but that is in fact the answer here.",
+      "start": 1156.1,
+      "end": 1160.1
+    },
+    {
+      "id": "seg-149",
+      "text": "So if we look at this again, we have five valence electrons on nitrogen, we have two lone pair electrons, and we have six bonding electrons, half of six is three, and so that's zero.",
+      "start": 1160.1,
+      "end": 1179.0
+    },
+    {
+      "id": "seg-150",
+      "text": "Or you could have said, \"Well, if this is $-1$ and the charge is $-1$, then that have to have been zero, otherwise Professor Drennan did something wrong, and that's just not possible.\"",
+      "start": 1179.0,
+      "end": 1190.0
+    },
+    {
+      "id": "seg-151",
+      "text": "So the answer there would be zero, and you can see that the total charge, total formal charge is $-1$ and the total charge on the molecule is also $-1$.",
+      "start": 1190.0,
+      "end": 1200.3
+    },
+    {
+      "id": "seg-152",
+      "text": "So again, formal charge does not equal oxidation number, it's something special.",
+      "start": 1201.2,
+      "end": 1207.0
+    },
+    {
+      "id": "seg-153",
+      "text": "It tells you kind of in this arrangement of atoms in the molecule, did this atom kind of come up with a little bit more at the end or a little bit less depending on where it started from and where it is, and we want in these structures for the formal charge to be low.",
+      "start": 1207.0,
+      "end": 1224.4
+    },
+    {
+      "id": "seg-154",
+      "text": "So we can use formal charge to decide between...",
+      "start": 1224.4,
+      "end": 1229.0
+    },
+    {
+      "id": "seg-155",
+      "text": "Using Lewis structures, so the structures with the lowest absolute values of these formal charge are more stable structures.",
+      "start": 1229.0,
+      "end": 1236.6
+    },
+    {
+      "id": "seg-156",
+      "text": "So if you have really high formal charges, that means that molecule isn't really very stable because you want low charges, you want lower energy, you want things to be, to be in a more neutral and happy state.",
+      "start": 1236.6,
+      "end": 1249.8
+    },
+    {
+      "id": "seg-157",
+      "text": "So we want to figure out which ones are going to have low charges.",
+      "start": 1249.8,
+      "end": 1255.8
+    },
+    {
+      "id": "seg-158",
+      "text": "So let's look at another example, thiocyanate ion and it has a carbon, sulfur and nitrogen in it and it has a charge of $-1$.",
+      "start": 1255.8,
+      "end": 1266.6
+    },
+    {
+      "id": "seg-159",
+      "text": "So I might tell you the ionization energies for carbon, sulfur and nitrogen and then ask you which atom do you think is going to be in the center of the molecule?",
+      "start": 1270.0,
+      "end": 1282.4
+    },
+    {
+      "id": "seg-160",
+      "text": "So what do you think, what's in the center of this molecule based on those numbers?",
+      "start": 1282.4,
+      "end": 1286.4
+    },
+    {
+      "id": "seg-161",
+      "text": "Just yell it out.",
+      "start": 1288.8,
+      "end": 1290.8
+    },
+    {
+      "id": "seg-162",
+      "text": "Sulfur. So sulfur has the lowest ionization energy and I told you that's usually the thing in the center.",
+      "start": 1291.5,
+      "end": 1296.6
+    },
+    {
+      "id": "seg-163",
+      "text": "But you can start with that, it's always good to start with that, but then you want to check the structure and make sure that the structure with sulfur in the middle has the lowest formal charge.",
+      "start": 1299.7,
+      "end": 1308.2
+    },
+    {
+      "id": "seg-164",
+      "text": "So let's take a look at that.",
+      "start": 1308.2,
+      "end": 1311.6
+    },
+    {
+      "id": "seg-165",
+      "text": "So we can draw Structure A with sulfur in the middle and then calculate the formal charges on that.",
+      "start": 1311.6,
+      "end": 1321.2
+    },
+    {
+      "id": "seg-166",
+      "text": "And if we do that, we see for the nitrogen here, nitrogen has five valence electrons, it has four lone pair electrons and it has half of four bonding electrons, so it would have a charge of, a formal charge of $FC_N = 5 - 4 - 2 = -1$ in this particular structure that has sulfur in the middle.",
+      "start": 1321.2,
+      "end": 1341.5
+    },
+    {
+      "id": "seg-167",
+      "text": "We can look at carbon, carbon has four valence electrons, four lone pair electrons and half of four bonding electrons, so it has a charge of $FC_C = 4 - 4 - 2 = -2$.",
+      "start": 1341.5,
+      "end": 1350.4
+    },
+    {
+      "id": "seg-168",
+      "text": "Then, um, we can look at sulfur, sulfur has six valence electrons, zero lone pairs and half of eight bonding electrons, so it has a formal charge of $FC_S = 6 - 0 - 4 = +2$.",
+      "start": 1354.0,
+      "end": 1364.6
+    },
+    {
+      "id": "seg-169",
+      "text": "So overall this does equal the $-1$, so it's a valid structure.",
+      "start": 1364.6,
+      "end": 1370.7
+    },
+    {
+      "id": "seg-170",
+      "text": "But is that the lowest energy one?",
+      "start": 1370.7,
+      "end": 1375.3
+    },
+    {
+      "id": "seg-171",
+      "text": "We also could put carbon in the middle or nitrogen in the middle.",
+      "start": 1375.3,
+      "end": 1378.6
+    },
+    {
+      "id": "seg-172",
+      "text": "So let's look at what this does for us.",
+      "start": 1378.6,
+      "end": 1383.8
+    },
+    {
+      "id": "seg-173",
+      "text": "So with the formal charge on nitrogen now, we have $FC_N = 5 - 4 - 2 = -1$, so that's the same.",
+      "start": 1383.8,
+      "end": 1398.1
+    },
+    {
+      "id": "seg-174",
+      "text": "Now we can look at carbon, we have now just no lone pair electrons, it has $FC_C = 4 - 0 - 4 = 0$, half of eight bonding electrons or zero.",
+      "start": 1398.1,
+      "end": 1410.6
+    },
+    {
+      "id": "seg-175",
+      "text": "And for sulfur, $FC_S = 6 - 4 - 2 = 0$, four lone pair electrons and half of four bonding electrons or zero.",
+      "start": 1410.6,
+      "end": 1420.8
+    },
+    {
+      "id": "seg-176",
+      "text": "Next, Structure C, $FC_N = 5 - 0 - 4 = +1$, zero lone pairs minus half of eight, $+1$, so that one's different.",
+      "start": 1420.8,
+      "end": 1431.2
+    },
+    {
+      "id": "seg-177",
+      "text": "Carbon, we have four valence electrons minus four lone pairs minus half of four bonding, $FC_C = 4 - 4 - 2 = -2$.",
+      "start": 1431.2,
+      "end": 1437.8
+    },
+    {
+      "id": "seg-178",
+      "text": "And for the sulfur, $FC_S = 6 - 4 - 2 = 0$, four lone pair electrons, half of four or zero.",
+      "start": 1440.9,
+      "end": 1446.0
+    },
+    {
+      "id": "seg-179",
+      "text": "So now with the clicker tell me which is most stable.",
+      "start": 1446.0,
+      "end": 1452.7
+    },
+    {
+      "id": "seg-180",
+      "text": "All right, 10 seconds.",
+      "start": 1479.4,
+      "end": 1484.1
+    },
+    {
+      "id": "seg-181",
+      "text": "I think this can be $98\\%$.",
+      "start": 1484.1,
+      "end": 1486.1
+    },
+    {
+      "id": "seg-182",
+      "text": "That's what I'm thinking. I'm feeling good.",
+      "start": 1488.1,
+      "end": 1494.2
+    },
+    {
+      "id": "seg-183",
+      "text": "Well, close.",
+      "start": 1494.2,
+      "end": 1496.6
+    },
+    {
+      "id": "seg-184",
+      "text": "Yeah.",
+      "start": 1496.6,
+      "end": 1498.6
+    },
+    {
+      "id": "seg-185",
+      "text": "What, no, no, sorry.",
+      "start": 1499.9,
+      "end": 1504.3
+    },
+    {
+      "id": "seg-186",
+      "text": "It should be B.",
+      "start": 1504.3,
+      "end": 1507.2
+    },
+    {
+      "id": "seg-187",
+      "text": "Yeah, it should be B.",
+      "start": 1507.2,
+      "end": 1511.3
+    },
+    {
+      "id": "seg-188",
+      "text": "Yeah. Sorry, I actually... yay, there we go.",
+      "start": 1511.3,
+      "end": 1513.3
+    },
+    {
+      "id": "seg-189",
+      "text": "Yeah, B is correct. So if we just look at it over here, it has the lowest number of formal charges, so the answer is B.",
+      "start": 1516.8,
+      "end": 1522.4
+    },
+    {
+      "id": "seg-190",
+      "text": "Let's, let's start with this simply.",
+      "start": 1550.7,
+      "end": 1554.3
+    },
+    {
+      "id": "seg-191",
+      "text": "Who wants to tell me why one, how they could look at this and realize one was not the correct answer?",
+      "start": 1554.3,
+      "end": 1566.2
+    },
+    {
+      "id": "seg-192",
+      "text": "I think this is on, give it a try.",
+      "start": 1566.2,
+      "end": 1569.1
+    },
+    {
+      "id": "seg-193",
+      "text": "One's not correct because if you look back at your atomic radius chart, this is pretty much doing the exact opposite of that.",
+      "start": 1569.1,
+      "end": 1577.0
+    },
+    {
+      "id": "seg-194",
+      "text": "Yeah. So helium definitely not the biggest atom there is.",
+      "start": 1577.0,
+      "end": 1583.4
+    },
+    {
+      "id": "seg-195",
+      "text": "Okay, so, so six got a lot of attention and, and so did two, and ionization energy, electron affinity and electronegativity are definitely connected to each other.",
+      "start": 1583.4,
+      "end": 1598.4
+    },
+    {
+      "id": "seg-196",
+      "text": "But there is a clue that electron affinity is, would not be the correct.",
+      "start": 1598.4,
+      "end": 1604.0
+    },
+    {
+      "id": "seg-197",
+      "text": "Does someone want to say what you might have noticed?",
+      "start": 1607.4,
+      "end": 1613.2
+    },
+    {
+      "id": "seg-198",
+      "text": "For electron affinity, um, it increases and then stops at the noble gases because noble gases do not want electrons.",
+      "start": 1613.2,
+      "end": 1621.1
+    },
+    {
+      "id": "seg-199",
+      "text": "So in this particular chart, all the noble gases are like the highest, are the highest ones in the relative area, which would mean that electron affinity would be incorrect.",
+      "start": 1621.1,
+      "end": 1630.3
+    },
+    {
+      "id": "seg-200",
+      "text": "Yep, that's right, so the noble gases were the clue.",
+      "start": 1630.3,
+      "end": 1633.0
+    },
+    {
+      "id": "seg-201",
+      "text": "Yep. Thanks. Yep.",
+      "start": 1633.0,
+      "end": 1635.0
+    },
+    {
+      "id": "seg-202",
+      "text": "And so if electron affinity also is not high at the noble gases, they're also not electronegative.",
+      "start": 1636.0,
+      "end": 1643.3
+    },
+    {
+      "id": "seg-203",
+      "text": "Noble gases just don't want extra, they don't want to lose electrons, they don't want to gain electrons, they just want to be left alone.",
+      "start": 1645.6,
+      "end": 1650.6
+    },
+    {
+      "id": "seg-204",
+      "text": "So that's... this trend is for ionization energy.",
+      "start": 1650.6,
+      "end": 1654.9
+    },
+    {
+      "id": "seg-205",
+      "text": "And because noble gases want to be left alone, they don't want to lose any of their electrons.",
+      "start": 1654.9,
+      "end": 1664.2
+    },
+    {
+      "id": "seg-206",
+      "text": "Great, so this is, this is good to be thinking about because we're finishing up now for, for the handout from last time and we're going to be talking about electronegativity again.",
+      "start": 1664.2,
+      "end": 1675.3
+    },
+    {
+      "id": "seg-207",
+      "text": "We never move very far away from a lot of these topics, they just...",
+      "start": 1675.3,
+      "end": 1679.2
+    },
+    {
+      "id": "seg-208",
+      "text": "All right, I don't need two microphones, although I don't know, I kind of like, kind of like having this one.",
+      "start": 1681.5,
+      "end": 1686.4
+    },
+    {
+      "id": "seg-209",
+      "text": "Anyway, so let's take out the handout from last time and let's finish it up.",
+      "start": 1686.4,
+      "end": 1692.6
+    },
+    {
+      "id": "seg-210",
+      "text": "We were talking about formal charge and we had looked at examples where we calculated formal charge and then we looked at which structure would be lowest in energy.",
+      "start": 1692.6,
+      "end": 1704.4
+    },
+    {
+      "id": "seg-211",
+      "text": "And that was the structure where you had the least separation between the charges on them, so the smallest absolute numbers.",
+      "start": 1704.4,
+      "end": 1712.1
+    },
+    {
+      "id": "seg-212",
+      "text": "If you have formal charges of zero, that's fantastic, that's what the molecule wants.",
+      "start": 1712.1,
+      "end": 1717.8
+    },
+    {
+      "id": "seg-213",
+      "text": "$-1, +1$ if you must, but when you start having $+2, -2$, um, that's a lot of charge separation, so that's less favorable.",
+      "start": 1721.1,
+      "end": 1728.9
+    },
+    {
+      "id": "seg-214",
+      "text": "So we're going to have more examples of that as we go along.",
+      "start": 1728.9,
+      "end": 1733.0
+    },
+    {
+      "id": "seg-215",
+      "text": "But now, what if you had calculated formal charge and they're all the same, how do you know which structure is correct?",
+      "start": 1733.0,
+      "end": 1742.2
+    },
+    {
+      "id": "seg-216",
+      "text": "So what if you have, and this is just some people are having trouble, this is the top of page four from the handout.",
+      "start": 1742.2,
+      "end": 1750.0
+    },
+    {
+      "id": "seg-217",
+      "text": "You have two valid Lewis structures that have the same formal charge, how do you know where it goes?",
+      "start": 1753.3,
+      "end": 1760.1
+    },
+    {
+      "id": "seg-218",
+      "text": "And the answer is that the negative formal charge should go on the most electronegative atom.",
+      "start": 1760.1,
+      "end": 1767.6
+    },
+    {
+      "id": "seg-219",
+      "text": "And so that's why we're sort of talking about electronegativity again.",
+      "start": 1768.9,
+      "end": 1770.4
+    },
+    {
+      "id": "seg-220",
+      "text": "And so electronegativity, remember electronegativity is high when the electron affinity is high, meaning that the atom wants to get an electron, has a high affinity for electrons, and also a high ionization energy, which means it doesn't want to give up its electrons, so that's something it likes to have electrons.",
+      "start": 1770.4,
+      "end": 1788.0
+    },
+    {
+      "id": "seg-221",
+      "text": "And so you want to put a negative value, which indicates there's more electrons, on something that's electronegative.",
+      "start": 1788.0,
+      "end": 1795.5
+    },
+    {
+      "id": "seg-222",
+      "text": "So negative on negative over here, and so that's what you're looking for, that's how you're going to make a decision.",
+      "start": 1798.0,
+      "end": 1802.6
+    },
+    {
+      "id": "seg-223",
+      "text": "So let's look in an example.",
+      "start": 1802.6,
+      "end": 1805.2
+    },
+    {
+      "id": "seg-224",
+      "text": "So here is a molecule and we're going to look at two possible Lewis structures of this with similar formal charges and decide which is the correct structure.",
+      "start": 1805.2,
+      "end": 1816.9
+    },
+    {
+      "id": "seg-225",
+      "text": "So first let me give you a couple hints that can be useful in problem sets and in exams.",
+      "start": 1816.9,
+      "end": 1820.8
+    },
+    {
+      "id": "seg-226",
+      "text": "When you see $CH_3$, that's a methyl group, and that's going to be terminal.",
+      "start": 1820.8,
+      "end": 1828.8
+    },
+    {
+      "id": "seg-227",
+      "text": "So you're going to have these three hydrogens associated with that carbon and that's going to be at an end of the molecule.",
+      "start": 1828.8,
+      "end": 1836.6
+    },
+    {
+      "id": "seg-228",
+      "text": "So it could look like one of these two things.",
+      "start": 1836.6,
+      "end": 1839.2
+    },
+    {
+      "id": "seg-229",
+      "text": "So we have the carbon, we have it attached to three hydrogens, a carbon attached to three hydrogens, and then attached to something else, this nitrogen here.",
+      "start": 1839.2,
+      "end": 1852.3
+    },
+    {
+      "id": "seg-230",
+      "text": "And this structure, which is just kind of written out in a line or a chain of atoms, we call chain molecules sometimes, often the atoms are actually written in the order in which they're attached.",
+      "start": 1852.3,
+      "end": 1866.7
+    },
+    {
+      "id": "seg-231",
+      "text": "So that's definitely true here, $CH_3$, three hydrogens attached to the carbon, so they're attached to the atom that came before in the chain.",
+      "start": 1866.7,
+      "end": 1875.4
+    },
+    {
+      "id": "seg-232",
+      "text": "The nitrogen is also going to be attached to the carbon, even though it follows the hydrogen, you're not going to have hydrogen in the middle of a bond, it's not going to be bonded to two things, hydrogen is always terminal.",
+      "start": 1875.4,
+      "end": 1888.2
+    },
+    {
+      "id": "seg-233",
+      "text": "So even though nitrogen is here, it's got to be attached to the carbon, so we have three hydrogens and then a bond between the carbon and the nitrogen.",
+      "start": 1888.2,
+      "end": 1898.5
+    },
+    {
+      "id": "seg-234",
+      "text": "Now we have a hydrogen after the nitrogen, and by this rule it should go on the nitrogen, but you might want to double-check that that's true.",
+      "start": 1898.5,
+      "end": 1904.8
+    },
+    {
+      "id": "seg-235",
+      "text": "And then we have an oxygen, again the oxygen is going to have a bond with the nitrogen, you're not going to have a bond with hydrogen in the middle, hydrogen's always terminal.",
+      "start": 1904.8,
+      "end": 1915.3
+    },
+    {
+      "id": "seg-236",
+      "text": "So the only real choice we have here is we can put the hydrogen on nitrogen or we can put the hydrogen on the oxygen here.",
+      "start": 1915.3,
+      "end": 1921.9
+    },
+    {
+      "id": "seg-237",
+      "text": "And so we can use this rule about electronegativity and formal charges to figure out which of these structures is right.",
+      "start": 1921.9,
+      "end": 1931.0
+    },
+    {
+      "id": "seg-238",
+      "text": "So in this particular case, all of the formal charges are zero on all of the atoms except there's one $-1$ charge.",
+      "start": 1931.0,
+      "end": 1940.3
+    },
+    {
+      "id": "seg-239",
+      "text": "And in this structure the $-1$ charge would be on the oxygen, and in this structure the $-1$ charge would be on the nitrogen.",
+      "start": 1940.3,
+      "end": 1949.9
+    },
+    {
+      "id": "seg-240",
+      "text": "And if everything else is zero then you have the sum of your formal charges, $-1$, equal to the charge on the molecule, which is $-1$.",
+      "start": 1949.9,
+      "end": 1958.6
+    },
+    {
+      "id": "seg-241",
+      "text": "So both of these are valid structures, both have low values of formal charge, which is right?",
+      "start": 1960.2,
+      "end": 1965.1
+    },
+    {
+      "id": "seg-242",
+      "text": "So it's going to be the structure that has the negative charge on the most electronegative atom is the right structure.",
+      "start": 1965.1,
+      "end": 1974.9
+    },
+    {
+      "id": "seg-243",
+      "text": "And so here you need to remember some of your rules about electronegativity.",
+      "start": 1974.9,
+      "end": 1978.7
+    },
+    {
+      "id": "seg-244",
+      "text": "And in terms of electronegativity, we see that oxygen has greater electronegativity than the nitrogen.",
+      "start": 1980.0,
+      "end": 1988.8
+    },
+    {
+      "id": "seg-245",
+      "text": "And so that's where we would want to put our negative charge, on the negative charge goes on the atom that's the most electronegative.",
+      "start": 1988.8,
+      "end": 1996.3
+    },
+    {
+      "id": "seg-246",
+      "text": "And that would generate the lower energy structure.",
+      "start": 1996.3,
+      "end": 1998.3
+    },
+    {
+      "id": "seg-247",
+      "text": "So if you're given a table of electronegativities, which you often are, you can look it up and validate that that's going to be the correct place, and in fact experimentally we know that that's the right structure.",
+      "start": 1998.3,
+      "end": 2013.8
+    },
+    {
+      "id": "seg-248",
+      "text": "So that works. So if you have two structures, identical formal charges, valid structures, then the last step is to think about where that negative charge should go and pick the atom that is the most electronegative.",
+      "start": 2013.8,
+      "end": 2031.2
+    },
+    {
+      "id": "seg-249",
+      "text": "All right, we have one more thing we need to talk about in Lewis structures before we start violating various rules that we.",
+      "start": 2031.2,
+      "end": 2038.3
+    },
+    {
+      "id": "seg-250",
+      "text": "We've learned, and that is that we need to talk about resonance structures.",
+      "start": 2038.3,
+      "end": 2042.8
+    },
+    {
+      "id": "seg-251",
+      "text": "And so to explain to you what a resonance structure is, it's really helpful to start with an example.",
+      "start": 2042.8,
+      "end": 2049.2
+    },
+    {
+      "id": "seg-252",
+      "text": "So that's what we're going to do.",
+      "start": 2049.2,
+      "end": 2051.1
+    },
+    {
+      "id": "seg-253",
+      "text": "And we're going to consider ozone, which is three atoms of oxygen, and we have the ozone layer which protects us from UV damage and is very valuable, and we should not destroy it with chemicals being released into the environment and, because you don't have complete say over that, always wear sunscreen.",
+      "start": 2051.1,
+      "end": 2072.6
+    },
+    {
+      "id": "seg-254",
+      "text": "Okay. So let's build up these Lewis structures and then consider what's meant by a resonance structure.",
+      "start": 2072.6,
+      "end": 2081.0
+    },
+    {
+      "id": "seg-255",
+      "text": "So here we have part of the periodic table that you're going to need.",
+      "start": 2081.0,
+      "end": 2085.6
+    },
+    {
+      "id": "seg-256",
+      "text": "And we need to think first about the valence electrons.",
+      "start": 2085.6,
+      "end": 2088.2
+    },
+    {
+      "id": "seg-257",
+      "text": "So oxygen has $6$ valence electrons and there're $3$ oxygens, so that's $18$.",
+      "start": 2088.2,
+      "end": 2094.1
+    },
+    {
+      "id": "seg-258",
+      "text": "To get a full octet for each of the oxygens, $3$ oxygens, an octet is $8$ valence electrons, so that would be $24$.",
+      "start": 2095.9,
+      "end": 2103.0
+    },
+    {
+      "id": "seg-259",
+      "text": "To figure out the number of bonding electrons, we're going to be subtracting our octet electrons from our valence electrons, so $24 - 18$ is $6$.",
+      "start": 2103.0,
+      "end": 2112.8
+    },
+    {
+      "id": "seg-260",
+      "text": "And then our next step is to assign those bonding electrons two at a time per bond.",
+      "start": 2117.5,
+      "end": 2123.6
+    },
+    {
+      "id": "seg-261",
+      "text": "So let's take a look at that. We can put one bond here between these two oxygens, one bond here between these two oxygens, and then ask, do we have any more?",
+      "start": 2123.6,
+      "end": 2133.8
+    },
+    {
+      "id": "seg-262",
+      "text": "And we do, because we had $6$ bonding electrons, we used $4$, so we have $2$ more bonding electrons.",
+      "start": 2137.4,
+      "end": 2142.7
+    },
+    {
+      "id": "seg-263",
+      "text": "So we need to make a double bond.",
+      "start": 2142.7,
+      "end": 2144.6
+    },
+    {
+      "id": "seg-264",
+      "text": "But now we have the question of where to make that double bond.",
+      "start": 2144.6,
+      "end": 2150.1
+    },
+    {
+      "id": "seg-265",
+      "text": "Am I going to put it between these two oxygens or am I going to put it between those two oxygens?",
+      "start": 2150.1,
+      "end": 2154.7
+    },
+    {
+      "id": "seg-266",
+      "text": "And so I could say, put it there.",
+      "start": 2154.7,
+      "end": 2159.6
+    },
+    {
+      "id": "seg-267",
+      "text": "But I could also, in structure $2$, put the double bond over here.",
+      "start": 2159.6,
+      "end": 2163.6
+    },
+    {
+      "id": "seg-268",
+      "text": "All right, we'll come back to that question in a minute.",
+      "start": 2163.6,
+      "end": 2167.5
+    },
+    {
+      "id": "seg-269",
+      "text": "Let's first figure out if we have any remaining valence electrons, and we do.",
+      "start": 2167.5,
+      "end": 2170.2
+    },
+    {
+      "id": "seg-270",
+      "text": "So we had we had $18$ and we've only used $6$, so we have $12$ left.",
+      "start": 2174.4,
+      "end": 2177.4
+    },
+    {
+      "id": "seg-271",
+      "text": "So we're going to put those in as lone pairs.",
+      "start": 2177.4,
+      "end": 2182.5
+    },
+    {
+      "id": "seg-272",
+      "text": "And so I can put them in over here, one set here, $1, 2, 3, 4, 5, 6$.",
+      "start": 2182.5,
+      "end": 2185.6
+    },
+    {
+      "id": "seg-273",
+      "text": "And I can also do that over here, $1, 2, 3, 4, 5, 6$.",
+      "start": 2185.6,
+      "end": 2190.4
+    },
+    {
+      "id": "seg-274",
+      "text": "And now we have two structures, so we need to think about formal charges to see if that can help differentiate structure $1$ from structure $2$.",
+      "start": 2195.1,
+      "end": 2203.0
+    },
+    {
+      "id": "seg-275",
+      "text": "Okay. And let's look at that, make sure everyone's ready.",
+      "start": 2206.6,
+      "end": 2211.8
+    },
+    {
+      "id": "seg-276",
+      "text": "And that is a clicker question.",
+      "start": 2211.8,
+      "end": 2216.3
+    },
+    {
+      "id": "seg-277",
+      "text": "So I'll put that back up.",
+      "start": 2216.3,
+      "end": 2218.3
+    },
+    {
+      "id": "seg-278",
+      "text": "Okay, so that was pretty good. So let's look at why that's the right answer, and we'll take a look at that over here.",
+      "start": 2289.8,
+      "end": 2298.0
+    },
+    {
+      "id": "seg-279",
+      "text": "So let's do the calculations.",
+      "start": 2298.0,
+      "end": 2301.4
+    },
+    {
+      "id": "seg-280",
+      "text": "So you have to remember the equation for formal charge for sure and once you do enough problems it should stick in your head pretty easily.",
+      "start": 2301.4,
+      "end": 2307.2
+    },
+    {
+      "id": "seg-281",
+      "text": "So if we look over here, so this is the formal charge on oxygen A, and there were $6$ valence electrons, there $4$ lone pair electrons minus half of the bonding electrons, there $8$ bonding electrons so that's $2$, so that's a formal charge of $0$.",
+      "start": 2307.2,
+      "end": 2325.7
+    },
+    {
+      "id": "seg-282",
+      "text": "For oxygen B over here, we again have $6$ valence electrons, and we have $2$ lone pair electrons, we have $6$ bonding electrons so half of $6$ is $3$, which is $+1$.",
+      "start": 2327.8,
+      "end": 2342.4
+    },
+    {
+      "id": "seg-283",
+      "text": "And on oxygen C over here, $6 - 6$ lone pair electrons, half of one bond, so half of $2$ is $1$, $-1$, overall the charge here is neutral and that's good because it's a neutral molecule.",
+      "start": 2343.7,
+      "end": 2359.5
+    },
+    {
+      "id": "seg-284",
+      "text": "So to do this structure faster, you have to realize that oxygen A over here is the same as C over there, so you can just copy down what you had for C is now A, B is exactly the same in the two structures so it's the same as what you calculated, and now this C was the same as this A, so we can put that same value that we calculated for A into C.",
+      "start": 2359.5,
+      "end": 2392.5
+    },
+    {
+      "id": "seg-285",
+      "text": "So they're both the same, same formal charges.",
+      "start": 2392.5,
+      "end": 2397.5
+    },
+    {
+      "id": "seg-286",
+      "text": "Which structure is correct?",
+      "start": 2397.5,
+      "end": 2401.0
+    },
+    {
+      "id": "seg-287",
+      "text": "And the answer is, both of them, and in fact you need both of them.",
+      "start": 2401.0,
+      "end": 2404.9
+    },
+    {
+      "id": "seg-288",
+      "text": "So there's data, chemists love data, and the data is that the bonds are actually equivalent in the molecule.",
+      "start": 2404.9,
+      "end": 2413.8
+    },
+    {
+      "id": "seg-289",
+      "text": "So it isn't that there's one double bond and one single bond, there's just one kind of bond in ozone and it's between a single and a double bond.",
+      "start": 2413.8,
+      "end": 2425.9
+    },
+    {
+      "id": "seg-290",
+      "text": "And so this is how one would draw that kind of thing, you would have structure $1$ here and structure $2$ here, you would put them both in brackets, and you would put this special double-headed arrow between them and that indicates that both of these structures are needed to describe the properties of the molecule.",
+      "start": 2428.1,
+      "end": 2448.2
+    },
+    {
+      "id": "seg-291",
+      "text": "You do not have a stationary double bond and a single bond, you have kind of a mixture between these two and that's what a resonance structure is.",
+      "start": 2448.2,
+      "end": 2458.1
+    },
+    {
+      "id": "seg-292",
+      "text": "So let's take a little bit more of a look at this.",
+      "start": 2461.3,
+      "end": 2463.4
+    },
+    {
+      "id": "seg-293",
+      "text": "So this is just what I had before, the experimental evidence is that the bonds are equivalent, there isn't a double and a single, there's something in between a one and a half.",
+      "start": 2463.4,
+      "end": 2473.0
+    },
+    {
+      "id": "seg-294",
+      "text": "And this is called a resonance hybrid and it's a blend between two structures.",
+      "start": 2473.0,
+      "end": 2478.8
+    },
+    {
+      "id": "seg-295",
+      "text": "So this structure is blended with that structure.",
+      "start": 2478.8,
+      "end": 2481.0
+    },
+    {
+      "id": "seg-296",
+      "text": "So some of you are aware of hybrids from biology and now with cars, so a mule would be an example and if you're thinking about what a mule is, you don't walk out into your barnyard one day and see a donkey one day and you go out the next day and you see a horse, a mule is a hybrid between a donkey and a horse, so if you were a chemist you would do this, you would put the donkey in brackets and the horse in brackets and put your double-headed arrow and if you see this you'd say, oh yes, a mule.",
+      "start": 2484.6,
+      "end": 2513.2
+    },
+    {
+      "id": "seg-297",
+      "text": "So that is what this is, both structures are needed to describe ozone, one structure enough isn't enough, you need both of them, they're in resonance with each other.",
+      "start": 2513.2,
+      "end": 2525.0
+    },
+    {
+      "id": "seg-298",
+      "text": "And so what's true about the electrons in resonance structures is that they're delocalized across across all of these bonds, so there isn't like a double and a single, all of those electrons are delocalized, they're shared over this set of atoms.",
+      "start": 2525.0,
+      "end": 2543.6
+    },
+    {
+      "id": "seg-299",
+      "text": "And you can have $2$ resonance structures, you can have $3$, you can have $4$, it depends on the molecule in question and in all those cases those electrons would be delocalized.",
+      "start": 2547.6,
+      "end": 2557.0
+    },
+    {
+      "id": "seg-300",
+      "text": "So just to kind of sum that up, resonance structures are two (or more) structures with the same arrangement of atoms and that's important, it's the electrons that are different.",
+      "start": 2557.0,
+      "end": 2568.2
+    },
+    {
+      "id": "seg-301",
+      "text": "And this isn't in your handout, but just think about this for a second because it was in your handout a minute ago, are these resonance structures?",
+      "start": 2568.2,
+      "end": 2573.8
+    },
+    {
+      "id": "seg-302",
+      "text": "No. They are not resonance structures, the atoms are in different positions.",
+      "start": 2577.4,
+      "end": 2580.6
+    },
+    {
+      "id": "seg-303",
+      "text": "So one of these structures is right, one of these structures is wrong, with resonance structures they're both correct and both needed to define the structure.",
+      "start": 2580.6,
+      "end": 2590.1
+    },
+    {
+      "id": "seg-304",
+      "text": "So pay attention, this is a common mistake.",
+      "start": 2590.1,
+      "end": 2593.0
+    },
+    {
+      "id": "seg-305",
+      "text": "Pay attention, ask yourself, are the atoms in a different position?",
+      "start": 2593.0,
+      "end": 2597.0
+    },
+    {
+      "id": "seg-306",
+      "text": "That's not resonance.",
+      "start": 2597.0,
+      "end": 2599.0
+    },
+    {
+      "id": "seg-307",
+      "text": "You're just looking atoms are the same, formal charge are the same, you're just looking at whether you have...",
+      "start": 2598.4,
+      "end": 2602.6
+    }
+  ],
+  "equations": [
+    {
+      "id": "eq-0",
+      "latex": "1 + 4 + 5 = 10",
+      "description": "Step 2: Counting the total number of valence electrons for HCN.",
+      "start": 611.0,
+      "end": 625.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-1",
+      "latex": "2 + 8 + 8 = 18",
+      "description": "Step 3: Counting the total number of electrons needed for full valence shells for HCN.",
+      "start": 637.0,
+      "end": 652.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-2",
+      "latex": "18 - 10 = 8",
+      "description": "Calculation for bonding electrons in step 4: 18 minus 10 equals 8.",
+      "start": 661.0,
+      "end": 667.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-3",
+      "latex": "FC = V - L - \\left( \\frac{1}{2} \\right) B",
+      "description": "Formula for calculating formal charge (FC) using valence electrons (V), lone pair electrons (L), and bonding electrons (B).",
+      "start": 956.0,
+      "end": 1023.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-4",
+      "latex": "FC = V - L - \\left( \\frac{1}{2} \\right) B",
+      "description": "Base formula for formal charge displayed on the practice slide.",
+      "start": 1041.0,
+      "end": 1202.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-5",
+      "latex": "\\text{FC on C} = 4 - 2 - \\left( \\frac{1}{2} \\right) 6 = -1",
+      "description": "Calculation for the formal charge on Carbon in the cyanide ion.",
+      "start": 1054.0,
+      "end": 1100.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-6",
+      "latex": "\\begin{aligned} &\\text{FC on N} = 5 - 2 - \\left( \\frac{1}{2} \\right) 6 = 0 \\\\ &\\text{Total FC is -1 and charge on molecule is -1 } \\checkmark \\end{aligned}",
+      "description": "Calculation for the formal charge on Nitrogen in the cyanide ion and a final verification that the sum of charges matches the total molecular charge.",
+      "start": 1165.0,
+      "end": 1202.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-7",
+      "latex": "IE_{C} = 1090 \\text{ kJ/mol}, IE_{S} = 1000 \\text{ kJ/mol}, IE_{N} = 1400 \\text{ kJ/mol}",
+      "description": "Ionization energies for carbon, sulfur, and nitrogen.",
+      "start": 1270.0,
+      "end": 1312.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-8",
+      "latex": "FC_{N} = 5 - 4 - 2 = -1\\\\FC_{C} = 4 - 4 - 2 = -2\\\\FC_{S} = 6 - 0 - 4 = +2",
+      "description": "Formal charge calculations for each atom in Structure A.",
+      "start": 1313.0,
+      "end": 1374.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-9",
+      "latex": "FC_{N} = 5 - 4 - 2 = -1\\\\FC_{C} = 4 - 0 - 4 = 0\\\\FC_{S} = 6 - 4 - 2 = 0",
+      "description": "Formal charge calculations for each atom in Structure B.",
+      "start": 1375.0,
+      "end": 1420.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-10",
+      "latex": "FC_{N} = 5 - 0 - 4 = +1\\\\FC_{C} = 4 - 4 - 2 = -2\\\\FC_{S} = 6 - 4 - 2 = 0",
+      "description": "Formal charge calculations for each atom in Structure C.",
+      "start": 1421.0,
+      "end": 1450.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-11",
+      "latex": "CH_3NHO^-",
+      "description": "Chemical formula for the molecule being analyzed",
+      "start": 1808.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-12",
+      "latex": "\\chi: F > O > N > C",
+      "description": "Periodic trend of electronegativity for select atoms",
+      "start": 1981.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "eq-13",
+      "latex": "\\text{valence e}^-\\text{s: } 3(6) = 18",
+      "description": "Calculation for valence electrons in ozone.",
+      "start": 2082.0,
+      "end": 2095.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-14",
+      "latex": "\\text{full shell e}^-\\text{s: } 3(8) = 24",
+      "description": "Calculation for full shell electrons in ozone.",
+      "start": 2096.0,
+      "end": 2105.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "eq-15",
+      "latex": "\\text{bonding e}^-\\text{s: } 24 - 18 = 6",
+      "description": "Calculation for total bonding electrons in ozone.",
+      "start": 2106.0,
+      "end": 2118.0,
+      "confidence": 1.0
+    }
+  ],
+  "visualContent": [
+    {
+      "id": "vc-0",
+      "contentType": "slide",
+      "latex": "",
+      "description": "From Lecture #10 notes\nI. Lewis structures\nII. Formal charge\nIII. Resonance structures",
+      "start": 26.0,
+      "end": 72.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-1",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Lewis structures\nKey to bonding: e- sharing to achieve a full valance shell.\nG.N. Lewis (1875-1946)\nElectrons are distributed in such a way that each element is surrounded by eight electrons, an octet.\nEach dot in a Lewis structure represents a valence e-.\nOCTET RULE: F + F",
+      "start": 73.0,
+      "end": 165.0,
+      "confidence": 0.95
+    },
+    {
+      "id": "vc-2",
+      "contentType": "chart_description",
+      "latex": "",
+      "description": "A diagram of a periodic table highlighting elements in the first three periods. Key groups mentioned are groups 1, 2, 13, 14, 15, 16, 17, and 18. Fluorine (F) is highlighted in group 17, and Chlorine (Cl) is directly below it. The noble gases in group 18 are highlighted in green.",
+      "start": 166.0,
+      "end": 209.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-3",
+      "contentType": "slide",
+      "latex": "",
+      "description": "How many valence electrons does fluorine (F) have?\n1. 1\n2. 2\n3. 3\n4. 4\n5. 5\n6. 6\n7. 7\n8. 8\n9. 9",
+      "start": 169.0,
+      "end": 194.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-4",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A Lewis structure diagram representing the octet rule with Fluorine. On the left side of a reaction arrow, two separate Fluorine (F) atoms are shown, each surrounded by 7 dots. The first F has 7 blue dots; the second has 7 green dots. The arrow points to a Fluorine molecule (F2) where the two atoms are bonded by sharing one electron from each, represented by a pair consisting of one blue dot and one green dot between the symbols. Each F atom in the molecule is also surrounded by 6 dots of its original color (three lone pairs).",
+      "start": 212.0,
+      "end": 271.0,
+      "confidence": 0.95
+    },
+    {
+      "id": "vc-5",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A Lewis structure diagram representing the exception to the octet rule with Hydrogen. On the left side of a reaction arrow, a Hydrogen (H) atom with 1 red dot is added to a Chlorine (Cl) atom with 7 green dots. The arrow points to a Hydrogen Chloride (HCl) molecule where H is bonded to Cl by sharing its one red dot with one green dot from Chlorine. The Chlorine atom retains 6 green dots as three lone pairs. The text above states: EXCEPTION WITH H: special stability achieved with 2 e-'s.",
+      "start": 271.0,
+      "end": 307.0,
+      "confidence": 0.95
+    },
+    {
+      "id": "vc-6",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Bonding vs. lone pair electrons\nThe Cl atom in HCl has:\n2 bonding electrons and\n6 lone pair electrons or 3 lone pairs",
+      "start": 307.0,
+      "end": 350.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-7",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A Lewis dot diagram showing two fluorine atoms, each with seven valence electrons represented as dots, reacting to form an F2 molecule. The F2 molecule shows the two fluorine atoms sharing a pair of dots (representing a single covalent bond) with each fluorine atom also having three lone pairs (six total dots) around it.",
+      "start": 350.0,
+      "end": 352.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-8",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A Lewis dot diagram showing a hydrogen atom with one valence electron dot and a chlorine atom with seven valence electron dots reacting to form an HCl molecule. In the HCl molecule, the H and Cl atoms share a pair of dots (representing a single covalent bond). The chlorine atom is surrounded by three lone pairs of electrons (six total dots).",
+      "start": 350.0,
+      "end": 352.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-9",
+      "contentType": "slide",
+      "latex": "",
+      "description": "OCTET RULE:\nEXCEPTION WITH H: special stability achieved with 2 e- s\nBonding vs. lone pair electrons\nThe Cl atom in HCl has:\n2 bonding electrons and\n6 lone pair electrons or 3 lone pairs",
+      "start": 350.0,
+      "end": 352.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-10",
+      "contentType": "slide",
+      "latex": "",
+      "description": "PROCEDURE FOR DRAWING LEWIS STRUCTURES:\n1. Draw a skeleton structure. H and F are always terminal atoms. The element with the lowest ionization energy goes in the middle (with some exceptions).\n2. Count the total number of valence electrons. If there is a negative ion, add the absolute value of total charge to the count of valence electrons; if positive ion, subtract.\n3. Count the total # of e's needed for each atom to have a full valence shell.\n4. Subtract the # in step 2 (valence e's) from the # in step 3 (total electrons for full shells). The result is the # of bonding e's.\n5. Assign 2 bonding electrons to each bond.\n6. If bonding electrons remain, make some double or triple bonds. In general, double bonds form only between C, N, O, and S. Triple bonds are usually restricted to C, N, O.\n7. If valence electrons remain, assign as lone pairs, giving octets to all atoms except hydrogen.\n8. Determine formal charge.",
+      "start": 353.0,
+      "end": 491.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-11",
+      "contentType": "slide",
+      "latex": "",
+      "description": "HCN\nAt the top, a snippet of a periodic table is shown including periods 1 and 2, and groups 1, 2, and 13-18. Elements H, He, B, C, N, O, F, Ne are highlighted with boxes. Below this:\n1. Draw skeleton structure. (Which atom is in the middle? CLICKER)\n2. Count valence electrons. _____\n3. Count total electrons needed for full valence shells. _____\n4. Electrons needed - valence electrons = bonding electrons _____\n5. Assign 2 bonding electrons to each bond. _____\n6. Remaining bonding electrons? _____\n7. Remaining valence electrons? _____\n8. Determine the formal charge on each atom. _____",
+      "start": 492.0,
+      "end": 515.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-12",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Which atom would you expect to be in the center of the Lewis Structure of HCN?\n1. H\n2. C\n3. N\nA periodic table snippet showing periods 1 and 2 and groups 1-18 is at the bottom, highlighting several main group elements.",
+      "start": 516.0,
+      "end": 564.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-13",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Which atom would you expect to be in the center of the Lewis Structure of HCN?\n3% 1. H\n87% 2. C\n11% 3. N\nA green checkmark and orange highlight indicate option 2 is correct.",
+      "start": 565.0,
+      "end": 575.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-14",
+      "contentType": "slide",
+      "latex": "",
+      "description": "1. H C N",
+      "start": 596.0,
+      "end": 610.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-15",
+      "contentType": "equation",
+      "latex": "1 + 4 + 5 = 10",
+      "description": "Step 2: Counting the total number of valence electrons for HCN.",
+      "start": 611.0,
+      "end": 625.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-16",
+      "contentType": "equation",
+      "latex": "2 + 8 + 8 = 18",
+      "description": "Step 3: Counting the total number of electrons needed for full valence shells for HCN.",
+      "start": 637.0,
+      "end": 652.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-17",
+      "contentType": "equation",
+      "latex": "18 - 10 = 8",
+      "description": "Calculation for bonding electrons in step 4: 18 minus 10 equals 8.",
+      "start": 661.0,
+      "end": 667.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-18",
+      "contentType": "slide",
+      "latex": "",
+      "description": "5.",
+      "start": 668.0,
+      "end": 672.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-19",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Skeletal Lewis structure of HCN. The letters H, C, and N are written in a horizontal row. A vertical pair of dots is placed between the H and C atoms, and another vertical pair of dots is placed between the C and N atoms, representing single bonds.",
+      "start": 673.0,
+      "end": 679.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-20",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Formal Charge (FC) FC is a measure of the extent to which an atom has gained or lost an electron in the process of forming a covalent bond. We can assign formal charge to each atom in a molecule: V = number of valence electrons L = number of lone pair electrons B = number of bonding electrons CN- HCN For an electronically-neutral molecule, sum of FC's of individual atoms must be zero. For a molecule with a net charge of -1, sum of FC's of its atoms must be -1.",
+      "start": 933.0,
+      "end": 1023.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-21",
+      "contentType": "equation",
+      "latex": "FC = V - L - \\left( \\frac{1}{2} \\right) B",
+      "description": "Formula for calculating formal charge (FC) using valence electrons (V), lone pair electrons (L), and bonding electrons (B).",
+      "start": 956.0,
+      "end": 1023.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-22",
+      "contentType": "slide",
+      "latex": "",
+      "description": "The sum of individual formal charges must equal the total charge on the molecule!",
+      "start": 1024.0,
+      "end": 1040.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-23",
+      "contentType": "equation",
+      "latex": "FC = V - L - \\left( \\frac{1}{2} \\right) B",
+      "description": "Base formula for formal charge displayed on the practice slide.",
+      "start": 1041.0,
+      "end": 1202.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-24",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Calculating formal charge: CN- Two Lewis structure representations of the cyanide ion (CN-). The first structure on the left shows all valence electrons as dots: [ :C:::N: ]-1. Carbon has one lone pair (two dots) and is connected to Nitrogen by six dots representing a triple bond. Nitrogen also has one lone pair. The second structure on the right uses lines for bonds: [ :C\u2261N: ]-1. Carbon has one lone pair and is connected to Nitrogen by three horizontal lines representing a triple bond. Nitrogen has one lone pair. Both structures are enclosed in square brackets with a -1 superscript charge.",
+      "start": 1041.0,
+      "end": 1202.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-25",
+      "contentType": "equation",
+      "latex": "\\text{FC on C} = 4 - 2 - \\left( \\frac{1}{2} \\right) 6 = -1",
+      "description": "Calculation for the formal charge on Carbon in the cyanide ion.",
+      "start": 1054.0,
+      "end": 1100.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-26",
+      "contentType": "slide",
+      "latex": "",
+      "description": "FC on N 1. -3 2. -2 3. -1 4. 0 5. +1 6. +2 7. +3 A snippet of the periodic table is shown below the options, highlighting the p-block with rows starting with B and Al, and ending with Ne and Ar, to assist in determining the number of valence electrons.",
+      "start": 1104.0,
+      "end": 1150.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-27",
+      "contentType": "chart_description",
+      "latex": "",
+      "description": "A bar chart titled FC on N showing the distribution of responses from a poll of 355 people. The x-axis represents the possible formal charge values from -3 to +3. The y-axis represents the number of responses. A dominant blue bar shows that 83% of participants selected 0 as the formal charge for Nitrogen. Other responses were: -3 (3%), -2 (2%), -1 (7%), +1 (3%), +2 (1%), and +3 (1%). A yellow smiley face marks 0 as the correct answer.",
+      "start": 1151.0,
+      "end": 1163.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-28",
+      "contentType": "equation",
+      "latex": "\\begin{aligned} &\\text{FC on N} = 5 - 2 - \\left( \\frac{1}{2} \\right) 6 = 0 \\\\ &\\text{Total FC is -1 and charge on molecule is -1 } \\checkmark \\end{aligned}",
+      "description": "Calculation for the formal charge on Nitrogen in the cyanide ion and a final verification that the sum of charges matches the total molecular charge.",
+      "start": 1165.0,
+      "end": 1202.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-29",
+      "contentType": "slide",
+      "latex": "",
+      "description": "FORMAL CHARGE != OXIDATION NUMBER",
+      "start": 1203.0,
+      "end": 1229.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-30",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Using FC to decide between Lewis structures:\n\nStructures with lower absolute values of FC are the more stable (lower energy) structures.\n\nExample: Thiocyanate ion\n(containing 1C, 1S, and 1N, and a charge of -1)\n\nBased on IE alone, we would predict S to be the central atom.",
+      "start": 1231.0,
+      "end": 1312.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-31",
+      "contentType": "equation",
+      "latex": "IE_{C} = 1090 \\text{ kJ/mol}, IE_{S} = 1000 \\text{ kJ/mol}, IE_{N} = 1400 \\text{ kJ/mol}",
+      "description": "Ionization energies for carbon, sulfur, and nitrogen.",
+      "start": 1270.0,
+      "end": 1312.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-32",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Structure A for the thiocyanate ion: [[:C=S=N:]]^-1. Sulfur is the central atom, double-bonded to a carbon atom on the left and double-bonded to a nitrogen atom on the right. The carbon atom has two lone pairs, and the nitrogen atom has two lone pairs. The sulfur atom has no lone pairs. The entire molecular structure is enclosed in square brackets with a -1 superscript.",
+      "start": 1313.0,
+      "end": 1457.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-33",
+      "contentType": "equation",
+      "latex": "FC_{N} = 5 - 4 - 2 = -1\\\\FC_{C} = 4 - 4 - 2 = -2\\\\FC_{S} = 6 - 0 - 4 = +2",
+      "description": "Formal charge calculations for each atom in Structure A.",
+      "start": 1313.0,
+      "end": 1374.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-34",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Structure B for the thiocyanate ion: [[:N=C=S:]]^-1. Carbon is the central atom, double-bonded to a nitrogen atom on the left and double-bonded to a sulfur atom on the right. The nitrogen atom has two lone pairs, and the sulfur atom has two lone pairs. The carbon atom has no lone pairs. The entire molecular structure is enclosed in square brackets with a -1 superscript.",
+      "start": 1375.0,
+      "end": 1457.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-35",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Structure C for the thiocyanate ion: [[:S=N=C:]]^-1. Nitrogen is the central atom, double-bonded to a sulfur atom on the left and double-bonded to a carbon atom on the right. The sulfur atom has two lone pairs, and the carbon atom has two lone pairs. The nitrogen atom has no lone pairs. The entire molecular structure is enclosed in square brackets with a -1 superscript.",
+      "start": 1375.0,
+      "end": 1457.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-36",
+      "contentType": "equation",
+      "latex": "FC_{N} = 5 - 4 - 2 = -1\\\\FC_{C} = 4 - 0 - 4 = 0\\\\FC_{S} = 6 - 4 - 2 = 0",
+      "description": "Formal charge calculations for each atom in Structure B.",
+      "start": 1375.0,
+      "end": 1420.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-37",
+      "contentType": "equation",
+      "latex": "FC_{N} = 5 - 0 - 4 = +1\\\\FC_{C} = 4 - 4 - 2 = -2\\\\FC_{S} = 6 - 4 - 2 = 0",
+      "description": "Formal charge calculations for each atom in Structure C.",
+      "start": 1421.0,
+      "end": 1450.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-38",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Using FC to decide between Lewis structures:\n\nThe most stable structure is CLICKER",
+      "start": 1451.0,
+      "end": 1457.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-39",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Which Lewis structure would you predict to be most stable?\n\n1. Structure A\n2. Structure B\n3. Structure C",
+      "start": 1458.0,
+      "end": 1495.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-40",
+      "contentType": "chart_description",
+      "latex": "",
+      "description": "A bar chart showing student responses to the clicker question 'Which Lewis structure would you predict to be most stable?'. The results are: Option 1 (Structure A) received 10% of responses, Option 2 (Structure B) received 88%, and Option 3 (Structure C) received 2%. A smiley face icon is placed next to Option 2, indicating it is the correct answer.",
+      "start": 1496.0,
+      "end": 1525.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-41",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Which of the following might represent the term on the y-axis?\n\n1. Atomic radius\n2. Ionization energy\n3. Electron affinity\n4. Electronegativity\n5. 1 or 2\n6. 2, 3, or 4",
+      "start": 1526.0,
+      "end": 1589.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-42",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Using FC to decide between Lewis structures:\n\nThe most stable structure is B.",
+      "start": 1526.0,
+      "end": 1552.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-43",
+      "contentType": "chart_description",
+      "latex": "",
+      "description": "A column chart showing a periodic trend plotted against atomic number on the x-axis. The y-axis is unknown and marked with a question mark. The data show high peaks corresponding to noble gases (He, Ne, Ar, Kr, Xe, Rn) and low points corresponding to alkali metals (H, Li, Na, K, Rb, Cs). Between these points, the values generally increase across a period. Blocks of the periodic table are color-coded: s-block in red, p-block in yellow/orange, d-block in blue, and f-block in green.",
+      "start": 1526.0,
+      "end": 1589.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-44",
+      "contentType": "chart_description",
+      "latex": "",
+      "description": "A poll results bar chart overlaid on the periodic trend graph showing percentages for the six options: 1: 7%, 2: 53%, 3: 3%, 4: 3%, 5: 7%, 6: 28%. Option 2 (Ionization energy) is highlighted in purple with a smiley face icon, indicating it is the correct answer.",
+      "start": 1610.0,
+      "end": 1665.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-45",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Announcements\nPSET#3 due Friday\nToday's schedule\nFinish handout #10\nFormal Charge and Resonance\nToday's handout\nBreakdown of the octet rule\nCase 1. Odd number of valence electrons\nCase 2. Octet deficient molecules\nCase 3. Valence shell expansion",
+      "start": 1682.0,
+      "end": 1691.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-46",
+      "contentType": "slide",
+      "latex": "",
+      "description": "What if two structures have the same absolute value of FC?\nNegative FC goes on the most electronegative atom.",
+      "start": 1692.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-47",
+      "contentType": "equation",
+      "latex": "CH_3NHO^-",
+      "description": "Chemical formula for the molecule being analyzed",
+      "start": 1808.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-48",
+      "contentType": "slide",
+      "latex": "",
+      "description": "CH3 is a methyl group. These groups are always terminal.",
+      "start": 1821.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-49",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Two possible Lewis structures for CH3NHO- are shown side-by-side, both enclosed in large parentheses with a -1 superscript. Left structure: A Nitrogen atom is bonded to a methyl group (Carbon atom with three Hydrogen atoms), one additional Hydrogen atom, and one Oxygen atom. The Nitrogen atom has one lone pair. The Oxygen atom has three lone pairs and a formal charge of -1. Right structure: A Nitrogen atom is bonded to a methyl group and one Oxygen atom, which is in turn bonded to a Hydrogen atom. The Nitrogen atom has two lone pairs and a formal charge of -1. The Oxygen atom has two lone pairs.",
+      "start": 1838.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-50",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Note: For \"chain\" molecules, atoms usually written in order. Terminal atoms usually follow the atom to which they are attached.",
+      "start": 1862.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-51",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Other FCs are zero",
+      "start": 1935.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-52",
+      "contentType": "equation",
+      "latex": "\\chi: F > O > N > C",
+      "description": "Periodic trend of electronegativity for select atoms",
+      "start": 1981.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-53",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "A blue box is drawn around the left Lewis structure (where the negative charge is on the Oxygen atom), accompanied by the text label: lower energy structure",
+      "start": 1989.0,
+      "end": 2152.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-54",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Resonance structures: ozone O O O A B C Structure 1 O O O A B C Structure 2 1) skeletal structure 2) valence e-s: 3) full shell e-s: 4) bonding e-s: 5) assign bonding e-s: 6) remaining bonding e-s: 7) remaining valence e-s: 8) formal charges",
+      "start": 2040.0,
+      "end": 2081.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-55",
+      "contentType": "equation",
+      "latex": "\\text{valence e}^-\\text{s: } 3(6) = 18",
+      "description": "Calculation for valence electrons in ozone.",
+      "start": 2082.0,
+      "end": 2095.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-56",
+      "contentType": "equation",
+      "latex": "\\text{full shell e}^-\\text{s: } 3(8) = 24",
+      "description": "Calculation for full shell electrons in ozone.",
+      "start": 2096.0,
+      "end": 2105.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-57",
+      "contentType": "equation",
+      "latex": "\\text{bonding e}^-\\text{s: } 24 - 18 = 6",
+      "description": "Calculation for total bonding electrons in ozone.",
+      "start": 2106.0,
+      "end": 2118.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-58",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "The skeletal structure for Structure 1 and Structure 2 of ozone is shown. Both structures feature three oxygen atoms in a row, labeled A, B, and C. In both structures, a single pair of electrons (two dots) is placed between oxygen A and oxygen B, and between oxygen B and oxygen C to represent single bonds.",
+      "start": 2119.0,
+      "end": 2136.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-59",
+      "contentType": "slide",
+      "latex": "",
+      "description": "6) remaining bonding e-s: 2. Where do we add these??",
+      "start": 2137.0,
+      "end": 2145.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-60",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Double bonds are added to the ozone structures. In Structure 1, an additional pair of dots is added between oxygen A and oxygen B, creating a double bond (four dots total). In Structure 2, the additional pair is added between oxygen B and oxygen C, creating a double bond there (four dots total).",
+      "start": 2146.0,
+      "end": 2170.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-61",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Resonance structures: ozone\n1) skeletal structure\n2) valence e-'s\n3) full shell e-'s\n4) bonding e-'s\n5) assign bonding e-'s\n6) remaining bonding e-'s\n7) remaining valence e-'s\n8) formal charges",
+      "start": 2153.0,
+      "end": 2160.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-62",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Skeletal structures for ozone (O3) labeled Structure 1 and Structure 2. Both show three Oxygen atoms in a row, labeled A, B, and C.",
+      "start": 2153.0,
+      "end": 2160.0,
+      "confidence": 0.9
+    },
+    {
+      "id": "vc-63",
+      "contentType": "slide",
+      "latex": "",
+      "description": "7) remaining valence e-s: 12",
+      "start": 2171.0,
+      "end": 2180.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-64",
+      "contentType": "diagram_description",
+      "latex": "",
+      "description": "Lone pairs are added to the ozone structures to complete octets. For Structure 1: oxygen A has two lone pairs (four dots); oxygen B has one lone pair (two dots); oxygen C has three lone pairs (six dots). For Structure 2: oxygen A has three lone pairs (six dots); oxygen B has one lone pair (two dots); oxygen C has two lone pairs (four dots).",
+      "start": 2181.0,
+      "end": 2216.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-65",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Which is correct? 1. Struct #1 Struct #2 FC OA = 0 FC OA = 0 FC OB = +1 FC OB = +1 FC OC = -1 FC OC = -1 2. Struct #1 Struct #2 FC OA = 0 FC OA = -1 FC OB = +1 FC OB = +1 FC OC = -1 FC OC = 0 3. Struct #1 Struct #2 FC OA = -2 FC OA = -2 FC OB = 0 FC OB = 0 FC OC = -2 FC OC = -2 4. Struct #1 Struct #2 FC OA = 0 FC OA = 1 FC OB = -1 FC OB = -1 FC OC = 1 FC OC = 0",
+      "start": 2217.0,
+      "end": 2289.0,
+      "confidence": 1.0
+    },
+    {
+      "id": "vc-66",
+      "contentType": "slide",
+      "latex": "",
+      "description": "Which is correct? Option 2 is marked with a green checkmark as the correct answer. A results bar at the bottom shows poll percentages: 10% for choice 1, 69% for choice 2, 9% for choice 3, and 12% for choice 4.",
+      "start": 2290.0,
+      "end": 2306.0,
+      "confidence": 1.0
+    }
+  ],
+  "autoCaptions": [],
+  "sections": [
+    {
+      "title": "Introduction to Lewis Structures and the Octet Rule",
+      "end_time": "5:50",
+      "start_time": "0:00",
+      "description": "The instructor introduces Lewis structures as a reliable model for electron sharing and explains the octet rule and common exceptions like hydrogen."
+    },
+    {
+      "title": "Step-by-Step Rules for Drawing Structures",
+      "end_time": "11:00",
+      "start_time": "5:50",
+      "description": "A comprehensive overview of the procedural rules for drawing skeletal structures, counting valence electrons, and identifying bonding electrons."
+    },
+    {
+      "title": "Practice Examples: HCN and Cyanide Ion",
+      "end_time": "15:20",
+      "start_time": "11:00",
+      "description": "The lecture provides a detailed walkthrough of applying Lewis rules to hydrogen cyanide and the cyanide ion, including triple bonds and lone pairs."
+    },
+    {
+      "title": "The Formal Charge Calculation Method",
+      "end_time": "20:30",
+      "start_time": "15:20",
+      "description": "Introduction to the formal charge formula and its importance as a check to ensure the sum of charges matches the total molecular charge."
+    },
+    {
+      "title": "Applying Formal Charge to Determine Stability",
+      "end_time": "28:00",
+      "start_time": "20:30",
+      "description": "The instructor uses the thiocyanate ion example to demonstrate how formal charge helps select the most stable molecular arrangement among several possibilities."
+    },
+    {
+      "title": "Electronegativity in Structural Selection",
+      "end_time": "34:00",
+      "start_time": "28:00",
+      "description": "This section explains how to use periodic trends in electronegativity to decide the placement of negative charges in complex Lewis structures."
+    },
+    {
+      "title": "Resonance Structures and Electron Delocalization",
+      "end_time": "43:25",
+      "start_time": "34:00",
+      "description": "Using ozone as a case study, the lecture defines resonance hybrids and explains how electrons are delocalized across equivalent bonds."
+    }
+  ],
+  "alignmentMeta": {}
+}

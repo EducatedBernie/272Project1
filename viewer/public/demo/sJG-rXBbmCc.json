@@ -1,0 +1,8125 @@
+{
+  "videoId": "sJG-rXBbmCc",
+  "title": "Walter Lewin 8.01 Lecture 1",
+  "youtubeUrl": "https://www.youtube.com/watch?v=sJG-rXBbmCc",
+  "duration": 3685.0,
+  "segments": [
+    {
+      "id": "seg-0",
+      "text": "Take your seats.",
+      "start": 0.2,
+      "end": 2.6
+    },
+    {
+      "id": "seg-1",
+      "text": "Take your seats, please.",
+      "start": 2.6,
+      "end": 10.9
+    },
+    {
+      "id": "seg-2",
+      "text": "My lecture will be about 40 minutes, and after that, I will give anyone the opportunity to ask me questions for about 15 or 20 minutes, so the whole thing will be one hour, and it is after that hour that we will do book signing.",
+      "start": 10.9,
+      "end": 26.3
+    },
+    {
+      "id": "seg-3",
+      "text": "You can buy the books there, if you want to, and I'll sign them here.",
+      "start": 26.3,
+      "end": 28.6
+    },
+    {
+      "id": "seg-4",
+      "text": "We'll get back to that later.",
+      "start": 28.6,
+      "end": 34.4
+    },
+    {
+      "id": "seg-5",
+      "text": "If you have a pendulum, this is a pendulum, mass $m$, length $L$.",
+      "start": 34.4,
+      "end": 43.0
+    },
+    {
+      "id": "seg-6",
+      "text": "Then you can derive, which I do in class, but I won't bore you with that.",
+      "start": 43.0,
+      "end": 51.6
+    },
+    {
+      "id": "seg-7",
+      "text": "You can derive how long it takes for the pendulum to make one complete oscillation.",
+      "start": 51.6,
+      "end": 58.1
+    },
+    {
+      "id": "seg-8",
+      "text": "And we call that the period of the pendulum.",
+      "start": 58.1,
+      "end": 61.6
+    },
+    {
+      "id": "seg-9",
+      "text": "And I derive in class that that period equals $2 \\pi$ times the square root of $L$ over $g$.",
+      "start": 61.6,
+      "end": 68.3
+    },
+    {
+      "id": "seg-10",
+      "text": "You already know what $L$ is; if you don't know what $\\pi$ is, you might as well leave right now.",
+      "start": 68.3,
+      "end": 78.0
+    },
+    {
+      "id": "seg-11",
+      "text": "And $g$ is what we call the gravitational acceleration, which is approximately the same everywhere on Earth, but it is very close in Boston to $9.80$ meters per second per second.",
+      "start": 81.0,
+      "end": 94.4
+    },
+    {
+      "id": "seg-12",
+      "text": "And you will say, well, that's weird, meters per second per second.",
+      "start": 94.4,
+      "end": 101.3
+    },
+    {
+      "id": "seg-13",
+      "text": "What that means is that if you have an object and you drop it from a very large altitude, very high, a few hundred meters high, and I drop it with zero speed, after one second it will have a speed of $9.8$ meters per second.",
+      "start": 101.3,
+      "end": 114.6
+    },
+    {
+      "id": "seg-14",
+      "text": "But after another second, it will add to that $9.8$ meters per second, so it's twice that.",
+      "start": 114.6,
+      "end": 122.5
+    },
+    {
+      "id": "seg-15",
+      "text": "And after three seconds, it's three seconds.",
+      "start": 122.5,
+      "end": 125.2
+    },
+    {
+      "id": "seg-16",
+      "text": "So now you understand why it is meters per second per second.",
+      "start": 125.2,
+      "end": 127.8
+    },
+    {
+      "id": "seg-17",
+      "text": "And so that's the meaning of $g$.",
+      "start": 127.8,
+      "end": 131.4
+    },
+    {
+      "id": "seg-18",
+      "text": "There's something weird about this equation, something that must go against your intuition, and you shouldn't feel bad because it also goes against my intuition.",
+      "start": 136.8,
+      "end": 147.1
+    },
+    {
+      "id": "seg-19",
+      "text": "So we have the pendulum, and suppose I bring the pendulum all the way out here.",
+      "start": 147.1,
+      "end": 152.1
+    },
+    {
+      "id": "seg-20",
+      "text": "We call that the amplitude of the pendulum and we let it swing back and forth.",
+      "start": 152.1,
+      "end": 156.9
+    },
+    {
+      "id": "seg-21",
+      "text": "There's a certain period. But now, we bring it out only this far; it doesn't have to travel much very much at all.",
+      "start": 159.9,
+      "end": 165.8
+    },
+    {
+      "id": "seg-22",
+      "text": "Doesn't that make a difference in the period?",
+      "start": 168.5,
+      "end": 170.3
+    },
+    {
+      "id": "seg-23",
+      "text": "The equation says no, it doesn't, because if it did make a difference, there would be in that equation the amplitude, which is not.",
+      "start": 170.3,
+      "end": 177.7
+    },
+    {
+      "id": "seg-24",
+      "text": "And I'm going to demonstrate that to you, that it is quite remarkable that indeed that period is independent of amplitude, if you don't go to extreme values of the amplitude.",
+      "start": 177.7,
+      "end": 192.2
+    },
+    {
+      "id": "seg-25",
+      "text": "There's something else in here which is even more non-intuitive.",
+      "start": 192.2,
+      "end": 197.6
+    },
+    {
+      "id": "seg-26",
+      "text": "And that is, doesn't it matter whether the bob, we call this the bob, whether it is $1$ kilogram or $500$ kilograms?",
+      "start": 197.6,
+      "end": 209.3
+    },
+    {
+      "id": "seg-27",
+      "text": "You would think, well, that must be a difference, must make a difference in the period.",
+      "start": 209.3,
+      "end": 213.0
+    },
+    {
+      "id": "seg-28",
+      "text": "But the equation says sorry, it doesn't.",
+      "start": 213.0,
+      "end": 216.8
+    },
+    {
+      "id": "seg-29",
+      "text": "And I'm going to demonstrate that to you too.",
+      "start": 216.8,
+      "end": 221.7
+    },
+    {
+      "id": "seg-30",
+      "text": "We have here, by the way, if you ever want to test this pendulum, this equation for yourself, put in $L = 1$ meter and use this number, you will get a period of $2.0$ seconds.",
+      "start": 221.7,
+      "end": 233.8
+    },
+    {
+      "id": "seg-31",
+      "text": "It's very easy to do at home; you make one $1$ meter, you put an apple at the bottom and you swing it, maybe the $1$ meter has to be accurate, you see that it's going to be $2.0$ seconds.",
+      "start": 233.8,
+      "end": 246.3
+    },
+    {
+      "id": "seg-32",
+      "text": "Our pendulum that we have here is really the mother of all pendulums.",
+      "start": 248.2,
+      "end": 255.7
+    },
+    {
+      "id": "seg-33",
+      "text": "Look at it: $15.5$ kilograms and the length of this pendulum is $5.21$ meters.",
+      "start": 255.7,
+      "end": 263.5
+    },
+    {
+      "id": "seg-34",
+      "text": "However, you must understand that it is very difficult to measure that to very high accuracy.",
+      "start": 270.6,
+      "end": 277.8
+    },
+    {
+      "id": "seg-35",
+      "text": "And so there is an uncertainty in the measurement of the length that we have to be honest about because we are physicists after all, and the uncertainty we estimate is about $5$ centimeters.",
+      "start": 277.8,
+      "end": 288.7
+    },
+    {
+      "id": "seg-36",
+      "text": "So we could be off by $5$ centimeters.",
+      "start": 292.0,
+      "end": 294.0
+    },
+    {
+      "id": "seg-37",
+      "text": "That means that is $1\\%$, $5$ centimeters is $1\\%$ out of $521$.",
+      "start": 297.1,
+      "end": 302.6
+    },
+    {
+      "id": "seg-38",
+      "text": "But since $L$ only shows up as the square root, it means the uncertainty in the time that we predict is only half a percent.",
+      "start": 303.6,
+      "end": 312.7
+    },
+    {
+      "id": "seg-39",
+      "text": "And if you don't see the reason why the $1\\%$ becomes half a percent, that's okay, then just forget about it; you take my word for it.",
+      "start": 312.7,
+      "end": 320.7
+    },
+    {
+      "id": "seg-40",
+      "text": "So now I can make a prediction.",
+      "start": 320.7,
+      "end": 322.7
+    },
+    {
+      "id": "seg-41",
+      "text": "So I predict using this equation, that's all I do, I put in $5.21$, I put in $9.80$, I multiply by $2 \\pi$ and I make the prediction that the period of that pendulum is $4.58 \\pm 0.0286$ seconds.",
+      "start": 325.6,
+      "end": 350.6
+    },
+    {
+      "id": "seg-42",
+      "text": "Why the plus or minus $0.0286$?",
+      "start": 350.6,
+      "end": 352.6
+    },
+    {
+      "id": "seg-43",
+      "text": "Well, that is the half a percent uncertainty due to the square root of $L$.",
+      "start": 354.1,
+      "end": 355.8
+    },
+    {
+      "id": "seg-44",
+      "text": "And you can immediately see that $286$ is about half a percent of $458$.",
+      "start": 358.5,
+      "end": 360.5
+    },
+    {
+      "id": "seg-45",
+      "text": "So my prediction can be no better than that.",
+      "start": 360.5,
+      "end": 367.6
+    },
+    {
+      "id": "seg-46",
+      "text": "Now comes the problem. I have to measure the period to convince you that it is independent of amplitude and to convince you that it is independent of mass.",
+      "start": 367.6,
+      "end": 377.4
+    },
+    {
+      "id": "seg-47",
+      "text": "So the biggest problem now is Walter Lewin himself, which is my reaction time.",
+      "start": 377.4,
+      "end": 383.0
+    },
+    {
+      "id": "seg-48",
+      "text": "How accurately am I able to make that measurement?",
+      "start": 383.0,
+      "end": 388.0
+    },
+    {
+      "id": "seg-49",
+      "text": "That has nothing to do with our lack of knowledge of the exact length.",
+      "start": 388.0,
+      "end": 394.0
+    },
+    {
+      "id": "seg-50",
+      "text": "Now, the last time that I gave this lecture with the pendulum is 12 years ago.",
+      "start": 394.0,
+      "end": 401.7
+    },
+    {
+      "id": "seg-51",
+      "text": "I was 63.",
+      "start": 401.7,
+      "end": 404.1
+    },
+    {
+      "id": "seg-52",
+      "text": "And at that time, I told the class my reaction time is a tenth of a second.",
+      "start": 404.1,
+      "end": 412.3
+    },
+    {
+      "id": "seg-53",
+      "text": "And it was.",
+      "start": 412.3,
+      "end": 415.2
+    },
+    {
+      "id": "seg-54",
+      "text": "But now I'm 75.",
+      "start": 415.2,
+      "end": 418.6
+    },
+    {
+      "id": "seg-55",
+      "text": "And so my reaction time is no longer 0.1 seconds.",
+      "start": 418.6,
+      "end": 425.3
+    },
+    {
+      "id": "seg-56",
+      "text": "What is it? Well, I do not know, but I have a feeling that if you want to be kind to me for a change, let us assume that my reaction time at age 75 is now two tenths of a second.",
+      "start": 425.3,
+      "end": 439.2
+    },
+    {
+      "id": "seg-57",
+      "text": "So if you can live with that, then every measurement that I make, no matter how long it is, it is uncertain to two tenths of a second.",
+      "start": 439.2,
+      "end": 451.0
+    },
+    {
+      "id": "seg-58",
+      "text": "Do not confuse that with that .02, that has to do with the length.",
+      "start": 451.0,
+      "end": 453.3
+    },
+    {
+      "id": "seg-59",
+      "text": "All right.",
+      "start": 457.4,
+      "end": 458.5
+    },
+    {
+      "id": "seg-60",
+      "text": "So I'm going to first make a period measurement at $5^{\\circ}$ and then at $10^{\\circ}$ amplitude.",
+      "start": 458.5,
+      "end": 471.8
+    },
+    {
+      "id": "seg-61",
+      "text": "And I'm going to measure 10 periods, not one.",
+      "start": 471.8,
+      "end": 474.6
+    },
+    {
+      "id": "seg-62",
+      "text": "Some of you may think, well, isn't that a waste of time to do 10 periods if you can get away with one?",
+      "start": 474.6,
+      "end": 479.4
+    },
+    {
+      "id": "seg-63",
+      "text": "You will very quickly see why it is 10.",
+      "start": 482.0,
+      "end": 484.0
+    },
+    {
+      "id": "seg-64",
+      "text": "You will see that. So the $10T$ is then going to be some number plus or minus my own inability, which is my .2 seconds reaction time.",
+      "start": 487.0,
+      "end": 498.5
+    },
+    {
+      "id": "seg-65",
+      "text": "I can't change that. And so then I do it at $10^{\\circ}$ and then we get again $10T$.",
+      "start": 498.5,
+      "end": 504.4
+    },
+    {
+      "id": "seg-66",
+      "text": "We get a number and then we get again plus or minus 0.2 seconds.",
+      "start": 504.4,
+      "end": 508.2
+    },
+    {
+      "id": "seg-67",
+      "text": "And I'm going to demonstrate to you that within the uncertainty of the measurements that I get the same numbers in all three cases, within the uncertainty.",
+      "start": 508.2,
+      "end": 521.7
+    },
+    {
+      "id": "seg-68",
+      "text": "So if you're ready for that, you see here the timer that all of you can see.",
+      "start": 521.7,
+      "end": 526.3
+    },
+    {
+      "id": "seg-69",
+      "text": "And here you see the pendulum.",
+      "start": 526.3,
+      "end": 530.0
+    },
+    {
+      "id": "seg-70",
+      "text": "And I have two marks on the floor here.",
+      "start": 530.0,
+      "end": 532.7
+    },
+    {
+      "id": "seg-71",
+      "text": "If I hold the bob here then it is $5^{\\circ}$.",
+      "start": 532.7,
+      "end": 535.0
+    },
+    {
+      "id": "seg-72",
+      "text": "This is $5^{\\circ}$.",
+      "start": 535.0,
+      "end": 537.0
+    },
+    {
+      "id": "seg-73",
+      "text": "And when I hold the bob here it is $10^{\\circ}$.",
+      "start": 537.6,
+      "end": 539.6
+    },
+    {
+      "id": "seg-74",
+      "text": "Timing is not easy.",
+      "start": 547.6,
+      "end": 550.4
+    },
+    {
+      "id": "seg-75",
+      "text": "The best way to do it is to start the timing when the pendulum comes to a stop.",
+      "start": 550.4,
+      "end": 556.5
+    },
+    {
+      "id": "seg-76",
+      "text": "That is rather well-defined. And then you let it swing 10 times and then when it comes to a stop, you stop it.",
+      "start": 556.5,
+      "end": 561.9
+    },
+    {
+      "id": "seg-77",
+      "text": "And it would help me if you would count how many oscillations we have made because then I don't have to look at it.",
+      "start": 566.2,
+      "end": 574.8
+    },
+    {
+      "id": "seg-78",
+      "text": "All I have to do is when I come close to 10, I have to watch for the moment of stopping and then I will end it.",
+      "start": 574.8,
+      "end": 580.8
+    },
+    {
+      "id": "seg-79",
+      "text": "So, we'll do this first at $5^{\\circ}$.",
+      "start": 580.8,
+      "end": 584.6
+    },
+    {
+      "id": "seg-80",
+      "text": "I'm going to start it when it comes here.",
+      "start": 593.8,
+      "end": 595.4
+    },
+    {
+      "id": "seg-81",
+      "text": "Ya!",
+      "start": 595.4,
+      "end": 597.4
+    },
+    {
+      "id": "seg-82",
+      "text": "Okay, now you count.",
+      "start": 600.6,
+      "end": 602.6
+    },
+    {
+      "id": "seg-83",
+      "text": "One.",
+      "start": 602.6,
+      "end": 604.6
+    },
+    {
+      "id": "seg-84",
+      "text": "Two.",
+      "start": 604.6,
+      "end": 606.6
+    },
+    {
+      "id": "seg-85",
+      "text": "Three.",
+      "start": 606.6,
+      "end": 608.6
+    },
+    {
+      "id": "seg-86",
+      "text": "Four.",
+      "start": 608.6,
+      "end": 610.6
+    },
+    {
+      "id": "seg-87",
+      "text": "You're doing very well.",
+      "start": 617.2,
+      "end": 619.2
+    },
+    {
+      "id": "seg-88",
+      "text": "Five.",
+      "start": 619.2,
+      "end": 621.2
+    },
+    {
+      "id": "seg-89",
+      "text": "You're going to pass this course.",
+      "start": 622.0,
+      "end": 624.0
+    },
+    {
+      "id": "seg-90",
+      "text": "Six.",
+      "start": 624.0,
+      "end": 626.0
+    },
+    {
+      "id": "seg-91",
+      "text": "Seven.",
+      "start": 626.0,
+      "end": 628.0
+    },
+    {
+      "id": "seg-92",
+      "text": "Eight.",
+      "start": 628.0,
+      "end": 630.0
+    },
+    {
+      "id": "seg-93",
+      "text": "Nine.",
+      "start": 630.0,
+      "end": 632.0
+    },
+    {
+      "id": "seg-94",
+      "text": "Ten.",
+      "start": 632.0,
+      "end": 634.0
+    },
+    {
+      "id": "seg-95",
+      "text": "45.7. So that becomes that $T$.",
+      "start": 658.7,
+      "end": 660.7
+    },
+    {
+      "id": "seg-96",
+      "text": "That means this whole equation now has to be divided by 10.",
+      "start": 662.0,
+      "end": 665.5
+    },
+    {
+      "id": "seg-97",
+      "text": "And now you will see why I measured 10 oscillations.",
+      "start": 665.5,
+      "end": 668.8
+    },
+    {
+      "id": "seg-98",
+      "text": "So $T$ is going to be 4.57 plus or minus .2 divided by 10.",
+      "start": 668.8,
+      "end": 673.9
+    },
+    {
+      "id": "seg-99",
+      "text": "That is plus or minus .02 seconds.",
+      "start": 673.9,
+      "end": 680.9
+    },
+    {
+      "id": "seg-100",
+      "text": "And you see, comfortably within the prediction.",
+      "start": 680.9,
+      "end": 685.4
+    },
+    {
+      "id": "seg-101",
+      "text": "So maybe my reaction time is a little better than two tenths of a second.",
+      "start": 685.4,
+      "end": 690.5
+    },
+    {
+      "id": "seg-102",
+      "text": "Don't count on it because you haven't seen the rest yet.",
+      "start": 690.5,
+      "end": 695.3
+    },
+    {
+      "id": "seg-103",
+      "text": "So, now $10^{\\circ}$.",
+      "start": 695.3,
+      "end": 697.3
+    },
+    {
+      "id": "seg-104",
+      "text": "Ya!",
+      "start": 697.3,
+      "end": 699.3
+    },
+    {
+      "id": "seg-105",
+      "text": "See, that moment is crucial.",
+      "start": 719.8,
+      "end": 721.8
+    },
+    {
+      "id": "seg-106",
+      "text": "That moment is crucial.",
+      "start": 722.7,
+      "end": 724.1
+    },
+    {
+      "id": "seg-107",
+      "text": "That's where you can lose four tenths of a second and then you look like an idiot in front of your students.",
+      "start": 724.1,
+      "end": 728.2
+    },
+    {
+      "id": "seg-108",
+      "text": "One.",
+      "start": 728.2,
+      "end": 730.2
+    },
+    {
+      "id": "seg-109",
+      "text": "Two.",
+      "start": 730.2,
+      "end": 732.2
+    },
+    {
+      "id": "seg-110",
+      "text": "Three.",
+      "start": 732.2,
+      "end": 734.2
+    },
+    {
+      "id": "seg-111",
+      "text": "Four.",
+      "start": 734.2,
+      "end": 736.2
+    },
+    {
+      "id": "seg-112",
+      "text": "Five.",
+      "start": 743.2,
+      "end": 745.2
+    },
+    {
+      "id": "seg-113",
+      "text": "Six.",
+      "start": 747.7,
+      "end": 749.7
+    },
+    {
+      "id": "seg-114",
+      "text": "Seven.",
+      "start": 752.4,
+      "end": 754.4
+    },
+    {
+      "id": "seg-115",
+      "text": "Eight.",
+      "start": 762.0,
+      "end": 764.0
+    },
+    {
+      "id": "seg-116",
+      "text": "Nine.",
+      "start": 764.0,
+      "end": 766.0
+    },
+    {
+      "id": "seg-117",
+      "text": "Ten.",
+      "start": 766.0,
+      "end": 768.0
+    },
+    {
+      "id": "seg-118",
+      "text": "Ya!",
+      "start": 768.0,
+      "end": 770.0
+    },
+    {
+      "id": "seg-119",
+      "text": "45.8.",
+      "start": 770.0,
+      "end": 772.0
+    },
+    {
+      "id": "seg-120",
+      "text": "Now comes the hardest part.",
+      "start": 791.2,
+      "end": 793.2
+    },
+    {
+      "id": "seg-121",
+      "text": "The hardest part is that we have to change the mass of this object.",
+      "start": 794.2,
+      "end": 800.5
+    },
+    {
+      "id": "seg-122",
+      "text": "And the way that I'm going to do that is prominently demonstrated on the cover of my book.",
+      "start": 800.5,
+      "end": 812.3
+    },
+    {
+      "id": "seg-123",
+      "text": "Yes, I'm going to hang on that pendulum.",
+      "start": 812.3,
+      "end": 818.0
+    },
+    {
+      "id": "seg-124",
+      "text": "It is a difficult demonstration.",
+      "start": 818.0,
+      "end": 820.0
+    },
+    {
+      "id": "seg-125",
+      "text": "First of all, it is painful, it really is.",
+      "start": 822.5,
+      "end": 825.8
+    },
+    {
+      "id": "seg-126",
+      "text": "Second, the timing is tricky, because when you look at a pendulum and when you see it stand still, you know, that is really well defined $\\pm 0.1$ second.",
+      "start": 825.8,
+      "end": 834.9
+    },
+    {
+      "id": "seg-127",
+      "text": "When you are swinging yourself however, then you can only do it by sensing the moment that you think you stand still, and that's what I will do.",
+      "start": 837.4,
+      "end": 848.5
+    },
+    {
+      "id": "seg-128",
+      "text": "And then you will do the counting.",
+      "start": 848.5,
+      "end": 850.5
+    },
+    {
+      "id": "seg-129",
+      "text": "And this is very unpleasant, it is.",
+      "start": 853.3,
+      "end": 864.4
+    },
+    {
+      "id": "seg-130",
+      "text": "Oh, there's something else I haven't told you.",
+      "start": 864.4,
+      "end": 867.6
+    },
+    {
+      "id": "seg-131",
+      "text": "If you're a good physicist, you will say: \"if you're going to sit on that bob, then effectively you bring the mass of the bob up, and so the length of the pendulum will shorten and so you get a shorter period.\"",
+      "start": 867.6,
+      "end": 884.4
+    },
+    {
+      "id": "seg-132",
+      "text": "And I know that too.",
+      "start": 884.4,
+      "end": 887.5
+    },
+    {
+      "id": "seg-133",
+      "text": "Therefore, I will have to stretch my body so that when it is here that it is almost completely parallel to the floor, if I don't do that, I will not be able to convince you that the period is independent of the mass.",
+      "start": 887.5,
+      "end": 903.0
+    },
+    {
+      "id": "seg-134",
+      "text": "And that makes it very difficult for me.",
+      "start": 903.0,
+      "end": 913.6
+    },
+    {
+      "id": "seg-135",
+      "text": "So I will start it at some moment, you will see when, and then you do the counting.",
+      "start": 913.6,
+      "end": 919.2
+    },
+    {
+      "id": "seg-136",
+      "text": "Are you ready?",
+      "start": 936.5,
+      "end": 938.5
+    },
+    {
+      "id": "seg-137",
+      "text": "Okay.",
+      "start": 939.8,
+      "end": 941.8
+    },
+    {
+      "id": "seg-138",
+      "text": "Yeah!",
+      "start": 944.0,
+      "end": 946.0
+    },
+    {
+      "id": "seg-139",
+      "text": "You count!",
+      "start": 947.0,
+      "end": 949.0
+    },
+    {
+      "id": "seg-140",
+      "text": "One!",
+      "start": 949.0,
+      "end": 951.0
+    },
+    {
+      "id": "seg-141",
+      "text": "Two!",
+      "start": 951.0,
+      "end": 953.0
+    },
+    {
+      "id": "seg-142",
+      "text": "This happens sometimes.",
+      "start": 958.3,
+      "end": 965.6
+    },
+    {
+      "id": "seg-143",
+      "text": "And in fact, nobody knows why.",
+      "start": 965.6,
+      "end": 969.0
+    },
+    {
+      "id": "seg-144",
+      "text": "Have to start all over.",
+      "start": 969.0,
+      "end": 971.0
+    },
+    {
+      "id": "seg-145",
+      "text": "I did not stop it, I really didn't. Oh, it's still counting?",
+      "start": 975.2,
+      "end": 978.3
+    },
+    {
+      "id": "seg-146",
+      "text": "Okay, I have enough energy to give it one more attempt, but not to give it two more attempts.",
+      "start": 983.1,
+      "end": 988.5
+    },
+    {
+      "id": "seg-147",
+      "text": "Okay. You ready?",
+      "start": 992.0,
+      "end": 994.0
+    },
+    {
+      "id": "seg-148",
+      "text": "Okay.",
+      "start": 995.1,
+      "end": 997.1
+    },
+    {
+      "id": "seg-149",
+      "text": "One!",
+      "start": 997.1,
+      "end": 999.1
+    },
+    {
+      "id": "seg-150",
+      "text": "Two!",
+      "start": 999.1,
+      "end": 1001.1
+    },
+    {
+      "id": "seg-151",
+      "text": "Three!",
+      "start": 1001.1,
+      "end": 1003.1
+    },
+    {
+      "id": "seg-152",
+      "text": "Oh, this really hurts.",
+      "start": 1014.7,
+      "end": 1016.7
+    },
+    {
+      "id": "seg-153",
+      "text": "Four!",
+      "start": 1016.7,
+      "end": 1018.7
+    },
+    {
+      "id": "seg-154",
+      "text": "Five!",
+      "start": 1018.7,
+      "end": 1020.7
+    },
+    {
+      "id": "seg-155",
+      "text": "Can't you count a little faster?",
+      "start": 1023.8,
+      "end": 1025.8
+    },
+    {
+      "id": "seg-156",
+      "text": "Six!",
+      "start": 1025.8,
+      "end": 1027.8
+    },
+    {
+      "id": "seg-157",
+      "text": "Seven!",
+      "start": 1027.8,
+      "end": 1029.8
+    },
+    {
+      "id": "seg-158",
+      "text": "Eight!",
+      "start": 1029.8,
+      "end": 1031.8
+    },
+    {
+      "id": "seg-159",
+      "text": "Nine!",
+      "start": 1031.8,
+      "end": 1033.8
+    },
+    {
+      "id": "seg-160",
+      "text": "Ten!",
+      "start": 1033.8,
+      "end": 1035.8
+    },
+    {
+      "id": "seg-161",
+      "text": "$10T$ with Walter Lewin, what is it?",
+      "start": 1083.2,
+      "end": 1086.1
+    },
+    {
+      "id": "seg-162",
+      "text": "$45.9 \\pm 0.2$",
+      "start": 1086.1,
+      "end": 1088.1
+    },
+    {
+      "id": "seg-163",
+      "text": "Period is $4.59 \\pm 0.02$.",
+      "start": 1096.6,
+      "end": 1098.6
+    },
+    {
+      "id": "seg-164",
+      "text": "I told you, physics works.",
+      "start": 1104.4,
+      "end": 1106.4
+    },
+    {
+      "id": "seg-165",
+      "text": "If I have a tennis ball in my hand and I drop the tennis ball from a certain height, give it no speed, and it will bounce back, then it can never bounce higher than where it started from.",
+      "start": 1124.5,
+      "end": 1138.6
+    },
+    {
+      "id": "seg-166",
+      "text": "If it did, then we physicists would say that is a gross violation of the conservation of energy and that is the holiest of all laws in physics.",
+      "start": 1138.6,
+      "end": 1150.3
+    },
+    {
+      "id": "seg-167",
+      "text": "It cannot go higher.",
+      "start": 1150.3,
+      "end": 1156.4
+    },
+    {
+      "id": "seg-168",
+      "text": "Suppose the object has a mass $m$ and is a distance $h$ from the floor.",
+      "start": 1156.4,
+      "end": 1168.0
+    },
+    {
+      "id": "seg-169",
+      "text": "Here is the floor, here is the object, $h$.",
+      "start": 1168.0,
+      "end": 1172.1
+    },
+    {
+      "id": "seg-170",
+      "text": "We associate with the position of that object an energy that has a name, we call that potential energy.",
+      "start": 1172.1,
+      "end": 1183.1
+    },
+    {
+      "id": "seg-171",
+      "text": "And that potential energy is $mgh$.",
+      "start": 1183.1,
+      "end": 1185.1
+    },
+    {
+      "id": "seg-172",
+      "text": "You already know what $g$ is, well $h$ is this distance in meters.",
+      "start": 1186.8,
+      "end": 1192.8
+    },
+    {
+      "id": "seg-173",
+      "text": "So when the object is here on the floor, $h$ is $0$.",
+      "start": 1192.8,
+      "end": 1195.6
+    },
+    {
+      "id": "seg-174",
+      "text": "So there is no potential energy.",
+      "start": 1195.6,
+      "end": 1200.9
+    },
+    {
+      "id": "seg-175",
+      "text": "As the object goes down, it picks up speed and we associate with speed energy which we call kinetic energy.",
+      "start": 1200.9,
+      "end": 1209.4
+    },
+    {
+      "id": "seg-176",
+      "text": "And the kinetic energy of an object with mass $m$ is $\\frac{1}{2}mv^2$, $m$ is the mass, and $v$ is the speed of that object.",
+      "start": 1209.4,
+      "end": 1224.9
+    },
+    {
+      "id": "seg-177",
+      "text": "If the object goes down and it hits the floor, then the potential energy is $0$ and all that energy is now converted to kinetic energy, because energy, we believe, is conserved.",
+      "start": 1228.1,
+      "end": 1241.7
+    },
+    {
+      "id": "seg-178",
+      "text": "Now when it hits the floor, some of that kinetic energy may be converted into heat because of the compression.",
+      "start": 1241.7,
+      "end": 1251.6
+    },
+    {
+      "id": "seg-179",
+      "text": "If it were a tennis ball, that would certainly happen.",
+      "start": 1251.6,
+      "end": 1253.7
+    },
+    {
+      "id": "seg-180",
+      "text": "So in other words, when it bounces back, the total energy is no longer the full $mgh$ but is a little less and so it won't bounce as high.",
+      "start": 1253.7,
+      "end": 1265.9
+    },
+    {
+      "id": "seg-181",
+      "text": "But there is no way that it could come up higher than $h$.",
+      "start": 1265.9,
+      "end": 1269.2
+    },
+    {
+      "id": "seg-182",
+      "text": "Suppose it could come after one bounce up here.",
+      "start": 1269.2,
+      "end": 1272.3
+    },
+    {
+      "id": "seg-183",
+      "text": "Well, that would solve the world energy problem because you simply sit down and you watch the ball game and there goes the ball higher and the second one, it goes again higher but why, if it goes the first time higher, it will do that the second time.",
+      "start": 1275.8,
+      "end": 1290.5
+    },
+    {
+      "id": "seg-184",
+      "text": "And so after an hour, that thing is about a few thousand meters in the sky and when it comes down on the floor, it has an enormous speed, great amount of kinetic energy and so you got energy out of nothing.",
+      "start": 1290.5,
+      "end": 1302.8
+    },
+    {
+      "id": "seg-185",
+      "text": "But there is no such thing in physics as a free lunch, so that's not going to happen.",
+      "start": 1302.8,
+      "end": 1307.0
+    },
+    {
+      "id": "seg-186",
+      "text": "So the object can never go any higher than $h$ and with a tennis ball, there is also what we call the dissipation of heat when it hits the floor.",
+      "start": 1307.0,
+      "end": 1318.6
+    },
+    {
+      "id": "seg-187",
+      "text": "Now the situation is difficult with a pendulum because a pendulum doesn't hit the floor and so there is no heat loss because it doesn't hit the floor.",
+      "start": 1321.4,
+      "end": 1333.8
+    },
+    {
+      "id": "seg-188",
+      "text": "So if you bring a pendulum at a certain distance above the ground like this and you let it swing, when it comes back here, it is almost exactly at that same height.",
+      "start": 1333.8,
+      "end": 1348.2
+    },
+    {
+      "id": "seg-189",
+      "text": "Cannot be higher. That would be a violation of the conservation of energy.",
+      "start": 1348.2,
+      "end": 1353.9
+    },
+    {
+      "id": "seg-190",
+      "text": "But since the air drag is so small, there is almost no damping.",
+      "start": 1353.9,
+      "end": 1358.0
+    },
+    {
+      "id": "seg-191",
+      "text": "And in fact, when you saw the demonstration I just did, you may have noticed that you really didn't see this, it really kept going and it kept going.",
+      "start": 1358.0,
+      "end": 1369.3
+    },
+    {
+      "id": "seg-192",
+      "text": "As long as you realize that if I release it from a certain location with zero speed, it can never when it comes back be higher than that location.",
+      "start": 1369.3,
+      "end": 1381.2
+    },
+    {
+      "id": "seg-193",
+      "text": "This whole idea is behind demolishing buildings.",
+      "start": 1381.2,
+      "end": 1384.7
+    },
+    {
+      "id": "seg-194",
+      "text": "With a building demolishing, you take a huge mass, you lift it up over a distance $h$ and then you put your target, which is your house or whatever it is, right at the bottom when all this potential energy is being converted to kinetic energy and so this object is hit with an enormous amount of energy, high speed, and you demolish thereby the wall.",
+      "start": 1388.0,
+      "end": 1414.2
+    },
+    {
+      "id": "seg-195",
+      "text": "Here we have a glass plate. You better go out of the way because it's going this is a dangerous experiment.",
+      "start": 1414.2,
+      "end": 1421.7
+    },
+    {
+      "id": "seg-196",
+      "text": "It's a glass one.",
+      "start": 1421.7,
+      "end": 1423.7
+    },
+    {
+      "id": "seg-197",
+      "text": "So if I bring this object exactly at that glass wall, and if I'm clever enough to let it go with zero speed, it could not break that glass.",
+      "start": 1424.1,
+      "end": 1438.2
+    },
+    {
+      "id": "seg-198",
+      "text": "But if my hands shake a little, and if I give it a little push, then of course it can come back and it may want to go higher than this, and that would mean...",
+      "start": 1440.2,
+      "end": 1451.1
+    },
+    {
+      "id": "seg-199",
+      "text": "I know you guys.",
+      "start": 1472.6,
+      "end": 1473.9
+    },
+    {
+      "id": "seg-200",
+      "text": "Students love it when the glass breaks.",
+      "start": 1473.9,
+      "end": 1478.8
+    },
+    {
+      "id": "seg-201",
+      "text": "That's why they pay such a high tuition at MIT.",
+      "start": 1478.8,
+      "end": 1481.1
+    },
+    {
+      "id": "seg-202",
+      "text": "That's okay, just take that off.",
+      "start": 1503.9,
+      "end": 1507.0
+    },
+    {
+      "id": "seg-203",
+      "text": "Now comes an experiment which is emotionally the most difficult for me of this whole evening.",
+      "start": 1509.2,
+      "end": 1514.5
+    },
+    {
+      "id": "seg-204",
+      "text": "I'm going to put my life on the line to show you that I'm a real believer of the conservation of energy.",
+      "start": 1518.6,
+      "end": 1527.8
+    },
+    {
+      "id": "seg-205",
+      "text": "And you will see how I'm going to do that.",
+      "start": 1527.8,
+      "end": 1532.5
+    },
+    {
+      "id": "seg-206",
+      "text": "I'm going to take the place of the glass.",
+      "start": 1532.5,
+      "end": 1536.8
+    },
+    {
+      "id": "seg-207",
+      "text": "And I'm going to hold this object at my chin and I cannot move any further back, so there's no cheat here.",
+      "start": 1536.8,
+      "end": 1548.0
+    },
+    {
+      "id": "seg-208",
+      "text": "I'm going to release it right from my chin here.",
+      "start": 1548.0,
+      "end": 1552.4
+    },
+    {
+      "id": "seg-209",
+      "text": "You realize as you have just seen that the slightest push and this will be my last lecture.",
+      "start": 1552.4,
+      "end": 1565.6
+    },
+    {
+      "id": "seg-210",
+      "text": "And no book signing afterwards.",
+      "start": 1565.6,
+      "end": 1572.8
+    },
+    {
+      "id": "seg-211",
+      "text": "So I need your collaboration.",
+      "start": 1572.8,
+      "end": 1576.0
+    },
+    {
+      "id": "seg-212",
+      "text": "When I count down from three to zero, no noise, no coughing, and I would even appreciate it if for those three seconds you would not even breathe.",
+      "start": 1576.0,
+      "end": 1593.6
+    },
+    {
+      "id": "seg-213",
+      "text": "And I have to tell you something: I couldn't sleep all night.",
+      "start": 1593.6,
+      "end": 1600.3
+    },
+    {
+      "id": "seg-214",
+      "text": "I'm going to close my eyes, I don't want to see it, and I'm going to count down from three to zero.",
+      "start": 1600.3,
+      "end": 1613.2
+    },
+    {
+      "id": "seg-215",
+      "text": "Three, two, one, zero.",
+      "start": 1613.2,
+      "end": 1615.2
+    },
+    {
+      "id": "seg-216",
+      "text": "I normally after this demonstration tell the class: physics works and I'm still alive.",
+      "start": 1641.6,
+      "end": 1648.0
+    },
+    {
+      "id": "seg-217",
+      "text": "And when an article was written about me in the New York Times a few years ago, on the second page of the New York Times is the wisdom of the day, and the wisdom of the day was: physics works and I'm still alive.",
+      "start": 1650.9,
+      "end": 1663.0
+    },
+    {
+      "id": "seg-218",
+      "text": "White light, like sunlight, is composed of all the colors that you see in the rainbow.",
+      "start": 1678.8,
+      "end": 1686.0
+    },
+    {
+      "id": "seg-219",
+      "text": "If I scatter white light off very small particles, then the blue light is scattered more than the red light, and we give that a name in physics, we call that Rayleigh scattering.",
+      "start": 1686.0,
+      "end": 1698.4
+    },
+    {
+      "id": "seg-220",
+      "text": "Rayleigh scattering only happens when the particles of which the white light scatters is smaller than a tenth of a micron.",
+      "start": 1702.0,
+      "end": 1710.4
+    },
+    {
+      "id": "seg-221",
+      "text": "That means a thousand times smaller than the thickness of your hair, so it has to be very, very small.",
+      "start": 1710.4,
+      "end": 1717.1
+    },
+    {
+      "id": "seg-222",
+      "text": "If it is, if the particles are as large as half a micron, then there is no longer Rayleigh scattering, there is no preferred scattering for the blue light, all colors scatter equally, and so white light scattered off particles that are half a micron or larger remains white.",
+      "start": 1717.1,
+      "end": 1742.7
+    },
+    {
+      "id": "seg-223",
+      "text": "The dependence of the power of scattering, so I'll give that $P$, the power is proportional, when we have Rayleigh scattering\u2014this is the only equation that may bother you\u2014to $1 / \\lambda^4$, and $\\lambda$ is the wavelength of light.",
+      "start": 1742.7,
+      "end": 1766.1
+    },
+    {
+      "id": "seg-224",
+      "text": "And I will not bother you to tell you what the wavelength of light is, that may confuse you, but I will tell you that blue light has a wavelength which is about 1.5 times lower than red light.",
+      "start": 1766.1,
+      "end": 1778.2
+    },
+    {
+      "id": "seg-225",
+      "text": "And so if you take 1.5 to the power 4... trust me, yeah, 1.5 to the power 4, you get 5.",
+      "start": 1782.5,
+      "end": 1788.8
+    },
+    {
+      "id": "seg-226",
+      "text": "And that means in Rayleigh scattering, blue light has a five times higher probability to scatter than red light.",
+      "start": 1788.8,
+      "end": 1800.0
+    },
+    {
+      "id": "seg-227",
+      "text": "And I'm going to demonstrate that to you in two complete different ways.",
+      "start": 1800.0,
+      "end": 1802.5
+    },
+    {
+      "id": "seg-228",
+      "text": "The first way that I'm going to do that is to make it completely dark in the lecture hall and have light going straight up here.",
+      "start": 1808.1,
+      "end": 1819.1
+    },
+    {
+      "id": "seg-229",
+      "text": "Then I will light a cigarette, and the smoke of a cigarette has particles that are smaller than a tenth of a micron.",
+      "start": 1819.1,
+      "end": 1828.8
+    },
+    {
+      "id": "seg-230",
+      "text": "And so the light that you will see that is scattered off the smoke will be blue.",
+      "start": 1828.8,
+      "end": 1837.6
+    },
+    {
+      "id": "seg-231",
+      "text": "So you have seen in front of your own eyes Rayleigh scattering, because the red light more or less goes through, it is really the blue that dominates it, that has the highest probability.",
+      "start": 1837.6,
+      "end": 1849.3
+    },
+    {
+      "id": "seg-232",
+      "text": "So we'll first going to do that demonstration to show you Rayleigh scattering of cigarette smoke.",
+      "start": 1852.0,
+      "end": 1859.2
+    },
+    {
+      "id": "seg-233",
+      "text": "And then I have a surprise for you to also show you Mie scattering.",
+      "start": 1859.2,
+      "end": 1863.0
+    },
+    {
+      "id": "seg-234",
+      "text": "But let's first do the Rayleigh scattering with cigarette smoke.",
+      "start": 1863.0,
+      "end": 1869.7
+    },
+    {
+      "id": "seg-235",
+      "text": "This is also not a pleasant demonstration.",
+      "start": 1869.7,
+      "end": 1874.4
+    },
+    {
+      "id": "seg-236",
+      "text": "For those of you who think that lecturing is easy, no.",
+      "start": 1874.4,
+      "end": 1902.3
+    },
+    {
+      "id": "seg-237",
+      "text": "Okay.",
+      "start": 1902.3,
+      "end": 1904.3
+    },
+    {
+      "id": "seg-238",
+      "text": "Going to make it completely dark, and then I'm going to hold it in there.",
+      "start": 1915.4,
+      "end": 1919.6
+    },
+    {
+      "id": "seg-239",
+      "text": "All lights off, all off, all off.",
+      "start": 1919.6,
+      "end": 1925.6
+    },
+    {
+      "id": "seg-240",
+      "text": "So, we all agree that this is white light which is coming up, and you don't see the light here because there is nothing that scatters it in your direction.",
+      "start": 1925.6,
+      "end": 1933.8
+    },
+    {
+      "id": "seg-241",
+      "text": "So you don't see light here, but now look.",
+      "start": 1933.8,
+      "end": 1938.0
+    },
+    {
+      "id": "seg-242",
+      "text": "Those of you who see blue, say yeah.",
+      "start": 1938.0,
+      "end": 1941.8
+    },
+    {
+      "id": "seg-243",
+      "text": "Those of you who do not see blue, say no.",
+      "start": 1944.4,
+      "end": 1947.1
+    },
+    {
+      "id": "seg-244",
+      "text": "You better see an eye doctor.",
+      "start": 1948.9,
+      "end": 1955.3
+    },
+    {
+      "id": "seg-245",
+      "text": "Now comes the hardest part.",
+      "start": 1955.3,
+      "end": 1957.3
+    },
+    {
+      "id": "seg-246",
+      "text": "If I inhale the smoke and I leave it in my lungs for a minute, there is water vapor in my lungs and this water vapor will precipitate onto these very small smoke particles.",
+      "start": 1959.5,
+      "end": 1971.2
+    },
+    {
+      "id": "seg-247",
+      "text": "And so the smoke particles will grow, they will become small water drops larger than $0.5$ microns.",
+      "start": 1974.8,
+      "end": 1979.4
+    },
+    {
+      "id": "seg-248",
+      "text": "And that means if I hold it one minute in my lungs and puff it out, you will not see blue light, but you will see white light because you're now in the Mie scattering domain; all colors scatters equally.",
+      "start": 1979.4,
+      "end": 1995.7
+    },
+    {
+      "id": "seg-249",
+      "text": "I will tell you that just before I puff it out and you will see the white smoke, I will just before I do that, I will remind you of the color that you see now.",
+      "start": 1995.7,
+      "end": 2009.3
+    },
+    {
+      "id": "seg-250",
+      "text": "I will only do that for a few seconds, then I will remove it and I will empty my lungs.",
+      "start": 2009.3,
+      "end": 2016.6
+    },
+    {
+      "id": "seg-251",
+      "text": "Terrible demo.",
+      "start": 2016.6,
+      "end": 2018.6
+    },
+    {
+      "id": "seg-252",
+      "text": "Who saw the white light just say yes.",
+      "start": 2062.8,
+      "end": 2064.8
+    },
+    {
+      "id": "seg-253",
+      "text": "If any one of you has the courage to say no, who did not see white light?",
+      "start": 2066.6,
+      "end": 2072.9
+    },
+    {
+      "id": "seg-254",
+      "text": "Thank you.",
+      "start": 2078.2,
+      "end": 2080.2
+    },
+    {
+      "id": "seg-255",
+      "text": "I'm now going to explain to you, in fact, you could probably guess that, why the sky is blue and why clouds are white.",
+      "start": 2089.1,
+      "end": 2104.4
+    },
+    {
+      "id": "seg-256",
+      "text": "Clouds consist of very small water drops, surely larger than half a micron, which is Mie scattering.",
+      "start": 2104.4,
+      "end": 2110.2
+    },
+    {
+      "id": "seg-257",
+      "text": "So the white light of the sun, scattered off the cloud, white remains white.",
+      "start": 2110.2,
+      "end": 2118.0
+    },
+    {
+      "id": "seg-258",
+      "text": "So you now for the first time in your life may have an explanation why clouds are white.",
+      "start": 2118.0,
+      "end": 2126.7
+    },
+    {
+      "id": "seg-259",
+      "text": "And you should or may also understand now why the sky is blue.",
+      "start": 2126.7,
+      "end": 2136.2
+    },
+    {
+      "id": "seg-260",
+      "text": "Here is the ground, and you are here.",
+      "start": 2136.2,
+      "end": 2140.8
+    },
+    {
+      "id": "seg-261",
+      "text": "And here is say roughly the top of the atmosphere.",
+      "start": 2140.8,
+      "end": 2145.4
+    },
+    {
+      "id": "seg-262",
+      "text": "And the sunlight comes in like this, the sun is infinitely far away, so the sun comes in like this.",
+      "start": 2145.4,
+      "end": 2157.2
+    },
+    {
+      "id": "seg-263",
+      "text": "The atmosphere is full of very small dust particles, smaller than a tenth of a micron, and even the density fluctuations of the air molecules themselves are clearly smaller than a tenth of a micron, and so you get ideal Rayleigh scattering.",
+      "start": 2157.2,
+      "end": 2175.8
+    },
+    {
+      "id": "seg-264",
+      "text": "So white light comes in, you're standing here, but what is the light that comes to you? Predominantly blue.",
+      "start": 2175.8,
+      "end": 2185.1
+    },
+    {
+      "id": "seg-265",
+      "text": "So the sky is blue.",
+      "start": 2185.1,
+      "end": 2187.1
+    },
+    {
+      "id": "seg-266",
+      "text": "The light that is scattered here, comes to you is predominantly blue.",
+      "start": 2189.1,
+      "end": 2191.3
+    },
+    {
+      "id": "seg-267",
+      "text": "So that's why the sky is blue.",
+      "start": 2191.3,
+      "end": 2194.6
+    },
+    {
+      "id": "seg-268",
+      "text": "And so the reason is simply that it is Rayleigh scattering off the dust particles in the atmosphere.",
+      "start": 2194.6,
+      "end": 2206.6
+    },
+    {
+      "id": "seg-269",
+      "text": "If the sun is high in the sky, the total amount of sunlight that is scattered in your direction is only $1\\%$, so it's very little.",
+      "start": 2206.6,
+      "end": 2217.4
+    },
+    {
+      "id": "seg-270",
+      "text": "The sun is $5^{\\circ}$ above the horizon, then the sunlight has to travel through a lot more atmosphere.",
+      "start": 2217.4,
+      "end": 2228.0
+    },
+    {
+      "id": "seg-271",
+      "text": "And so I take here a situation which is extreme when we have sunrise or sunset.",
+      "start": 2228.0,
+      "end": 2235.2
+    },
+    {
+      "id": "seg-272",
+      "text": "So the sun is there and the light comes from this side and you are standing here, this is not to scale.",
+      "start": 2235.2,
+      "end": 2245.5
+    },
+    {
+      "id": "seg-273",
+      "text": "This layer of atmosphere is now so enormously large that more than $99\\%$ of all the sunlight on the way to you is scattered away.",
+      "start": 2245.5,
+      "end": 2259.5
+    },
+    {
+      "id": "seg-274",
+      "text": "So what is scattered away? The blue is gone.",
+      "start": 2259.5,
+      "end": 2262.7
+    },
+    {
+      "id": "seg-275",
+      "text": "But if you look at $1/\\lambda^4$, the green is gone.",
+      "start": 2262.7,
+      "end": 2267.4
+    },
+    {
+      "id": "seg-276",
+      "text": "All colors are gone, there is only one color which has the largest wavelength, which by the way is $650 \\text{ nm}$.",
+      "start": 2267.4,
+      "end": 2272.1
+    },
+    {
+      "id": "seg-277",
+      "text": "I wasn't supposed to tell you but I decided.",
+      "start": 2274.6,
+      "end": 2279.5
+    },
+    {
+      "id": "seg-278",
+      "text": "So the only light that makes it through you is red.",
+      "start": 2279.5,
+      "end": 2285.0
+    },
+    {
+      "id": "seg-279",
+      "text": "And so that is the reason why the sun looks red, and there is a cloud here in the sky and that cloud sees light where all the small wavelengths have been scattered out, and so this side of the cloud is also red.",
+      "start": 2285.0,
+      "end": 2305.6
+    },
+    {
+      "id": "seg-280",
+      "text": "You can now understand that the more pollution there is in the air, the more beautiful sunsets are.",
+      "start": 2305.6,
+      "end": 2313.6
+    },
+    {
+      "id": "seg-281",
+      "text": "And it is well known that after volcanic eruptions, the sunsets and the sunrises are truly fantastic.",
+      "start": 2313.6,
+      "end": 2322.8
+    },
+    {
+      "id": "seg-282",
+      "text": "It's also the moon that is red when it comes up.",
+      "start": 2322.8,
+      "end": 2325.9
+    },
+    {
+      "id": "seg-283",
+      "text": "And even the stars and the planets, you may never have noticed it because it's not an overwhelming thing, it is the sun that is the overwhelming thing that makes the entire sky red.",
+      "start": 2325.9,
+      "end": 2337.6
+    },
+    {
+      "id": "seg-284",
+      "text": "And so I have decided that I'm going to create in 26.100 a blue sky for you and a red sunset.",
+      "start": 2340.6,
+      "end": 2352.4
+    },
+    {
+      "id": "seg-285",
+      "text": "Killing two birds with one stone.",
+      "start": 2352.4,
+      "end": 2355.3
+    },
+    {
+      "id": "seg-286",
+      "text": "And for the physicist in my audience, I'm going to kill three birds with one stone, but the third bird comes a little later.",
+      "start": 2355.3,
+      "end": 2363.7
+    },
+    {
+      "id": "seg-287",
+      "text": "I have here a bucket which is filled with sodium thiosulfate in this bucket.",
+      "start": 2365.7,
+      "end": 2371.6
+    },
+    {
+      "id": "seg-288",
+      "text": "And when I turn the light on, you will not even see any light from that bucket.",
+      "start": 2371.6,
+      "end": 2379.4
+    },
+    {
+      "id": "seg-289",
+      "text": "Nothing is scattered in your direction.",
+      "start": 2379.4,
+      "end": 2384.0
+    },
+    {
+      "id": "seg-290",
+      "text": "I think of that as being the sun by the way.",
+      "start": 2384.0,
+      "end": 2388.0
+    },
+    {
+      "id": "seg-291",
+      "text": "Now I'm going to add a little bit of sulfuric acid.",
+      "start": 2388.0,
+      "end": 2391.7
+    },
+    {
+      "id": "seg-292",
+      "text": "And when I do that, very small sulfur particles, smaller than a tenth of a micron, will precipitate in that solution.",
+      "start": 2391.7,
+      "end": 2404.1
+    },
+    {
+      "id": "seg-293",
+      "text": "Rayleigh scattering. And so the light that will come to you is blue.",
+      "start": 2404.1,
+      "end": 2410.8
+    },
+    {
+      "id": "seg-294",
+      "text": "And you'll see blue light just like with the smoke.",
+      "start": 2410.8,
+      "end": 2415.4
+    },
+    {
+      "id": "seg-295",
+      "text": "But now as time goes on, we will get more and more and more and more of those $.1$ micron particles.",
+      "start": 2415.4,
+      "end": 2425.9
+    },
+    {
+      "id": "seg-296",
+      "text": "And so the light that comes out here has no blue in it anymore, it doesn't have any green in it anymore, it's all scattered in your direction just like here with the sunset.",
+      "start": 2425.9,
+      "end": 2436.6
+    },
+    {
+      "id": "seg-297",
+      "text": "So what color do you think the sun is going to get?",
+      "start": 2436.6,
+      "end": 2441.2
+    },
+    {
+      "id": "seg-298",
+      "text": "Red. It's going to be red. That's why I said I'm going to kill two birds with one stone.",
+      "start": 2441.2,
+      "end": 2447.5
+    },
+    {
+      "id": "seg-299",
+      "text": "So I will add the sulfuric acid.",
+      "start": 2447.5,
+      "end": 2453.5
+    },
+    {
+      "id": "seg-300",
+      "text": "The difficulty with this experiment is always if you put too much sulfuric acid in it, the whole process goes too fast, and if you put too little in it, then you will become impatient - at least MIT students would.",
+      "start": 2453.5,
+      "end": 2467.0
+    },
+    {
+      "id": "seg-301",
+      "text": "So I'm going to put this in and stir.",
+      "start": 2467.0,
+      "end": 2470.2
+    },
+    {
+      "id": "seg-302",
+      "text": "And then make it immediately dark.",
+      "start": 2470.2,
+      "end": 2481.2
+    },
+    {
+      "id": "seg-303",
+      "text": "And I want you to look at the sky, which is here is the sky.",
+      "start": 2481.2,
+      "end": 2484.3
+    },
+    {
+      "id": "seg-304",
+      "text": "If you sit all the way there, you don't see it so well, but look, how much did you pay for this? These people have a better view.",
+      "start": 2484.3,
+      "end": 2492.2
+    },
+    {
+      "id": "seg-305",
+      "text": "So just keep looking. For me, it's already beginning to turn little bluish.",
+      "start": 2497.1,
+      "end": 2504.8
+    },
+    {
+      "id": "seg-306",
+      "text": "We'll just give it a little bit more time.",
+      "start": 2504.8,
+      "end": 2507.0
+    },
+    {
+      "id": "seg-307",
+      "text": "The sun looks just white light as it was before.",
+      "start": 2507.0,
+      "end": 2520.0
+    },
+    {
+      "id": "seg-308",
+      "text": "I always have a backup you see, if this takes too long, then what I do I add another teeny-weeny little bit of sulfuric acid to speed up the process a little.",
+      "start": 2520.0,
+      "end": 2544.4
+    },
+    {
+      "id": "seg-309",
+      "text": "I see blue light and when I look at the sun, it looks a little reddish already.",
+      "start": 2544.4,
+      "end": 2548.0
+    },
+    {
+      "id": "seg-310",
+      "text": "For the physicist among you, light that scatters over an angle of $90^{\\circ}$, this light that scatters in this direction - the people who paid the most tonight who are sitting right here - the light is also linearly polarized.",
+      "start": 2552.9,
+      "end": 2566.9
+    },
+    {
+      "id": "seg-311",
+      "text": "That was also the case with the smoke experiment, but I didn't mention that.",
+      "start": 2566.9,
+      "end": 2574.8
+    },
+    {
+      "id": "seg-312",
+      "text": "But for those of you who are sitting here, I can show you with my polarimeter when I rotate my polarimeter that I can make the blue sky completely dark and I can make the blue sky completely bright again.",
+      "start": 2574.8,
+      "end": 2586.6
+    },
+    {
+      "id": "seg-313",
+      "text": "The people who are sitting there, the angle of scattering is not $90^{\\circ}$, so they won't see it so well, but you people see it very well, don't you?",
+      "start": 2586.6,
+      "end": 2596.5
+    },
+    {
+      "id": "seg-314",
+      "text": "Yes.",
+      "start": 2596.5,
+      "end": 2598.5
+    },
+    {
+      "id": "seg-315",
+      "text": "100% polarized.",
+      "start": 2599.2,
+      "end": 2601.2
+    },
+    {
+      "id": "seg-316",
+      "text": "Look at that sun.",
+      "start": 2609.9,
+      "end": 2611.9
+    },
+    {
+      "id": "seg-317",
+      "text": "Let's face it, isn't this incredibly romantic?",
+      "start": 2612.1,
+      "end": 2617.2
+    },
+    {
+      "id": "seg-318",
+      "text": "In 26.100, the center of MIT, you are seeing in the lecture hall a red sunset.",
+      "start": 2617.2,
+      "end": 2626.4
+    },
+    {
+      "id": "seg-319",
+      "text": "And in fact, the sun is so red now that I think the sunset is very close.",
+      "start": 2629.4,
+      "end": 2638.2
+    },
+    {
+      "id": "seg-320",
+      "text": "I have given in this lecture hall about 800 lectures, and it is wonderful to be back here.",
+      "start": 2662.7,
+      "end": 2675.8
+    },
+    {
+      "id": "seg-321",
+      "text": "But it really hurts to know that this is my last lecture in 26.100.",
+      "start": 2675.8,
+      "end": 2680.0
+    },
+    {
+      "id": "seg-322",
+      "text": "I have therefore decided that I want to leave you in style.",
+      "start": 2686.2,
+      "end": 2693.1
+    },
+    {
+      "id": "seg-323",
+      "text": "And the way I will do that is to leave 26.100.",
+      "start": 2693.1,
+      "end": 2697.1
+    },
+    {
+      "id": "seg-324",
+      "text": "100 in my own private rocket.",
+      "start": 2700.2,
+      "end": 2702.2
+    },
+    {
+      "id": "seg-325",
+      "text": "Thank you.",
+      "start": 2702.2,
+      "end": 2704.2
+    },
+    {
+      "id": "seg-326",
+      "text": "Thank you.",
+      "start": 2798.9,
+      "end": 2800.0
+    },
+    {
+      "id": "seg-327",
+      "text": "Thank you.",
+      "start": 2800.0,
+      "end": 2802.0
+    },
+    {
+      "id": "seg-328",
+      "text": "Thank you.",
+      "start": 2814.6,
+      "end": 2816.6
+    },
+    {
+      "id": "seg-329",
+      "text": "So now we have about 15 minutes left for questions.",
+      "start": 2816.6,
+      "end": 2823.2
+    },
+    {
+      "id": "seg-330",
+      "text": "And if you have a question raise your hand, then Claire will come to you with the microphone.",
+      "start": 2823.2,
+      "end": 2827.7
+    },
+    {
+      "id": "seg-331",
+      "text": "And then I hope we can communicate that way.",
+      "start": 2827.7,
+      "end": 2831.6
+    },
+    {
+      "id": "seg-332",
+      "text": "You phrase the question and I will try to give the answer.",
+      "start": 2831.6,
+      "end": 2836.7
+    },
+    {
+      "id": "seg-333",
+      "text": "So who wants to go first?",
+      "start": 2836.7,
+      "end": 2838.7
+    },
+    {
+      "id": "seg-334",
+      "text": "There's a person there. Yes we see you hand here, you'll be next.",
+      "start": 2840.1,
+      "end": 2842.6
+    },
+    {
+      "id": "seg-335",
+      "text": "Thank you for a beautiful lecture.",
+      "start": 2854.6,
+      "end": 2856.6
+    },
+    {
+      "id": "seg-336",
+      "text": "I'm tempted to ask you what $\\pi$ is.",
+      "start": 2856.6,
+      "end": 2858.6
+    },
+    {
+      "id": "seg-337",
+      "text": "It's not so easy for me to understand you.",
+      "start": 2858.6,
+      "end": 2860.6
+    },
+    {
+      "id": "seg-338",
+      "text": "Thank you for a beautiful lecture.",
+      "start": 2860.6,
+      "end": 2862.6
+    },
+    {
+      "id": "seg-339",
+      "text": "I'm tempted to ask you what $\\pi$ is, but I think I better ask instead...",
+      "start": 2856.6,
+      "end": 2860.4
+    },
+    {
+      "id": "seg-340",
+      "text": "Well, have you ever ever had gone to a Thanksgiving dinner?",
+      "start": 2860.4,
+      "end": 2866.5
+    },
+    {
+      "id": "seg-341",
+      "text": "That's another pie.",
+      "start": 2866.5,
+      "end": 2868.5
+    },
+    {
+      "id": "seg-342",
+      "text": "Okay. Are you familiar with the alleged phenomenon of a green flash at sunset and can you explain that please?",
+      "start": 2869.4,
+      "end": 2881.4
+    },
+    {
+      "id": "seg-343",
+      "text": "The answer is yes. I've seen it many times.",
+      "start": 2881.4,
+      "end": 2883.4
+    },
+    {
+      "id": "seg-344",
+      "text": "The explanation is not as simple as you may think.",
+      "start": 2883.4,
+      "end": 2886.2
+    },
+    {
+      "id": "seg-345",
+      "text": "I would suggest, and I mean that seriously, since it a short answer is not possible, that you look it up on the web, it's well described.",
+      "start": 2886.2,
+      "end": 2895.4
+    },
+    {
+      "id": "seg-346",
+      "text": "I have seen it many times in Austria, in the mountains.",
+      "start": 2895.4,
+      "end": 2897.6
+    },
+    {
+      "id": "seg-347",
+      "text": "That indeed the last fraction of setting of the sun that you may, but not always, see a green flash.",
+      "start": 2897.6,
+      "end": 2905.0
+    },
+    {
+      "id": "seg-348",
+      "text": "And if you ever want to see it, you have to be with two people.",
+      "start": 2908.8,
+      "end": 2911.0
+    },
+    {
+      "id": "seg-349",
+      "text": "One person has to be standing next to you and you should not look at the sun.",
+      "start": 2911.0,
+      "end": 2916.2
+    },
+    {
+      "id": "seg-350",
+      "text": "Because if you look at the sun, even though there's almost no sunlight left, you still your retina is still too overexposed.",
+      "start": 2916.2,
+      "end": 2924.1
+    },
+    {
+      "id": "seg-351",
+      "text": "And so the person next to you when you look like this should say, \"Look now!\"",
+      "start": 2928.8,
+      "end": 2933.3
+    },
+    {
+      "id": "seg-352",
+      "text": "And then you look and that's the way it is.",
+      "start": 2933.3,
+      "end": 2936.3
+    },
+    {
+      "id": "seg-353",
+      "text": "There's a question right here, why don't we take that first and then there's a woman over there and this gentleman oh also yeah.",
+      "start": 2947.8,
+      "end": 2953.0
+    },
+    {
+      "id": "seg-354",
+      "text": "Well I just want to thank you for the lecture and I was wondering as a youngster",
+      "start": 2953.0,
+      "end": 2957.0
+    },
+    {
+      "id": "seg-355",
+      "text": "What was the last question? How do your lectures evolve over time?",
+      "start": 3180.0,
+      "end": 3182.6
+    },
+    {
+      "id": "seg-356",
+      "text": "Didn't get it. How do your lectures evolve over time?",
+      "start": 3186.3,
+      "end": 3189.0
+    },
+    {
+      "id": "seg-357",
+      "text": "Yeah. I think I was always eccentric.",
+      "start": 3199.2,
+      "end": 3201.2
+    },
+    {
+      "id": "seg-358",
+      "text": "It's true.",
+      "start": 3204.6,
+      "end": 3205.7
+    },
+    {
+      "id": "seg-359",
+      "text": "And so from day one, my lectures were always different from the mean.",
+      "start": 3205.7,
+      "end": 3209.7
+    },
+    {
+      "id": "seg-360",
+      "text": "But of course they evolved in a way that grew substantially.",
+      "start": 3209.7,
+      "end": 3219.2
+    },
+    {
+      "id": "seg-361",
+      "text": "And that is not because of the dotting of the line, because I could already do that in high school.",
+      "start": 3219.2,
+      "end": 3223.1
+    },
+    {
+      "id": "seg-362",
+      "text": "Today, there are hundred of my lectures that can be viewed on the web.",
+      "start": 3229.6,
+      "end": 3234.7
+    },
+    {
+      "id": "seg-363",
+      "text": "Two complete courses: the first course for freshmen, the second course electricity and magnetism, and the first course for sophomores, vibrations and waves.",
+      "start": 3234.7,
+      "end": 3245.4
+    },
+    {
+      "id": "seg-364",
+      "text": "They are now being viewed daily on average by 6000 people all over the world, which is 2 million per year.",
+      "start": 3245.4,
+      "end": 3251.6
+    },
+    {
+      "id": "seg-365",
+      "text": "And so every morning when I wake up and during the day, about two dozen questions come to me by email from all over the world.",
+      "start": 3255.1,
+      "end": 3262.1
+    },
+    {
+      "id": "seg-366",
+      "text": "Many ask questions and I answer every single email.",
+      "start": 3262.1,
+      "end": 3265.8
+    },
+    {
+      "id": "seg-367",
+      "text": "But it is amazing that many physics professors want to know how I make those dotted lines!",
+      "start": 3265.8,
+      "end": 3277.8
+    },
+    {
+      "id": "seg-368",
+      "text": "There is a two minutes videotape, which someone made.",
+      "start": 3288.6,
+      "end": 3293.4
+    },
+    {
+      "id": "seg-369",
+      "text": "Someone looked at all the dotted lines that I ever drew in $8.01$ and put that in one videotape.",
+      "start": 3293.4,
+      "end": 3299.5
+    },
+    {
+      "id": "seg-370",
+      "text": "It's a riot.",
+      "start": 3305.1,
+      "end": 3307.3
+    },
+    {
+      "id": "seg-371",
+      "text": "You see.",
+      "start": 3307.3,
+      "end": 3309.3
+    },
+    {
+      "id": "seg-372",
+      "text": "Okay, we have time for a few more questions.",
+      "start": 3319.5,
+      "end": 3323.0
+    },
+    {
+      "id": "seg-373",
+      "text": "Yeah, Anna. Anna, please use the microphone although I'm so close to you that I can probably understand you.",
+      "start": 3323.0,
+      "end": 3328.4
+    },
+    {
+      "id": "seg-374",
+      "text": "Anna is my Facebook friend. I have an art quiz on Facebook twice a week, and then my Facebook friends who can answer the questions are always mentioned every day that they have the answer right.",
+      "start": 3331.4,
+      "end": 3342.5
+    },
+    {
+      "id": "seg-375",
+      "text": "Anna is at or near the top; she almost always has it right and she sometimes writes me email and then she says, \"Walter, I've worked 8 hours on this one, I really have to give up.\"",
+      "start": 3344.6,
+      "end": 3355.1
+    },
+    {
+      "id": "seg-376",
+      "text": "I don't have more time.",
+      "start": 3355.1,
+      "end": 3357.4
+    },
+    {
+      "id": "seg-377",
+      "text": "Go ahead. What is your favorite lecture of all the lectures that you've given, like in how you do your...",
+      "start": 3357.4,
+      "end": 3361.7
+    },
+    {
+      "id": "seg-378",
+      "text": "I don't have a favorite one. No. I really don't.",
+      "start": 3363.6,
+      "end": 3366.3
+    },
+    {
+      "id": "seg-379",
+      "text": "I love all the subjects, $8.01$ or $8.02$ or $8.03$.",
+      "start": 3366.3,
+      "end": 3368.4
+    },
+    {
+      "id": "seg-380",
+      "text": "No, I really cannot say I have a favorite.",
+      "start": 3368.4,
+      "end": 3371.9
+    },
+    {
+      "id": "seg-381",
+      "text": "If you ask me my favorite artist, we can talk about that.",
+      "start": 3371.9,
+      "end": 3373.5
+    },
+    {
+      "id": "seg-382",
+      "text": "But we do that on Facebook.",
+      "start": 3377.3,
+      "end": 3379.3
+    },
+    {
+      "id": "seg-383",
+      "text": "There is a question here and there is one there.",
+      "start": 3383.8,
+      "end": 3385.5
+    },
+    {
+      "id": "seg-384",
+      "text": "Ah, we have still 5 minutes for questions.",
+      "start": 3385.5,
+      "end": 3387.4
+    },
+    {
+      "id": "seg-385",
+      "text": "Where are we, Claire? Who has the microphone?",
+      "start": 3394.9,
+      "end": 3397.5
+    },
+    {
+      "id": "seg-386",
+      "text": "Hello? Do I need to turn this on?",
+      "start": 3397.5,
+      "end": 3399.5
+    },
+    {
+      "id": "seg-387",
+      "text": "It's on. I'm wondering how rainbows relate to Rayleigh scattering, do they?",
+      "start": 3401.8,
+      "end": 3404.7
+    },
+    {
+      "id": "seg-388",
+      "text": "And also why are they round?",
+      "start": 3404.7,
+      "end": 3406.7
+    },
+    {
+      "id": "seg-389",
+      "text": "How rainbows what? Do rainbows have anything to do with Rayleigh scattering and also why are they round?",
+      "start": 3407.0,
+      "end": 3412.3
+    },
+    {
+      "id": "seg-390",
+      "text": "Buy my book. It's explained in my book.",
+      "start": 3416.6,
+      "end": 3432.1
+    },
+    {
+      "id": "seg-391",
+      "text": "Hi. How do you prepare your lectures?",
+      "start": 3432.1,
+      "end": 3435.6
+    },
+    {
+      "id": "seg-392",
+      "text": "How much time do you take to prepare?",
+      "start": 3435.6,
+      "end": 3439.0
+    },
+    {
+      "id": "seg-393",
+      "text": "It's a very good question, and if I tell you how I prepare them, then my colleagues at MIT are going to hate me.",
+      "start": 3441.4,
+      "end": 3450.2
+    },
+    {
+      "id": "seg-394",
+      "text": "On average, the preparation for one lecture is about 40 to 60 hours.",
+      "start": 3450.2,
+      "end": 3453.5
+    },
+    {
+      "id": "seg-395",
+      "text": "I dry run the lecture in an empty classroom with everything on the blackboard that I am going to write on the blackboard, pretending that there is a full class in front of me.",
+      "start": 3453.5,
+      "end": 3467.3
+    },
+    {
+      "id": "seg-396",
+      "text": "But there is no one. And I talk to them as if there is one.",
+      "start": 3467.3,
+      "end": 3470.0
+    },
+    {
+      "id": "seg-397",
+      "text": "I do that two weeks before the lecture.",
+      "start": 3470.0,
+      "end": 3471.9
+    },
+    {
+      "id": "seg-398",
+      "text": "In general, the lecture is then a little bit too long, so I have to do some surgery.",
+      "start": 3471.9,
+      "end": 3479.1
+    },
+    {
+      "id": "seg-399",
+      "text": "Then one week before the lecture, I dry run again.",
+      "start": 3479.1,
+      "end": 3481.4
+    },
+    {
+      "id": "seg-400",
+      "text": "Then I'm very close to the time.",
+      "start": 3481.4,
+      "end": 3484.2
+    },
+    {
+      "id": "seg-401",
+      "text": "And then 5 AM of the morning of the lecture, you can ask my wife, I am at MIT and I give the same lecture dry run for an empty classroom at 5:30 in the morning.",
+      "start": 3484.2,
+      "end": 3496.4
+    },
+    {
+      "id": "seg-402",
+      "text": "When the lecture is at 10 and the same lecture is at 11.",
+      "start": 3496.4,
+      "end": 3502.4
+    },
+    {
+      "id": "seg-403",
+      "text": "That's the way I prepare. Don't tell my colleagues, they would hate me.",
+      "start": 3502.4,
+      "end": 3505.5
+    },
+    {
+      "id": "seg-404",
+      "text": "By the way, I made an exception for this lecture.",
+      "start": 3519.2,
+      "end": 3521.6
+    },
+    {
+      "id": "seg-405",
+      "text": "I dry run this lecture six times.",
+      "start": 3521.6,
+      "end": 3524.2
+    },
+    {
+      "id": "seg-406",
+      "text": "I wanted to know... Hi. What advice do you have for a student wanting to become a physicist?",
+      "start": 3527.5,
+      "end": 3534.6
+    },
+    {
+      "id": "seg-407",
+      "text": "What do you have what?",
+      "start": 3534.6,
+      "end": 3536.3
+    },
+    {
+      "id": "seg-408",
+      "text": "What advice do you have for students who want to be a physicist?",
+      "start": 3536.3,
+      "end": 3537.8
+    },
+    {
+      "id": "seg-409",
+      "text": "You have to love it.",
+      "start": 3537.8,
+      "end": 3539.2
+    },
+    {
+      "id": "seg-410",
+      "text": "And if you don't love it, don't touch it.",
+      "start": 3539.2,
+      "end": 3543.2
+    },
+    {
+      "id": "seg-411",
+      "text": "And if you hate it, it is because you had a very bad teacher.",
+      "start": 3543.2,
+      "end": 3548.5
+    },
+    {
+      "id": "seg-412",
+      "text": "I make every student, and not only at MIT, but all over the world, I make them love physics.",
+      "start": 3548.5,
+      "end": 3555.1
+    },
+    {
+      "id": "seg-413",
+      "text": "You can read that in my book, you should buy it.",
+      "start": 3555.1,
+      "end": 3564.4
+    },
+    {
+      "id": "seg-414",
+      "text": "Okay, one more question. Yeah, this gentleman here.",
+      "start": 3570.0,
+      "end": 3572.0
+    },
+    {
+      "id": "seg-415",
+      "text": "What do you do for fun? Besides give lectures?",
+      "start": 3576.7,
+      "end": 3579.9
+    },
+    {
+      "id": "seg-416",
+      "text": "Art. Art history. Is my love.",
+      "start": 3579.9,
+      "end": 3582.6
+    },
+    {
+      "id": "seg-417",
+      "text": "Physics is my life, art history is my love.",
+      "start": 3582.6,
+      "end": 3586.3
+    },
+    {
+      "id": "seg-418",
+      "text": "Thank you.",
+      "start": 3586.3,
+      "end": 3588.3
+    },
+    {
+      "id": "seg-419",
+      "text": "So, the book signing will start.",
+      "start": 3608.9,
+      "end": 3612.0
+    },
+    {
+      "id": "seg-420",
+      "text": "You can buy books, you can buy books in the hall, and you can come down.",
+      "start": 3612.0,
+      "end": 3615.1
+    },
+    {
+      "id": "seg-421",
+      "text": "Now I have one request.",
+      "start": 3617.1,
+      "end": 3619.1
+    },
+    {
+      "id": "seg-422",
+      "text": "Put in the book a piece of paper, and write down with very clear letters to whom I address that book.",
+      "start": 3619.4,
+      "end": 3625.4
+    },
+    {
+      "id": "seg-423",
+      "text": "So if it is for your daughter, and her daughter is Emily, you write \"For Emily\".",
+      "start": 3625.4,
+      "end": 3630.7
+    },
+    {
+      "id": "seg-424",
+      "text": "Even though your name may be Peter, I will write in the book \"For Emily\" and sign Walter Lewin.",
+      "start": 3630.7,
+      "end": 3637.0
+    },
+    {
+      "id": "seg-425",
+      "text": "If you don't put in a piece of paper, it's going to take so long.",
+      "start": 3639.4,
+      "end": 3641.6
+    },
+    {
+      "id": "seg-426",
+      "text": "A few days ago I had a book signing.",
+      "start": 3641.6,
+      "end": 3644.6
+    },
+    {
+      "id": "seg-427",
+      "text": "And I didn't ask them for a piece of paper.",
+      "start": 3644.6,
+      "end": 3647.4
+    },
+    {
+      "id": "seg-428",
+      "text": "So here comes someone from Turkey to me, and I said, \"What is your name?\" and he said, \"My name is Ataceca.\"",
+      "start": 3647.4,
+      "end": 3653.4
+    },
+    {
+      "id": "seg-429",
+      "text": "And then I said, \"How do you spell that?\"",
+      "start": 3653.4,
+      "end": 3655.8
+    },
+    {
+      "id": "seg-430",
+      "text": "He says, \"Oh that's very easy, it's A-T-I-G-G-A.\"",
+      "start": 3655.8,
+      "end": 3657.7
+    },
+    {
+      "id": "seg-431",
+      "text": "And then I said, \"Well it would be better, wouldn't it, if you write it on a piece of paper?\"",
+      "start": 3660.6,
+      "end": 3665.3
+    },
+    {
+      "id": "seg-432",
+      "text": "And I couldn't even read it.",
+      "start": 3665.3,
+      "end": 3667.0
+    },
+    {
+      "id": "seg-433",
+      "text": "So please write very carefully the name to whom I should address the book.",
+      "start": 3669.4,
+      "end": 3674.6
+    }
+  ],
+  "equations": [
+    {
+      "id": "eq-0",
+      "latex": "T = 2\\pi \\sqrt{\\frac{L}{g}}",
+      "description": "The formula for the period T of a pendulum, equal to 2 pi times the square root of the length L divided by the gravitational acceleration g.",
+      "start": 65,
+      "end": 81,
+      "confidence": 1.0,
+      "section": "Introduction to Pendulum Physics"
+    },
+    {
+      "id": "eq-1",
+      "latex": "g = 9.80 \\frac{\\text{m/sec}}{\\text{sec}}",
+      "description": "The value of gravitational acceleration g is approximately 9.80 meters per second per second.",
+      "start": 87,
+      "end": 134,
+      "confidence": 1.0,
+      "section": "Introduction to Pendulum Physics"
+    },
+    {
+      "id": "eq-2",
+      "latex": "L = 5.21",
+      "description": "The length L of the pendulum used in the demonstration is 5.21 meters.",
+      "start": 270,
+      "end": 307,
+      "confidence": 1.0,
+      "section": "Introduction to Pendulum Physics"
+    },
+    {
+      "id": "eq-3",
+      "latex": "\\text{Predict} = 4.58 \\pm 0.02 \\text{ sec}",
+      "description": "A predicted period of 4.58 seconds with an uncertainty of plus or minus 0.02 seconds.",
+      "start": 325,
+      "end": 371,
+      "confidence": 0.95,
+      "section": "Introduction to Pendulum Physics"
+    },
+    {
+      "id": "eq-4",
+      "latex": "5^\\circ \\quad 10T",
+      "description": "The professor writes '5 degrees' and '10T' representing the initial oscillation angle and 10 periods of oscillation.",
+      "start": 465,
+      "end": 468,
+      "confidence": 0.95,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-5",
+      "latex": "10^\\circ",
+      "description": "The professor writes '10 degrees' to indicate the second experimental condition.",
+      "start": 470,
+      "end": 472,
+      "confidence": 0.95,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-6",
+      "latex": "= \\dots \\pm 0.2",
+      "description": "The professor adds an equals sign, a placeholder for the measurement, and an uncertainty of plus or minus 0.2 seconds to the first line.",
+      "start": 489,
+      "end": 496,
+      "confidence": 0.95,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-7",
+      "latex": "10T = \\dots \\pm 0.2",
+      "description": "The professor writes '10T equals' followed by a placeholder and the uncertainty for the second line.",
+      "start": 501,
+      "end": 511,
+      "confidence": 0.95,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-8",
+      "latex": "45.7",
+      "description": "The professor fills in the measured time for 10 oscillations at 5 degrees as 45.7 seconds.",
+      "start": 655,
+      "end": 659,
+      "confidence": 1.0,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-9",
+      "latex": "\\rightarrow T = 4.57 \\pm 0.028 \\text{ sec}",
+      "description": "The professor calculates the single period T for 5 degrees by dividing by 10, resulting in 4.57 plus or minus 0.028 seconds.",
+      "start": 661,
+      "end": 680,
+      "confidence": 0.95,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-10",
+      "latex": "45.8",
+      "description": "The professor fills in the measured time for 10 oscillations at 10 degrees as 45.8 seconds.",
+      "start": 776,
+      "end": 781,
+      "confidence": 1.0,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-11",
+      "latex": "\\rightarrow T = 4.58 \\pm 0.028 \\text{ sec}",
+      "description": "The professor calculates the single period T for 10 degrees as 4.58 plus or minus 0.028 seconds.",
+      "start": 783,
+      "end": 791,
+      "confidence": 0.95,
+      "section": "Testing Pendulum Amplitude"
+    },
+    {
+      "id": "eq-12",
+      "latex": "10T_{WL} = 45.9 \\pm 0.2",
+      "description": "The measured time for 10 oscillations of the pendulum with Walter Lewin as the mass is 45.9 plus or minus 0.2 seconds.",
+      "start": 1082,
+      "end": 1093,
+      "confidence": 0.95,
+      "section": "Testing Mass Independence"
+    },
+    {
+      "id": "eq-13",
+      "latex": "T = 4.59 \\pm 0.02",
+      "description": "The calculated period T for the pendulum with Walter Lewin as the mass is 4.59 plus or minus 0.02 seconds.",
+      "start": 1094,
+      "end": 1104,
+      "confidence": 0.98,
+      "section": "Testing Mass Independence"
+    },
+    {
+      "id": "eq-14",
+      "latex": "PE = mgh",
+      "description": "The formula for potential energy (PE) is equal to mass (m) times the acceleration due to gravity (g) times the height (h).",
+      "start": 1182,
+      "end": 1193,
+      "confidence": 0.99,
+      "section": "Conservation of Energy and the Glass Demo"
+    },
+    {
+      "id": "eq-15",
+      "latex": "KE = \\frac{1}{2}mv^{2}",
+      "description": "The formula for kinetic energy (KE) is equal to one-half the mass (m) times the velocity (v) squared.",
+      "start": 1215,
+      "end": 1228,
+      "confidence": 0.99,
+      "section": "Conservation of Energy and the Glass Demo"
+    },
+    {
+      "id": "eq-16",
+      "latex": "P \\propto \\frac{1}{\\lambda^4}",
+      "description": "The power of Rayleigh scattering P is proportional to the inverse of the wavelength lambda raised to the fourth power.",
+      "start": 1749,
+      "end": 1770,
+      "confidence": 0.98,
+      "section": "The Chin Demo and Scattering Theory"
+    }
+  ],
+  "autoCaptions": [
+    {
+      "start": 0.2,
+      "end": 2.6,
+      "text": "Take your"
+    },
+    {
+      "start": 2.6,
+      "end": 6.4,
+      "text": "seats. Take your seats"
+    },
+    {
+      "start": 10.9,
+      "end": 16.9,
+      "text": "please. My lecture will be about 40"
+    },
+    {
+      "start": 13.7,
+      "end": 18.9,
+      "text": "minutes and after that I will give"
+    },
+    {
+      "start": 16.9,
+      "end": 21.8,
+      "text": "anyone the opportunity to ask me"
+    },
+    {
+      "start": 18.9,
+      "end": 23.8,
+      "text": "questions for about 15 or 20 minutes. So"
+    },
+    {
+      "start": 21.8,
+      "end": 26.3,
+      "text": "the whole thing will be one hour and it"
+    },
+    {
+      "start": 23.8,
+      "end": 28.6,
+      "text": "is after that hour that we will do book"
+    },
+    {
+      "start": 26.3,
+      "end": 31.4,
+      "text": "signing. can buy the books there if you"
+    },
+    {
+      "start": 28.6,
+      "end": 34.1,
+      "text": "want to and I'll sign them here. We'll"
+    },
+    {
+      "start": 31.4,
+      "end": 34.1,
+      "text": "get back to that"
+    },
+    {
+      "start": 34.4,
+      "end": 40.2,
+      "text": "later. If"
+    },
+    {
+      "start": 36.8,
+      "end": 40.2,
+      "text": "you have a"
+    },
+    {
+      "start": 40.3,
+      "end": 48.4,
+      "text": "pendulum, this is a"
+    },
+    {
+      "start": 43.0,
+      "end": 51.6,
+      "text": "pendulum mass m length L. Then you can"
+    },
+    {
+      "start": 48.4,
+      "end": 54.2,
+      "text": "derive, which I do in class, but I won't"
+    },
+    {
+      "start": 51.6,
+      "end": 56.6,
+      "text": "bore you with that. You can derive how"
+    },
+    {
+      "start": 54.2,
+      "end": 58.1,
+      "text": "long it takes for the pendulum to make"
+    },
+    {
+      "start": 56.6,
+      "end": 60.5,
+      "text": "one complete"
+    },
+    {
+      "start": 58.1,
+      "end": 61.6,
+      "text": "oscillation. And we call that the period"
+    },
+    {
+      "start": 60.5,
+      "end": 64.6,
+      "text": "of the"
+    },
+    {
+      "start": 61.6,
+      "end": 65.9,
+      "text": "pendulum. And I derive in class that"
+    },
+    {
+      "start": 64.6,
+      "end": 68.3,
+      "text": "that"
+    },
+    {
+      "start": 65.9,
+      "end": 73.7,
+      "text": "period equals 2"
+    },
+    {
+      "start": 68.3,
+      "end": 76.2,
+      "text": "pi time the square root of l / g. You"
+    },
+    {
+      "start": 73.7,
+      "end": 78.0,
+      "text": "already know what l is. If you don't"
+    },
+    {
+      "start": 76.2,
+      "end": 81.0,
+      "text": "know what pi is, you might as well leave"
+    },
+    {
+      "start": 78.0,
+      "end": 85.1,
+      "text": "right now."
+    },
+    {
+      "start": 81.0,
+      "end": 88.3,
+      "text": "And g is what we call the gravitational"
+    },
+    {
+      "start": 85.1,
+      "end": 91.3,
+      "text": "acceleration which is approximately the"
+    },
+    {
+      "start": 88.3,
+      "end": 94.4,
+      "text": "same everywhere on earth but it is very"
+    },
+    {
+      "start": 91.3,
+      "end": 99.1,
+      "text": "close in Boston to"
+    },
+    {
+      "start": 94.4,
+      "end": 101.3,
+      "text": "9.80 meters per second per second. And"
+    },
+    {
+      "start": 99.1,
+      "end": 103.6,
+      "text": "you will say well that's weird meters/s"
+    },
+    {
+      "start": 101.3,
+      "end": 105.8,
+      "text": "per second. What that means is that if"
+    },
+    {
+      "start": 103.6,
+      "end": 108.6,
+      "text": "you have an object and you drop it from"
+    },
+    {
+      "start": 105.8,
+      "end": 111.5,
+      "text": "a very large altitude very high few"
+    },
+    {
+      "start": 108.6,
+      "end": 114.6,
+      "text": "hundred meters high and I dropped it"
+    },
+    {
+      "start": 111.5,
+      "end": 118.6,
+      "text": "zero speed after one second it will have"
+    },
+    {
+      "start": 114.6,
+      "end": 122.5,
+      "text": "a speed of 9.8 m/s but after another"
+    },
+    {
+      "start": 118.6,
+      "end": 125.2,
+      "text": "second it will add to that 9.8 m/s. So"
+    },
+    {
+      "start": 122.5,
+      "end": 127.8,
+      "text": "it's twice that and after 3 seconds it's"
+    },
+    {
+      "start": 125.2,
+      "end": 131.4,
+      "text": "three seconds. So now you understand why"
+    },
+    {
+      "start": 127.8,
+      "end": 134.4,
+      "text": "it is meters per second per second. And"
+    },
+    {
+      "start": 131.4,
+      "end": 134.4,
+      "text": "so that's the meaning of"
+    },
+    {
+      "start": 136.8,
+      "end": 142.4,
+      "text": "G. There is something weird about this"
+    },
+    {
+      "start": 139.7,
+      "end": 144.6,
+      "text": "equation. Something that must go against"
+    },
+    {
+      "start": 142.4,
+      "end": 147.1,
+      "text": "your intuition. And you shouldn't feel"
+    },
+    {
+      "start": 144.6,
+      "end": 149.4,
+      "text": "bad because it also goes against my"
+    },
+    {
+      "start": 147.1,
+      "end": 152.1,
+      "text": "intuition. So we have the"
+    },
+    {
+      "start": 149.4,
+      "end": 154.7,
+      "text": "pendulum and suppose I bring the"
+    },
+    {
+      "start": 152.1,
+      "end": 156.9,
+      "text": "pendulum all the way out here. We call"
+    },
+    {
+      "start": 154.7,
+      "end": 159.9,
+      "text": "that the amplitude of the pendulum. And"
+    },
+    {
+      "start": 156.9,
+      "end": 163.3,
+      "text": "we let it swing back and forth."
+    },
+    {
+      "start": 159.9,
+      "end": 165.8,
+      "text": "there's a certain period. But now we"
+    },
+    {
+      "start": 163.3,
+      "end": 168.5,
+      "text": "bring it out only this far. It doesn't"
+    },
+    {
+      "start": 165.8,
+      "end": 170.3,
+      "text": "have to travel much very much at all."
+    },
+    {
+      "start": 168.5,
+      "end": 174.2,
+      "text": "Doesn't that make a difference in the"
+    },
+    {
+      "start": 170.3,
+      "end": 176.1,
+      "text": "period? The equation says no, it"
+    },
+    {
+      "start": 174.2,
+      "end": 177.7,
+      "text": "doesn't. Because if it did make a"
+    },
+    {
+      "start": 176.1,
+      "end": 180.9,
+      "text": "difference, there would be in that"
+    },
+    {
+      "start": 177.7,
+      "end": 182.9,
+      "text": "equation the amplitude which is not. And"
+    },
+    {
+      "start": 180.9,
+      "end": 185.6,
+      "text": "I'm going to demonstrate that to you"
+    },
+    {
+      "start": 182.9,
+      "end": 188.6,
+      "text": "that it is quite remarkable that indeed"
+    },
+    {
+      "start": 185.6,
+      "end": 192.2,
+      "text": "that period is independent of amplitude."
+    },
+    {
+      "start": 188.6,
+      "end": 194.3,
+      "text": "If you don't go to extreme values of the"
+    },
+    {
+      "start": 192.2,
+      "end": 197.6,
+      "text": "amplitude, there's something else in"
+    },
+    {
+      "start": 194.3,
+      "end": 200.3,
+      "text": "here which is even more"
+    },
+    {
+      "start": 197.6,
+      "end": 204.9,
+      "text": "non-intuitive and that"
+    },
+    {
+      "start": 200.3,
+      "end": 206.8,
+      "text": "is doesn't it matter whether the bob we"
+    },
+    {
+      "start": 204.9,
+      "end": 209.3,
+      "text": "call this the bob whether it is 1"
+    },
+    {
+      "start": 206.8,
+      "end": 211.4,
+      "text": "kilogram or 500"
+    },
+    {
+      "start": 209.3,
+      "end": 213.0,
+      "text": "kilograms you would think well that must"
+    },
+    {
+      "start": 211.4,
+      "end": 216.8,
+      "text": "be a different must make a difference in"
+    },
+    {
+      "start": 213.0,
+      "end": 219.6,
+      "text": "the period but the equation says"
+    },
+    {
+      "start": 216.8,
+      "end": 221.7,
+      "text": "sorry it doesn't. And I'm going to"
+    },
+    {
+      "start": 219.6,
+      "end": 225.1,
+      "text": "demonstrate that to you,"
+    },
+    {
+      "start": 221.7,
+      "end": 227.5,
+      "text": "too. We have here, by the way, if you"
+    },
+    {
+      "start": 225.1,
+      "end": 230.8,
+      "text": "ever want to test this pendulum, this"
+    },
+    {
+      "start": 227.5,
+      "end": 233.8,
+      "text": "equation for yourself. Put in L equals 1"
+    },
+    {
+      "start": 230.8,
+      "end": 237.0,
+      "text": "meter. And use this number, you will get"
+    },
+    {
+      "start": 233.8,
+      "end": 239.1,
+      "text": "a period of 2.0 seconds. It's very easy"
+    },
+    {
+      "start": 237.0,
+      "end": 241.0,
+      "text": "to do at home. You make one one meter."
+    },
+    {
+      "start": 239.1,
+      "end": 242.9,
+      "text": "You put an apple at the bottom and you"
+    },
+    {
+      "start": 241.0,
+      "end": 244.6,
+      "text": "swing it. May the one meter has to be"
+    },
+    {
+      "start": 242.9,
+      "end": 246.3,
+      "text": "accurate. You see that it's going to be"
+    },
+    {
+      "start": 244.6,
+      "end": 248.2,
+      "text": "2.0"
+    },
+    {
+      "start": 246.3,
+      "end": 251.2,
+      "text": "seconds."
+    },
+    {
+      "start": 248.2,
+      "end": 255.7,
+      "text": "Our pendulum that we have"
+    },
+    {
+      "start": 251.2,
+      "end": 258.5,
+      "text": "here is really the mother of all"
+    },
+    {
+      "start": 255.7,
+      "end": 263.5,
+      "text": "pendulums. Look at"
+    },
+    {
+      "start": 258.5,
+      "end": 267.1,
+      "text": "it. 15 12 kilograms and the length of"
+    },
+    {
+      "start": 263.5,
+      "end": 270.6,
+      "text": "this pendulum is"
+    },
+    {
+      "start": 267.1,
+      "end": 274.9,
+      "text": "5.21 m."
+    },
+    {
+      "start": 270.6,
+      "end": 277.8,
+      "text": "However, you must understand that it is"
+    },
+    {
+      "start": 274.9,
+      "end": 280.4,
+      "text": "very difficult to measure that to very"
+    },
+    {
+      "start": 277.8,
+      "end": 282.6,
+      "text": "high accuracy. And so there is an"
+    },
+    {
+      "start": 280.4,
+      "end": 285.0,
+      "text": "uncertainty in the measurement of the"
+    },
+    {
+      "start": 282.6,
+      "end": 288.7,
+      "text": "length that we have to be honest about"
+    },
+    {
+      "start": 285.0,
+      "end": 292.0,
+      "text": "because we are physicists after all. And"
+    },
+    {
+      "start": 288.7,
+      "end": 297.1,
+      "text": "the uncertainty we estimate is about 5"
+    },
+    {
+      "start": 292.0,
+      "end": 302.6,
+      "text": "cm. So we could be off by 5 cm."
+    },
+    {
+      "start": 297.1,
+      "end": 303.6,
+      "text": "That means that is 1% 5 cmters is 1% out"
+    },
+    {
+      "start": 302.6,
+      "end": 307.1,
+      "text": "of"
+    },
+    {
+      "start": 303.6,
+      "end": 310.2,
+      "text": "521. But since L only shows up as the"
+    },
+    {
+      "start": 307.1,
+      "end": 312.7,
+      "text": "square root, it means the uncertainty in"
+    },
+    {
+      "start": 310.2,
+      "end": 314.7,
+      "text": "the time that we predict is only half a"
+    },
+    {
+      "start": 312.7,
+      "end": 316.9,
+      "text": "percent. And if you don't see the reason"
+    },
+    {
+      "start": 314.7,
+      "end": 318.6,
+      "text": "why the 1% becomes half a percent,"
+    },
+    {
+      "start": 316.9,
+      "end": 320.7,
+      "text": "that's okay. Then just forget about it."
+    },
+    {
+      "start": 318.6,
+      "end": 325.6,
+      "text": "You take my word for"
+    },
+    {
+      "start": 320.7,
+      "end": 326.8,
+      "text": "it. So now I can make a prediction."
+    },
+    {
+      "start": 325.6,
+      "end": 330.3,
+      "text": "So I"
+    },
+    {
+      "start": 326.8,
+      "end": 332.4,
+      "text": "predict using this equation. That's all"
+    },
+    {
+      "start": 330.3,
+      "end": 337.2,
+      "text": "I do. I put in"
+    },
+    {
+      "start": 332.4,
+      "end": 339.8,
+      "text": "5.21. I put in 9.80. I multiply by 2 pi."
+    },
+    {
+      "start": 337.2,
+      "end": 344.3,
+      "text": "And I make the prediction that the"
+    },
+    {
+      "start": 339.8,
+      "end": 344.3,
+      "text": "period of that pendulum is"
+    },
+    {
+      "start": 345.5,
+      "end": 350.6,
+      "text": "4.58 plus or minus"
+    },
+    {
+      "start": 349.0,
+      "end": 354.1,
+      "text": "0.02"
+    },
+    {
+      "start": 350.6,
+      "end": 355.8,
+      "text": "seconds. Why the plus or minus 0.02?"
+    },
+    {
+      "start": 354.1,
+      "end": 358.5,
+      "text": "Well, that is the half a percent"
+    },
+    {
+      "start": 355.8,
+      "end": 360.5,
+      "text": "uncertainty due to the square root of L."
+    },
+    {
+      "start": 358.5,
+      "end": 364.6,
+      "text": "And you can immediately see that 2 is"
+    },
+    {
+      "start": 360.5,
+      "end": 367.4,
+      "text": "about half% of 458. So my prediction can"
+    },
+    {
+      "start": 364.6,
+      "end": 367.4,
+      "text": "be no better than"
+    },
+    {
+      "start": 367.6,
+      "end": 373.4,
+      "text": "that. Now comes the problem. I have to"
+    },
+    {
+      "start": 371.1,
+      "end": 375.5,
+      "text": "measure the period to convince you that"
+    },
+    {
+      "start": 373.4,
+      "end": 377.4,
+      "text": "it is independent of amplitude and to"
+    },
+    {
+      "start": 375.5,
+      "end": 380.6,
+      "text": "convince you that it is independent of"
+    },
+    {
+      "start": 377.4,
+      "end": 383.0,
+      "text": "mass. So the biggest problem now is"
+    },
+    {
+      "start": 380.6,
+      "end": 386.7,
+      "text": "Walter Luben himself which is my"
+    },
+    {
+      "start": 383.0,
+      "end": 388.0,
+      "text": "reaction time. How accurately am I able"
+    },
+    {
+      "start": 386.7,
+      "end": 391.2,
+      "text": "to make that"
+    },
+    {
+      "start": 388.0,
+      "end": 394.0,
+      "text": "measurement? That has nothing to do with"
+    },
+    {
+      "start": 391.2,
+      "end": 398.7,
+      "text": "our lack of knowledge of the exact"
+    },
+    {
+      "start": 394.0,
+      "end": 401.7,
+      "text": "length. Now the last time that I gave"
+    },
+    {
+      "start": 398.7,
+      "end": 404.1,
+      "text": "this lecture with the pendulum is 12"
+    },
+    {
+      "start": 401.7,
+      "end": 408.9,
+      "text": "years ago. I was"
+    },
+    {
+      "start": 404.1,
+      "end": 412.3,
+      "text": "63. And at that time I told the class my"
+    },
+    {
+      "start": 408.9,
+      "end": 415.2,
+      "text": "reaction time is a tenth of a"
+    },
+    {
+      "start": 412.3,
+      "end": 418.6,
+      "text": "second and it"
+    },
+    {
+      "start": 415.2,
+      "end": 420.9,
+      "text": "was but now I'm"
+    },
+    {
+      "start": 418.6,
+      "end": 425.3,
+      "text": "75 and"
+    },
+    {
+      "start": 420.9,
+      "end": 428.5,
+      "text": "so my reaction time is no longer 0.1"
+    },
+    {
+      "start": 425.3,
+      "end": 432.7,
+      "text": "seconds. What is it? Well, I do not"
+    },
+    {
+      "start": 428.5,
+      "end": 436.2,
+      "text": "know. But I have a feeling that if you"
+    },
+    {
+      "start": 432.7,
+      "end": 439.2,
+      "text": "want to be kind to me for a change, let"
+    },
+    {
+      "start": 436.2,
+      "end": 443.1,
+      "text": "us assume that my reaction time at age"
+    },
+    {
+      "start": 439.2,
+      "end": 445.0,
+      "text": "875 is now 210 of a second. So if you"
+    },
+    {
+      "start": 443.1,
+      "end": 447.4,
+      "text": "can live with that, then every"
+    },
+    {
+      "start": 445.0,
+      "end": 451.0,
+      "text": "measurement that I make, no matter how"
+    },
+    {
+      "start": 447.4,
+      "end": 453.3,
+      "text": "long it is, it is uncertain to 210 of a"
+    },
+    {
+      "start": 451.0,
+      "end": 457.4,
+      "text": "second. Do not confuse that with that"
+    },
+    {
+      "start": 453.3,
+      "end": 458.5,
+      "text": "0.02. That has to do with the length."
+    },
+    {
+      "start": 457.4,
+      "end": 463.5,
+      "text": "All"
+    },
+    {
+      "start": 458.5,
+      "end": 465.7,
+      "text": "right. So, I'm going to first make"
+    },
+    {
+      "start": 463.5,
+      "end": 468.2,
+      "text": "a a period"
+    },
+    {
+      "start": 465.7,
+      "end": 471.8,
+      "text": "measurement at five"
+    },
+    {
+      "start": 468.2,
+      "end": 474.6,
+      "text": "degrees and then at 10\u00b0"
+    },
+    {
+      "start": 471.8,
+      "end": 477.5,
+      "text": "amplitude. And I am going to measure 10"
+    },
+    {
+      "start": 474.6,
+      "end": 479.4,
+      "text": "periods, not one. Some of you may think,"
+    },
+    {
+      "start": 477.5,
+      "end": 482.0,
+      "text": "well, isn't that a waste of time to do"
+    },
+    {
+      "start": 479.4,
+      "end": 487.0,
+      "text": "10 periods if you can get away with one?"
+    },
+    {
+      "start": 482.0,
+      "end": 491.0,
+      "text": "You will very quickly see why it is 10."
+    },
+    {
+      "start": 487.0,
+      "end": 495.2,
+      "text": "You will see that. So the 10 t is then"
+    },
+    {
+      "start": 491.0,
+      "end": 498.5,
+      "text": "going to be some number plus or minus my"
+    },
+    {
+      "start": 495.2,
+      "end": 501.6,
+      "text": "own inability which is my 02 seconds"
+    },
+    {
+      "start": 498.5,
+      "end": 504.4,
+      "text": "reaction time. I can't change that. And"
+    },
+    {
+      "start": 501.6,
+      "end": 508.2,
+      "text": "so then I do it at 10\u00b0 and then we get"
+    },
+    {
+      "start": 504.4,
+      "end": 511.8,
+      "text": "again 10t. We get a number and then we"
+    },
+    {
+      "start": 508.2,
+      "end": 514.1,
+      "text": "get again plus or minus 0.2 seconds. And"
+    },
+    {
+      "start": 511.8,
+      "end": 516.1,
+      "text": "I'm going to demonstrate to you that"
+    },
+    {
+      "start": 514.1,
+      "end": 518.6,
+      "text": "within the uncertainty of the"
+    },
+    {
+      "start": 516.1,
+      "end": 521.7,
+      "text": "measurements that I get the same numbers"
+    },
+    {
+      "start": 518.6,
+      "end": 523.9,
+      "text": "in all three cases within the"
+    },
+    {
+      "start": 521.7,
+      "end": 526.3,
+      "text": "uncertainty. So if you're ready for"
+    },
+    {
+      "start": 523.9,
+      "end": 530.0,
+      "text": "that, you see here the"
+    },
+    {
+      "start": 526.3,
+      "end": 532.7,
+      "text": "timer. All of you can see and here you"
+    },
+    {
+      "start": 530.0,
+      "end": 535.0,
+      "text": "see the pendulum and I have two marks on"
+    },
+    {
+      "start": 532.7,
+      "end": 537.6,
+      "text": "the floor here. If I hold the bulb here,"
+    },
+    {
+      "start": 535.0,
+      "end": 539.6,
+      "text": "then it is five degrees. This is five"
+    },
+    {
+      "start": 537.6,
+      "end": 542.9,
+      "text": "degrees. And when I hold the bulb here,"
+    },
+    {
+      "start": 539.6,
+      "end": 542.9,
+      "text": "it is 10\u00b0."
+    },
+    {
+      "start": 547.6,
+      "end": 554.1,
+      "text": "Timing is not"
+    },
+    {
+      "start": 550.4,
+      "end": 556.5,
+      "text": "easy. The best way to do it is to start"
+    },
+    {
+      "start": 554.1,
+      "end": 560.1,
+      "text": "the timing when the pendulum comes to a"
+    },
+    {
+      "start": 556.5,
+      "end": 561.9,
+      "text": "stop that is rather well defined and"
+    },
+    {
+      "start": 560.1,
+      "end": 566.2,
+      "text": "then you let it swing 10 times and then"
+    },
+    {
+      "start": 561.9,
+      "end": 569.9,
+      "text": "when it comes to a stop you stop it."
+    },
+    {
+      "start": 566.2,
+      "end": 572.4,
+      "text": "And it would help me if you would count"
+    },
+    {
+      "start": 569.9,
+      "end": 574.8,
+      "text": "how many oscillations we have"
+    },
+    {
+      "start": 572.4,
+      "end": 577.3,
+      "text": "made because then I don't have to look"
+    },
+    {
+      "start": 574.8,
+      "end": 579.4,
+      "text": "at it. All I have to do is when I come"
+    },
+    {
+      "start": 577.3,
+      "end": 580.8,
+      "text": "close to 10, I have to watch for the"
+    },
+    {
+      "start": 579.4,
+      "end": 584.6,
+      "text": "moment of stopping"
+    },
+    {
+      "start": 580.8,
+      "end": 588.7,
+      "text": "and and then I will end it. So we'll do"
+    },
+    {
+      "start": 584.6,
+      "end": 588.7,
+      "text": "this first at five degrees."
+    },
+    {
+      "start": 593.8,
+      "end": 598.4,
+      "text": "I'm going to start it when it comes"
+    },
+    {
+      "start": 595.4,
+      "end": 600.6,
+      "text": "here."
+    },
+    {
+      "start": 598.4,
+      "end": 604.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 600.6,
+      "end": 604.6,
+      "text": "Okay. Now you count."
+    },
+    {
+      "start": 617.2,
+      "end": 621.1,
+      "text": "You're doing very well."
+    },
+    {
+      "start": 622.0,
+      "end": 626.0,
+      "text": "You're going to pass this course."
+    },
+    {
+      "start": 646.0,
+      "end": 656.4,
+      "text": "[Applause]"
+    },
+    {
+      "start": 658.7,
+      "end": 665.5,
+      "text": "45.7. So that becomes that"
+    },
+    {
+      "start": 662.0,
+      "end": 668.8,
+      "text": "t that means this whole equation now has"
+    },
+    {
+      "start": 665.5,
+      "end": 671.7,
+      "text": "to be divided by 10 and now you will see"
+    },
+    {
+      "start": 668.8,
+      "end": 673.9,
+      "text": "why I measure 10 oscillations. So t is"
+    },
+    {
+      "start": 671.7,
+      "end": 679.3,
+      "text": "going to be"
+    },
+    {
+      "start": 673.9,
+      "end": 680.9,
+      "text": "4.57 plus or minus2 / 10 that is plus or"
+    },
+    {
+      "start": 679.3,
+      "end": 684.7,
+      "text": "minus.02"
+    },
+    {
+      "start": 680.9,
+      "end": 685.4,
+      "text": "seconds and you see comfortably within"
+    },
+    {
+      "start": 684.7,
+      "end": 688.0,
+      "text": "the"
+    },
+    {
+      "start": 685.4,
+      "end": 690.5,
+      "text": "prediction. So maybe my reaction time is"
+    },
+    {
+      "start": 688.0,
+      "end": 693.0,
+      "text": "a little better than two t of a"
+    },
+    {
+      "start": 690.5,
+      "end": 695.3,
+      "text": "second. Don't count on it because you"
+    },
+    {
+      "start": 693.0,
+      "end": 700.4,
+      "text": "haven't seen the rest"
+    },
+    {
+      "start": 695.3,
+      "end": 700.4,
+      "text": "yet. So now 10\u00b0"
+    },
+    {
+      "start": 719.8,
+      "end": 724.1,
+      "text": "That that moment is crucial."
+    },
+    {
+      "start": 722.7,
+      "end": 726.6,
+      "text": "That moment is"
+    },
+    {
+      "start": 724.1,
+      "end": 728.2,
+      "text": "crucial. That's where you can lose 410"
+    },
+    {
+      "start": 726.6,
+      "end": 732.0,
+      "text": "of a second and then you look like an"
+    },
+    {
+      "start": 728.2,
+      "end": 732.0,
+      "text": "idiot in front of your students."
+    },
+    {
+      "start": 743.2,
+      "end": 746.2,
+      "text": "Five,"
+    },
+    {
+      "start": 747.7,
+      "end": 750.7,
+      "text": "six,"
+    },
+    {
+      "start": 752.4,
+      "end": 755.4,
+      "text": "seven,"
+    },
+    {
+      "start": 762.0,
+      "end": 778.0,
+      "text": "eight. Yeah."
+    },
+    {
+      "start": 765.6,
+      "end": 778.0,
+      "text": "[Applause]"
+    },
+    {
+      "start": 791.2,
+      "end": 796.5,
+      "text": "Now comes the hardest part."
+    },
+    {
+      "start": 794.2,
+      "end": 800.0,
+      "text": "The hardest part is that we have to"
+    },
+    {
+      "start": 796.5,
+      "end": 800.0,
+      "text": "change the mass of this"
+    },
+    {
+      "start": 800.5,
+      "end": 805.7,
+      "text": "object. And the way that I'm going to do"
+    },
+    {
+      "start": 803.2,
+      "end": 809.8,
+      "text": "that is prominently"
+    },
+    {
+      "start": 805.7,
+      "end": 809.8,
+      "text": "demonstrated on the cover of my"
+    },
+    {
+      "start": 812.3,
+      "end": 817.8,
+      "text": "book. Yes, I'm going to hang on that"
+    },
+    {
+      "start": 818.0,
+      "end": 822.5,
+      "text": "pendulum. It is a difficult"
+    },
+    {
+      "start": 820.0,
+      "end": 825.8,
+      "text": "demonstration."
+    },
+    {
+      "start": 822.5,
+      "end": 830.1,
+      "text": "First of all, it is painful. It really"
+    },
+    {
+      "start": 825.8,
+      "end": 832.0,
+      "text": "is. Second, the timing is tricky because"
+    },
+    {
+      "start": 830.1,
+      "end": 834.9,
+      "text": "when you look at a pendulum and when you"
+    },
+    {
+      "start": 832.0,
+      "end": 837.4,
+      "text": "see it stand still, you know that it's"
+    },
+    {
+      "start": 834.9,
+      "end": 840.1,
+      "text": "really well defined plus or minus.1"
+    },
+    {
+      "start": 837.4,
+      "end": 843.5,
+      "text": "seconds. When you are swinging yourself,"
+    },
+    {
+      "start": 840.1,
+      "end": 846.0,
+      "text": "however, then you can only do it by"
+    },
+    {
+      "start": 843.5,
+      "end": 848.5,
+      "text": "sensing the moment that you think you"
+    },
+    {
+      "start": 846.0,
+      "end": 853.3,
+      "text": "stand still. And that's what I will"
+    },
+    {
+      "start": 848.5,
+      "end": 855.7,
+      "text": "do. And then you will do the counting."
+    },
+    {
+      "start": 853.3,
+      "end": 859.0,
+      "text": "And this is very"
+    },
+    {
+      "start": 855.7,
+      "end": 859.0,
+      "text": "unpleasant. It"
+    },
+    {
+      "start": 864.4,
+      "end": 870.2,
+      "text": "is there's something else I haven't told"
+    },
+    {
+      "start": 867.6,
+      "end": 873.2,
+      "text": "you. If you're a good physicist, you"
+    },
+    {
+      "start": 870.2,
+      "end": 875.9,
+      "text": "will say if you're going to sit on that"
+    },
+    {
+      "start": 873.2,
+      "end": 879.6,
+      "text": "bulb, then effectively you bring the"
+    },
+    {
+      "start": 875.9,
+      "end": 882.2,
+      "text": "mass of the bulb up and so the length of"
+    },
+    {
+      "start": 879.6,
+      "end": 884.4,
+      "text": "the pendulum will shorten and so you get"
+    },
+    {
+      "start": 882.2,
+      "end": 887.5,
+      "text": "a shorter"
+    },
+    {
+      "start": 884.4,
+      "end": 891.2,
+      "text": "period and I know that"
+    },
+    {
+      "start": 887.5,
+      "end": 894.4,
+      "text": "too. Therefore, I will have to stretch"
+    },
+    {
+      "start": 891.2,
+      "end": 896.8,
+      "text": "my body so that when it is here that it"
+    },
+    {
+      "start": 894.4,
+      "end": 899.9,
+      "text": "is almost completely parallel to the"
+    },
+    {
+      "start": 896.8,
+      "end": 903.0,
+      "text": "floor. If I don't do that, I will not be"
+    },
+    {
+      "start": 899.9,
+      "end": 905.4,
+      "text": "able to convince you that the period is"
+    },
+    {
+      "start": 903.0,
+      "end": 909.0,
+      "text": "independent of the mass. And that makes"
+    },
+    {
+      "start": 905.4,
+      "end": 909.0,
+      "text": "it very difficult for"
+    },
+    {
+      "start": 913.6,
+      "end": 919.2,
+      "text": "me. So I will start it at some moment."
+    },
+    {
+      "start": 917.5,
+      "end": 922.2,
+      "text": "You will see when and then you do the"
+    },
+    {
+      "start": 919.2,
+      "end": 922.2,
+      "text": "counting."
+    },
+    {
+      "start": 936.5,
+      "end": 942.8,
+      "text": "Are you ready?"
+    },
+    {
+      "start": 939.8,
+      "end": 942.8,
+      "text": "Okay."
+    },
+    {
+      "start": 944.0,
+      "end": 947.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 947.0,
+      "end": 950.4,
+      "text": "You count."
+    },
+    {
+      "start": 958.3,
+      "end": 961.0,
+      "text": "This happens"
+    },
+    {
+      "start": 965.6,
+      "end": 973.7,
+      "text": "sometimes. And in fact, nobody knows"
+    },
+    {
+      "start": 969.0,
+      "end": 973.7,
+      "text": "why. Have to start all over."
+    },
+    {
+      "start": 975.2,
+      "end": 981.7,
+      "text": "I did not stop it. I really didn't. Oh,"
+    },
+    {
+      "start": 978.3,
+      "end": 981.7,
+      "text": "it's still counting."
+    },
+    {
+      "start": 983.1,
+      "end": 986.9,
+      "text": "Okay, I have enough energy to give it"
+    },
+    {
+      "start": 985.0,
+      "end": 988.5,
+      "text": "one more attempt, but not to give it two"
+    },
+    {
+      "start": 986.9,
+      "end": 991.5,
+      "text": "more"
+    },
+    {
+      "start": 988.5,
+      "end": 991.5,
+      "text": "attempts."
+    },
+    {
+      "start": 992.0,
+      "end": 998.1,
+      "text": "Okay, you ready?"
+    },
+    {
+      "start": 995.1,
+      "end": 998.1,
+      "text": "Okay."
+    },
+    {
+      "start": 1014.7,
+      "end": 1018.3,
+      "text": "This really hurts."
+    },
+    {
+      "start": 1023.8,
+      "end": 1028.0,
+      "text": "Can't you count a little faster?"
+    },
+    {
+      "start": 1036.3,
+      "end": 1039.3,
+      "text": "8."
+    },
+    {
+      "start": 1047.0,
+      "end": 1081.3,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1083.2,
+      "end": 1090.4,
+      "text": "10T with Walter"
+    },
+    {
+      "start": 1086.1,
+      "end": 1090.4,
+      "text": "Leuen. What is it?"
+    },
+    {
+      "start": 1093.3,
+      "end": 1100.8,
+      "text": "45.9 plus or minus"
+    },
+    {
+      "start": 1096.6,
+      "end": 1104.4,
+      "text": "0.2 period is"
+    },
+    {
+      "start": 1100.8,
+      "end": 1110.0,
+      "text": "4.59 plus or minus 0.02"
+    },
+    {
+      "start": 1104.4,
+      "end": 1110.0,
+      "text": "O2. I told you physics works."
+    },
+    {
+      "start": 1124.5,
+      "end": 1129.4,
+      "text": "If I have a tennis ball in my hand and I"
+    },
+    {
+      "start": 1127.8,
+      "end": 1131.5,
+      "text": "drop the tennis ball from a certain"
+    },
+    {
+      "start": 1129.4,
+      "end": 1134.5,
+      "text": "height, give it no"
+    },
+    {
+      "start": 1131.5,
+      "end": 1138.6,
+      "text": "speed and it will bounce"
+    },
+    {
+      "start": 1134.5,
+      "end": 1142.6,
+      "text": "back then it can never bounce higher"
+    },
+    {
+      "start": 1138.6,
+      "end": 1145.0,
+      "text": "than where it started from. If it did"
+    },
+    {
+      "start": 1142.6,
+      "end": 1147.3,
+      "text": "then we physicists would say that is a"
+    },
+    {
+      "start": 1145.0,
+      "end": 1150.3,
+      "text": "gross violation of the conservation of"
+    },
+    {
+      "start": 1147.3,
+      "end": 1155.8,
+      "text": "energy and that is the holiest of all"
+    },
+    {
+      "start": 1150.3,
+      "end": 1155.8,
+      "text": "laws in physics. It cannot go"
+    },
+    {
+      "start": 1156.4,
+      "end": 1162.1,
+      "text": "higher. Suppose the object has a mass"
+    },
+    {
+      "start": 1162.6,
+      "end": 1168.0,
+      "text": "m and is a"
+    },
+    {
+      "start": 1165.2,
+      "end": 1172.1,
+      "text": "distance"
+    },
+    {
+      "start": 1168.0,
+      "end": 1176.2,
+      "text": "h from the floor. Here's the floor."
+    },
+    {
+      "start": 1172.1,
+      "end": 1179.8,
+      "text": "Here's the object H. We associate with"
+    },
+    {
+      "start": 1176.2,
+      "end": 1183.1,
+      "text": "the position of that object an energy"
+    },
+    {
+      "start": 1179.8,
+      "end": 1186.8,
+      "text": "that has a name. We call that potential"
+    },
+    {
+      "start": 1183.1,
+      "end": 1189.4,
+      "text": "energy. And that potential energy is"
+    },
+    {
+      "start": 1186.8,
+      "end": 1192.8,
+      "text": "mgh. Do you already know what g is?"
+    },
+    {
+      "start": 1189.4,
+      "end": 1195.6,
+      "text": "Well, h is this distance in"
+    },
+    {
+      "start": 1192.8,
+      "end": 1199.0,
+      "text": "meters. So when the object is here on"
+    },
+    {
+      "start": 1195.6,
+      "end": 1200.9,
+      "text": "the floor, h is zero. So there is no"
+    },
+    {
+      "start": 1199.0,
+      "end": 1204.4,
+      "text": "potential"
+    },
+    {
+      "start": 1200.9,
+      "end": 1205.8,
+      "text": "energy. As the object goes down, it"
+    },
+    {
+      "start": 1204.4,
+      "end": 1209.4,
+      "text": "picks up"
+    },
+    {
+      "start": 1205.8,
+      "end": 1212.1,
+      "text": "speed and we associate with speed energy"
+    },
+    {
+      "start": 1209.4,
+      "end": 1217.2,
+      "text": "which we call kinetic energy. And the"
+    },
+    {
+      "start": 1212.1,
+      "end": 1217.2,
+      "text": "kinetic energy of an object with mass"
+    },
+    {
+      "start": 1217.6,
+      "end": 1224.9,
+      "text": "m is"
+    },
+    {
+      "start": 1219.6,
+      "end": 1228.1,
+      "text": "12 m v\u00b2. m is the mass and v is the"
+    },
+    {
+      "start": 1224.9,
+      "end": 1231.0,
+      "text": "speed of that object."
+    },
+    {
+      "start": 1228.1,
+      "end": 1234.2,
+      "text": "If the object goes down and it hits the"
+    },
+    {
+      "start": 1231.0,
+      "end": 1237.0,
+      "text": "floor, then the potential energy is zero"
+    },
+    {
+      "start": 1234.2,
+      "end": 1240.3,
+      "text": "and all that energy is now converted to"
+    },
+    {
+      "start": 1237.0,
+      "end": 1241.7,
+      "text": "kinetic energy because energy we believe"
+    },
+    {
+      "start": 1240.3,
+      "end": 1244.5,
+      "text": "is"
+    },
+    {
+      "start": 1241.7,
+      "end": 1248.3,
+      "text": "conserved. Now when it hits the"
+    },
+    {
+      "start": 1244.5,
+      "end": 1251.6,
+      "text": "floor, some of that kinetic energy may"
+    },
+    {
+      "start": 1248.3,
+      "end": 1253.7,
+      "text": "be converted into heat because of the"
+    },
+    {
+      "start": 1251.6,
+      "end": 1256.2,
+      "text": "compression. If it were a tennis ball,"
+    },
+    {
+      "start": 1253.7,
+      "end": 1259.2,
+      "text": "that would certainly happen. So in other"
+    },
+    {
+      "start": 1256.2,
+      "end": 1262.3,
+      "text": "words, when it bounces back, the total"
+    },
+    {
+      "start": 1259.2,
+      "end": 1265.9,
+      "text": "energy is no longer the full mgh, but is"
+    },
+    {
+      "start": 1262.3,
+      "end": 1269.2,
+      "text": "a little less, and so it won't bound as"
+    },
+    {
+      "start": 1265.9,
+      "end": 1272.3,
+      "text": "high. But there's no way that it could"
+    },
+    {
+      "start": 1269.2,
+      "end": 1275.8,
+      "text": "come up higher than H. Suppose it could"
+    },
+    {
+      "start": 1272.3,
+      "end": 1277.7,
+      "text": "come after one bounce up here."
+    },
+    {
+      "start": 1275.8,
+      "end": 1278.9,
+      "text": "Well, that would solve the world's"
+    },
+    {
+      "start": 1277.7,
+      "end": 1281.8,
+      "text": "energy"
+    },
+    {
+      "start": 1278.9,
+      "end": 1284.7,
+      "text": "problem because you simply sit down and"
+    },
+    {
+      "start": 1281.8,
+      "end": 1287.0,
+      "text": "you watch the ball game and there goes"
+    },
+    {
+      "start": 1284.7,
+      "end": 1288.9,
+      "text": "the ball higher and the second one it"
+    },
+    {
+      "start": 1287.0,
+      "end": 1290.5,
+      "text": "goes again higher. But why? If it goes"
+    },
+    {
+      "start": 1288.9,
+      "end": 1293.0,
+      "text": "the first time higher, it will do that"
+    },
+    {
+      "start": 1290.5,
+      "end": 1294.8,
+      "text": "the second time. And so after an hour"
+    },
+    {
+      "start": 1293.0,
+      "end": 1297.4,
+      "text": "that thing is about a few thousand"
+    },
+    {
+      "start": 1294.8,
+      "end": 1300.2,
+      "text": "meters in the sky and when it comes down"
+    },
+    {
+      "start": 1297.4,
+      "end": 1302.8,
+      "text": "on the floor it has an enormous speed,"
+    },
+    {
+      "start": 1300.2,
+      "end": 1305.1,
+      "text": "great amount of kinetic energy. And so"
+    },
+    {
+      "start": 1302.8,
+      "end": 1307.0,
+      "text": "you got energy out of nothing. But there"
+    },
+    {
+      "start": 1305.1,
+      "end": 1309.6,
+      "text": "is no such thing in physics as a free"
+    },
+    {
+      "start": 1307.0,
+      "end": 1312.9,
+      "text": "lunch. So that's not going to happen. So"
+    },
+    {
+      "start": 1309.6,
+      "end": 1316.4,
+      "text": "the object can never go any higher than"
+    },
+    {
+      "start": 1312.9,
+      "end": 1318.6,
+      "text": "h. And with a tennis ball, there is also"
+    },
+    {
+      "start": 1316.4,
+      "end": 1321.4,
+      "text": "what we call the dissipation of heat"
+    },
+    {
+      "start": 1318.6,
+      "end": 1322.8,
+      "text": "when it hits the floor."
+    },
+    {
+      "start": 1321.4,
+      "end": 1324.4,
+      "text": "Now the"
+    },
+    {
+      "start": 1322.8,
+      "end": 1328.2,
+      "text": "situation"
+    },
+    {
+      "start": 1324.4,
+      "end": 1331.2,
+      "text": "is difficult with a pendulum because a"
+    },
+    {
+      "start": 1328.2,
+      "end": 1333.8,
+      "text": "pendulum doesn't hit the floor and so"
+    },
+    {
+      "start": 1331.2,
+      "end": 1336.8,
+      "text": "there is no heat loss because it doesn't"
+    },
+    {
+      "start": 1333.8,
+      "end": 1339.6,
+      "text": "hit the floor. So if you bring a"
+    },
+    {
+      "start": 1336.8,
+      "end": 1343.4,
+      "text": "pendulum at a certain distance above the"
+    },
+    {
+      "start": 1339.6,
+      "end": 1344.8,
+      "text": "ground like this and you let it swing"
+    },
+    {
+      "start": 1343.4,
+      "end": 1348.2,
+      "text": "when it comes back"
+    },
+    {
+      "start": 1344.8,
+      "end": 1351.5,
+      "text": "here it is almost exactly at that same"
+    },
+    {
+      "start": 1348.2,
+      "end": 1353.9,
+      "text": "height. cannot be higher. That would be"
+    },
+    {
+      "start": 1351.5,
+      "end": 1358.0,
+      "text": "a violation of the conservation of"
+    },
+    {
+      "start": 1353.9,
+      "end": 1360.4,
+      "text": "energy. But since the air drag is so"
+    },
+    {
+      "start": 1358.0,
+      "end": 1362.2,
+      "text": "small, there is almost no damping. And"
+    },
+    {
+      "start": 1360.4,
+      "end": 1364.7,
+      "text": "in fact, when you saw the demonstration"
+    },
+    {
+      "start": 1362.2,
+      "end": 1366.4,
+      "text": "I just did, you may have noticed that"
+    },
+    {
+      "start": 1364.7,
+      "end": 1369.3,
+      "text": "you really didn't see"
+    },
+    {
+      "start": 1366.4,
+      "end": 1372.6,
+      "text": "this. It really kept going and it kept"
+    },
+    {
+      "start": 1369.3,
+      "end": 1374.7,
+      "text": "going. As long as you realize that if I"
+    },
+    {
+      "start": 1372.6,
+      "end": 1378.2,
+      "text": "release it from a certain location with"
+    },
+    {
+      "start": 1374.7,
+      "end": 1381.2,
+      "text": "zero speed, it can never when it comes"
+    },
+    {
+      "start": 1378.2,
+      "end": 1384.7,
+      "text": "back be higher than that"
+    },
+    {
+      "start": 1381.2,
+      "end": 1388.0,
+      "text": "location. This whole idea is"
+    },
+    {
+      "start": 1384.7,
+      "end": 1389.8,
+      "text": "behind demolishing buildings."
+    },
+    {
+      "start": 1388.0,
+      "end": 1392.5,
+      "text": "With a building demolishing, you take a"
+    },
+    {
+      "start": 1389.8,
+      "end": 1393.4,
+      "text": "huge mass, you lift it up over a"
+    },
+    {
+      "start": 1392.5,
+      "end": 1396.8,
+      "text": "distance"
+    },
+    {
+      "start": 1393.4,
+      "end": 1399.4,
+      "text": "h and then you put your target, which is"
+    },
+    {
+      "start": 1396.8,
+      "end": 1401.7,
+      "text": "your house or whatever it is, right at"
+    },
+    {
+      "start": 1399.4,
+      "end": 1404.1,
+      "text": "the bottom when all this potential"
+    },
+    {
+      "start": 1401.7,
+      "end": 1407.5,
+      "text": "energy is being converted to kinetic"
+    },
+    {
+      "start": 1404.1,
+      "end": 1410.0,
+      "text": "energy. And so this object is hit with"
+    },
+    {
+      "start": 1407.5,
+      "end": 1414.2,
+      "text": "an enormous amount of energy, a high"
+    },
+    {
+      "start": 1410.0,
+      "end": 1417.0,
+      "text": "speed, and you demolish thereby the"
+    },
+    {
+      "start": 1414.2,
+      "end": 1418.6,
+      "text": "wall. Here we have a glass plate. You"
+    },
+    {
+      "start": 1417.0,
+      "end": 1421.7,
+      "text": "better go out of the way because it's"
+    },
+    {
+      "start": 1418.6,
+      "end": 1424.1,
+      "text": "going to This is a dangerous"
+    },
+    {
+      "start": 1421.7,
+      "end": 1427.2,
+      "text": "experiment. It's a glass"
+    },
+    {
+      "start": 1424.1,
+      "end": 1430.8,
+      "text": "wall. So, if I bring this"
+    },
+    {
+      "start": 1427.2,
+      "end": 1434.4,
+      "text": "object exactly at that glass"
+    },
+    {
+      "start": 1430.8,
+      "end": 1438.2,
+      "text": "wall and if I'm clever enough to let it"
+    },
+    {
+      "start": 1434.4,
+      "end": 1440.2,
+      "text": "go with zero speed, it could not break"
+    },
+    {
+      "start": 1438.2,
+      "end": 1443.3,
+      "text": "that glass."
+    },
+    {
+      "start": 1440.2,
+      "end": 1444.6,
+      "text": "But if my hands shake a little and if I"
+    },
+    {
+      "start": 1443.3,
+      "end": 1447.6,
+      "text": "give it a little"
+    },
+    {
+      "start": 1444.6,
+      "end": 1451.1,
+      "text": "push, then of course it can come back"
+    },
+    {
+      "start": 1447.6,
+      "end": 1454.8,
+      "text": "and it may want to go higher than this."
+    },
+    {
+      "start": 1451.1,
+      "end": 1454.8,
+      "text": "And that would mean"
+    },
+    {
+      "start": 1467.9,
+      "end": 1473.9,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1472.6,
+      "end": 1478.8,
+      "text": "I know you"
+    },
+    {
+      "start": 1473.9,
+      "end": 1481.1,
+      "text": "guys students love it when the glass"
+    },
+    {
+      "start": 1478.8,
+      "end": 1484.7,
+      "text": "breaks. That's why they pay such a high"
+    },
+    {
+      "start": 1481.1,
+      "end": 1484.7,
+      "text": "tuition at MIT."
+    },
+    {
+      "start": 1490.9,
+      "end": 1499.2,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1503.9,
+      "end": 1509.2,
+      "text": "That's okay. Just take that"
+    },
+    {
+      "start": 1507.0,
+      "end": 1511.5,
+      "text": "off."
+    },
+    {
+      "start": 1509.2,
+      "end": 1514.5,
+      "text": "Now comes an"
+    },
+    {
+      "start": 1511.5,
+      "end": 1518.6,
+      "text": "experiment which is emotionally the most"
+    },
+    {
+      "start": 1514.5,
+      "end": 1521.2,
+      "text": "difficult for me of this whole evening."
+    },
+    {
+      "start": 1518.6,
+      "end": 1524.5,
+      "text": "I'm going to put my life on the"
+    },
+    {
+      "start": 1521.2,
+      "end": 1527.8,
+      "text": "line to show you that I'm really a"
+    },
+    {
+      "start": 1524.5,
+      "end": 1531.0,
+      "text": "believer of the conservation of"
+    },
+    {
+      "start": 1527.8,
+      "end": 1532.5,
+      "text": "energy and you will see how I'm going to"
+    },
+    {
+      "start": 1531.0,
+      "end": 1536.8,
+      "text": "do"
+    },
+    {
+      "start": 1532.5,
+      "end": 1539.2,
+      "text": "that. I'm going to take the place of the"
+    },
+    {
+      "start": 1536.8,
+      "end": 1543.0,
+      "text": "glass and I'm going to"
+    },
+    {
+      "start": 1539.2,
+      "end": 1546.4,
+      "text": "hold this object at my"
+    },
+    {
+      "start": 1543.0,
+      "end": 1548.0,
+      "text": "chin and I cannot move any further back."
+    },
+    {
+      "start": 1546.4,
+      "end": 1550.4,
+      "text": "So there's no cheat"
+    },
+    {
+      "start": 1548.0,
+      "end": 1552.4,
+      "text": "here. I'm going to release it right from"
+    },
+    {
+      "start": 1550.4,
+      "end": 1557.2,
+      "text": "my chin"
+    },
+    {
+      "start": 1552.4,
+      "end": 1557.2,
+      "text": "here. You realize as you have just"
+    },
+    {
+      "start": 1558.1,
+      "end": 1565.6,
+      "text": "seen that the slightest"
+    },
+    {
+      "start": 1561.3,
+      "end": 1569.8,
+      "text": "push and this will be my last"
+    },
+    {
+      "start": 1565.6,
+      "end": 1569.8,
+      "text": "lecture and no book signing"
+    },
+    {
+      "start": 1572.8,
+      "end": 1578.4,
+      "text": "afterwards. So I need your"
+    },
+    {
+      "start": 1576.0,
+      "end": 1580.0,
+      "text": "collaboration when I count down from"
+    },
+    {
+      "start": 1578.4,
+      "end": 1582.3,
+      "text": "three to"
+    },
+    {
+      "start": 1580.0,
+      "end": 1584.4,
+      "text": "zero. No"
+    },
+    {
+      "start": 1582.3,
+      "end": 1587.4,
+      "text": "noise, no"
+    },
+    {
+      "start": 1584.4,
+      "end": 1590.6,
+      "text": "coughing. And I would even appreciate it"
+    },
+    {
+      "start": 1587.4,
+      "end": 1593.0,
+      "text": "if for those three seconds you would not"
+    },
+    {
+      "start": 1590.6,
+      "end": 1593.0,
+      "text": "even"
+    },
+    {
+      "start": 1593.6,
+      "end": 1600.3,
+      "text": "breathe. And I have to tell you"
+    },
+    {
+      "start": 1596.8,
+      "end": 1603.4,
+      "text": "something. I couldn't sleep all"
+    },
+    {
+      "start": 1600.3,
+      "end": 1604.4,
+      "text": "night. I'm going to close my eyes. I"
+    },
+    {
+      "start": 1603.4,
+      "end": 1607.0,
+      "text": "don't want to see"
+    },
+    {
+      "start": 1604.4,
+      "end": 1609.4,
+      "text": "it. And I'm going to count down from"
+    },
+    {
+      "start": 1607.0,
+      "end": 1609.4,
+      "text": "three to"
+    },
+    {
+      "start": 1613.2,
+      "end": 1620.8,
+      "text": "zero. Three, two, one, zero."
+    },
+    {
+      "start": 1623.4,
+      "end": 1645.1,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1641.6,
+      "end": 1648.0,
+      "text": "I normally after this demonstration tell"
+    },
+    {
+      "start": 1645.1,
+      "end": 1650.9,
+      "text": "the class physics works and I'm still"
+    },
+    {
+      "start": 1648.0,
+      "end": 1652.7,
+      "text": "alive."
+    },
+    {
+      "start": 1650.9,
+      "end": 1655.0,
+      "text": "And when an article was written about me"
+    },
+    {
+      "start": 1652.7,
+      "end": 1657.2,
+      "text": "in the New York Times a few years ago on"
+    },
+    {
+      "start": 1655.0,
+      "end": 1659.9,
+      "text": "the second page of the New York Times is"
+    },
+    {
+      "start": 1657.2,
+      "end": 1663.0,
+      "text": "the wisdom of the day. And the wisdom of"
+    },
+    {
+      "start": 1659.9,
+      "end": 1665.5,
+      "text": "the day was physics works and I'm still"
+    },
+    {
+      "start": 1663.0,
+      "end": 1674.7,
+      "text": "alive."
+    },
+    {
+      "start": 1665.5,
+      "end": 1674.7,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1678.8,
+      "end": 1681.6,
+      "text": "White"
+    },
+    {
+      "start": 1679.8,
+      "end": 1684.3,
+      "text": "light like"
+    },
+    {
+      "start": 1681.6,
+      "end": 1686.0,
+      "text": "sunlight is composed of all the colors"
+    },
+    {
+      "start": 1684.3,
+      "end": 1690.1,
+      "text": "that you see in the"
+    },
+    {
+      "start": 1686.0,
+      "end": 1693.1,
+      "text": "rainbow. If I scatter white light of"
+    },
+    {
+      "start": 1690.1,
+      "end": 1696.2,
+      "text": "very small particles, then the blue"
+    },
+    {
+      "start": 1693.1,
+      "end": 1698.4,
+      "text": "light is scattered more than the red"
+    },
+    {
+      "start": 1696.2,
+      "end": 1702.0,
+      "text": "light. And we give that a name. In"
+    },
+    {
+      "start": 1698.4,
+      "end": 1704.6,
+      "text": "physics, we call that RA scattering."
+    },
+    {
+      "start": 1702.0,
+      "end": 1706.4,
+      "text": "Really scattering only happens when the"
+    },
+    {
+      "start": 1704.6,
+      "end": 1710.4,
+      "text": "particles of which the white light"
+    },
+    {
+      "start": 1706.4,
+      "end": 1713.7,
+      "text": "scatters is smaller than a tenth of a"
+    },
+    {
+      "start": 1710.4,
+      "end": 1717.1,
+      "text": "micron. That means a thousand times"
+    },
+    {
+      "start": 1713.7,
+      "end": 1721.0,
+      "text": "smaller than the thickness of your hair."
+    },
+    {
+      "start": 1717.1,
+      "end": 1724.1,
+      "text": "So it has to be very very small. If it"
+    },
+    {
+      "start": 1721.0,
+      "end": 1727.0,
+      "text": "is if the particles are as large as half"
+    },
+    {
+      "start": 1724.1,
+      "end": 1729.0,
+      "text": "a micron then there is no longer really"
+    },
+    {
+      "start": 1727.0,
+      "end": 1731.3,
+      "text": "scattering. There is no preferred"
+    },
+    {
+      "start": 1729.0,
+      "end": 1734.2,
+      "text": "scattering for the blue light. All"
+    },
+    {
+      "start": 1731.3,
+      "end": 1736.8,
+      "text": "colors scatter equally and so white"
+    },
+    {
+      "start": 1734.2,
+      "end": 1740.7,
+      "text": "light scattered of particles that are"
+    },
+    {
+      "start": 1736.8,
+      "end": 1740.7,
+      "text": "half a micron or larger remains"
+    },
+    {
+      "start": 1742.7,
+      "end": 1749.0,
+      "text": "white. The"
+    },
+    {
+      "start": 1744.7,
+      "end": 1753.4,
+      "text": "dependence of the power of scattering so"
+    },
+    {
+      "start": 1749.0,
+      "end": 1755.5,
+      "text": "I'll give that P the power is"
+    },
+    {
+      "start": 1753.4,
+      "end": 1758.2,
+      "text": "proportional when we have really"
+    },
+    {
+      "start": 1755.5,
+      "end": 1759.8,
+      "text": "scattering."
+    },
+    {
+      "start": 1758.2,
+      "end": 1762.4,
+      "text": "This is the only equation that may"
+    },
+    {
+      "start": 1759.8,
+      "end": 1766.1,
+      "text": "bother you to one over lambda 2 to the"
+    },
+    {
+      "start": 1762.4,
+      "end": 1768.2,
+      "text": "4th and lambda is the wavelength of"
+    },
+    {
+      "start": 1766.1,
+      "end": 1769.8,
+      "text": "light. And I will not bother you to tell"
+    },
+    {
+      "start": 1768.2,
+      "end": 1772.8,
+      "text": "you what the wavelength of light is."
+    },
+    {
+      "start": 1769.8,
+      "end": 1775.4,
+      "text": "That may confuse you. But I will tell"
+    },
+    {
+      "start": 1772.8,
+      "end": 1778.2,
+      "text": "you that blue"
+    },
+    {
+      "start": 1775.4,
+      "end": 1782.5,
+      "text": "light has a wavelength which is about"
+    },
+    {
+      "start": 1778.2,
+      "end": 1785.7,
+      "text": "1.5 times lower than red light."
+    },
+    {
+      "start": 1782.5,
+      "end": 1788.8,
+      "text": "And so if you take 1.5 to the power"
+    },
+    {
+      "start": 1785.7,
+      "end": 1792.5,
+      "text": "four, excuse me, yeah, 1.5 to the power"
+    },
+    {
+      "start": 1788.8,
+      "end": 1795.8,
+      "text": "four, you get five. And that means in RA"
+    },
+    {
+      "start": 1792.5,
+      "end": 1800.0,
+      "text": "scattering, blue light has a five times"
+    },
+    {
+      "start": 1795.8,
+      "end": 1802.5,
+      "text": "higher probability to scatter than red"
+    },
+    {
+      "start": 1800.0,
+      "end": 1808.1,
+      "text": "light. And I'm going to demonstrate that"
+    },
+    {
+      "start": 1802.5,
+      "end": 1811.4,
+      "text": "to you in two complete different ways."
+    },
+    {
+      "start": 1808.1,
+      "end": 1814.2,
+      "text": "The first way that I'm going to do that"
+    },
+    {
+      "start": 1811.4,
+      "end": 1816.6,
+      "text": "is to make it completely dark in the"
+    },
+    {
+      "start": 1814.2,
+      "end": 1819.1,
+      "text": "lecture hall and have light going"
+    },
+    {
+      "start": 1816.6,
+      "end": 1823.1,
+      "text": "straight up"
+    },
+    {
+      "start": 1819.1,
+      "end": 1826.4,
+      "text": "here. Then I will light a"
+    },
+    {
+      "start": 1823.1,
+      "end": 1828.8,
+      "text": "cigarette. And the smoke of a cigarette"
+    },
+    {
+      "start": 1826.4,
+      "end": 1832.1,
+      "text": "has particles that are smaller than a"
+    },
+    {
+      "start": 1828.8,
+      "end": 1835.4,
+      "text": "tenth of a micron. And so the light that"
+    },
+    {
+      "start": 1832.1,
+      "end": 1837.6,
+      "text": "you will see that is scattered off the"
+    },
+    {
+      "start": 1835.4,
+      "end": 1840.8,
+      "text": "smoke will be"
+    },
+    {
+      "start": 1837.6,
+      "end": 1843.4,
+      "text": "blue. So you have seen in front of your"
+    },
+    {
+      "start": 1840.8,
+      "end": 1844.3,
+      "text": "own eyes really scattering because the"
+    },
+    {
+      "start": 1843.4,
+      "end": 1846.8,
+      "text": "red"
+    },
+    {
+      "start": 1844.3,
+      "end": 1849.3,
+      "text": "light more or less goes through. It is"
+    },
+    {
+      "start": 1846.8,
+      "end": 1852.0,
+      "text": "really the blue that dominates it that"
+    },
+    {
+      "start": 1849.3,
+      "end": 1854.4,
+      "text": "has the highest probability."
+    },
+    {
+      "start": 1852.0,
+      "end": 1857.7,
+      "text": "So we're first going to do that"
+    },
+    {
+      "start": 1854.4,
+      "end": 1859.2,
+      "text": "demonstration to show you rad scattering"
+    },
+    {
+      "start": 1857.7,
+      "end": 1863.0,
+      "text": "of cigarette"
+    },
+    {
+      "start": 1859.2,
+      "end": 1865.7,
+      "text": "smoke and then I have a surprise for you"
+    },
+    {
+      "start": 1863.0,
+      "end": 1867.5,
+      "text": "to also show you me scattering. But"
+    },
+    {
+      "start": 1865.7,
+      "end": 1869.7,
+      "text": "let's first do the really scattering"
+    },
+    {
+      "start": 1867.5,
+      "end": 1874.4,
+      "text": "with cigarette"
+    },
+    {
+      "start": 1869.7,
+      "end": 1877.5,
+      "text": "smoke. This is also not a pleasant"
+    },
+    {
+      "start": 1874.4,
+      "end": 1882.4,
+      "text": "demonstration for those of you who think"
+    },
+    {
+      "start": 1877.5,
+      "end": 1882.4,
+      "text": "that lecturing is easy."
+    },
+    {
+      "start": 1888.3,
+      "end": 1894.7,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1902.3,
+      "end": 1906.3,
+      "text": "No. Okay."
+    },
+    {
+      "start": 1915.4,
+      "end": 1919.6,
+      "text": "going to make it completely dark and"
+    },
+    {
+      "start": 1917.7,
+      "end": 1925.6,
+      "text": "then I'm going to hold it in"
+    },
+    {
+      "start": 1919.6,
+      "end": 1928.6,
+      "text": "there. All lights off. All off. All"
+    },
+    {
+      "start": 1925.6,
+      "end": 1930.9,
+      "text": "off. So, we all agree that this is white"
+    },
+    {
+      "start": 1928.6,
+      "end": 1932.3,
+      "text": "light which is coming up and you don't"
+    },
+    {
+      "start": 1930.9,
+      "end": 1933.8,
+      "text": "see the light here because there is"
+    },
+    {
+      "start": 1932.3,
+      "end": 1935.8,
+      "text": "nothing that scatters it in your"
+    },
+    {
+      "start": 1933.8,
+      "end": 1938.0,
+      "text": "direction. So, you don't see light here."
+    },
+    {
+      "start": 1935.8,
+      "end": 1941.8,
+      "text": "But now"
+    },
+    {
+      "start": 1938.0,
+      "end": 1944.4,
+      "text": "look, those of you who see blue, say,"
+    },
+    {
+      "start": 1941.8,
+      "end": 1947.1,
+      "text": "\"Yeah.\""
+    },
+    {
+      "start": 1944.4,
+      "end": 1948.9,
+      "text": "Those of you who do not see blue, say,"
+    },
+    {
+      "start": 1947.1,
+      "end": 1951.9,
+      "text": "\"No.\""
+    },
+    {
+      "start": 1948.9,
+      "end": 1951.9,
+      "text": "You better see an eye"
+    },
+    {
+      "start": 1955.3,
+      "end": 1961.2,
+      "text": "doctor. Now comes the hardest part."
+    },
+    {
+      "start": 1959.5,
+      "end": 1964.8,
+      "text": "If I inhale the"
+    },
+    {
+      "start": 1961.2,
+      "end": 1968.1,
+      "text": "smoke and I leave it in my lungs for a"
+    },
+    {
+      "start": 1964.8,
+      "end": 1971.2,
+      "text": "minute, there is water vapor in my lungs"
+    },
+    {
+      "start": 1968.1,
+      "end": 1974.8,
+      "text": "and this water vapor will precipitate"
+    },
+    {
+      "start": 1971.2,
+      "end": 1977.3,
+      "text": "onto these very small smoke particles."
+    },
+    {
+      "start": 1974.8,
+      "end": 1979.4,
+      "text": "And so the smoke particles will grow."
+    },
+    {
+      "start": 1977.3,
+      "end": 1983.1,
+      "text": "They will become small water drops"
+    },
+    {
+      "start": 1979.4,
+      "end": 1986.0,
+      "text": "larger than 0.5 microns. And that means"
+    },
+    {
+      "start": 1983.1,
+      "end": 1989.6,
+      "text": "if I hold it one minute in my lungs and"
+    },
+    {
+      "start": 1986.0,
+      "end": 1991.3,
+      "text": "puff it out, you will not see blue"
+    },
+    {
+      "start": 1989.6,
+      "end": 1993.0,
+      "text": "light, but you will see white light"
+    },
+    {
+      "start": 1991.3,
+      "end": 1995.7,
+      "text": "because you're now in the mi scattering"
+    },
+    {
+      "start": 1993.0,
+      "end": 1999.1,
+      "text": "domain. All colors scattered"
+    },
+    {
+      "start": 1995.7,
+      "end": 2003.6,
+      "text": "equally. I will tell you that just"
+    },
+    {
+      "start": 1999.1,
+      "end": 2007.1,
+      "text": "before I puff it out and you will see"
+    },
+    {
+      "start": 2003.6,
+      "end": 2009.3,
+      "text": "the white smoke, I will just before I do"
+    },
+    {
+      "start": 2007.1,
+      "end": 2011.4,
+      "text": "that, I will remind you of the color"
+    },
+    {
+      "start": 2009.3,
+      "end": 2013.7,
+      "text": "that you see now. I will only do that"
+    },
+    {
+      "start": 2011.4,
+      "end": 2016.6,
+      "text": "for a few seconds. Then I will remove it"
+    },
+    {
+      "start": 2013.7,
+      "end": 2021.1,
+      "text": "and I will empty my"
+    },
+    {
+      "start": 2016.6,
+      "end": 2021.1,
+      "text": "lungs. Terrible demo."
+    },
+    {
+      "start": 2043.7,
+      "end": 2050.9,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2062.8,
+      "end": 2068.7,
+      "text": "Who saw the white I just say yes."
+    },
+    {
+      "start": 2066.6,
+      "end": 2072.9,
+      "text": "If any one of"
+    },
+    {
+      "start": 2068.7,
+      "end": 2077.1,
+      "text": "you has the courage to say no,"
+    },
+    {
+      "start": 2072.9,
+      "end": 2077.1,
+      "text": "who did not see white light?"
+    },
+    {
+      "start": 2078.2,
+      "end": 2089.1,
+      "text": "Thank you."
+    },
+    {
+      "start": 2080.8,
+      "end": 2091.4,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2089.1,
+      "end": 2091.4,
+      "text": "I'm"
+    },
+    {
+      "start": 2092.4,
+      "end": 2098.5,
+      "text": "now going to explain to you, in"
+    },
+    {
+      "start": 2095.8,
+      "end": 2101.1,
+      "text": "fact, you could probably guess"
+    },
+    {
+      "start": 2098.5,
+      "end": 2104.4,
+      "text": "that, why the sky is"
+    },
+    {
+      "start": 2101.1,
+      "end": 2107.4,
+      "text": "blue and why clouds are"
+    },
+    {
+      "start": 2104.4,
+      "end": 2110.2,
+      "text": "white. Clouds consist of very small"
+    },
+    {
+      "start": 2107.4,
+      "end": 2112.9,
+      "text": "water drops, surely larger than half a"
+    },
+    {
+      "start": 2110.2,
+      "end": 2114.4,
+      "text": "micron, which is me scattering. So the"
+    },
+    {
+      "start": 2112.9,
+      "end": 2118.0,
+      "text": "white light of the"
+    },
+    {
+      "start": 2114.4,
+      "end": 2120.2,
+      "text": "sun scattered off the cloud white"
+    },
+    {
+      "start": 2118.0,
+      "end": 2122.2,
+      "text": "remains white. So you now for the first"
+    },
+    {
+      "start": 2120.2,
+      "end": 2126.6,
+      "text": "time in your life may have an"
+    },
+    {
+      "start": 2122.2,
+      "end": 2126.6,
+      "text": "explanation why clouds are"
+    },
+    {
+      "start": 2126.7,
+      "end": 2132.1,
+      "text": "white. And you should or may also"
+    },
+    {
+      "start": 2129.8,
+      "end": 2136.2,
+      "text": "understand now"
+    },
+    {
+      "start": 2132.1,
+      "end": 2140.8,
+      "text": "why the sky is"
+    },
+    {
+      "start": 2136.2,
+      "end": 2143.8,
+      "text": "blue. Here is the ground and you are"
+    },
+    {
+      "start": 2140.8,
+      "end": 2145.4,
+      "text": "here and here is say roughly the top of"
+    },
+    {
+      "start": 2143.8,
+      "end": 2147.8,
+      "text": "the"
+    },
+    {
+      "start": 2145.4,
+      "end": 2151.9,
+      "text": "atmosphere and the sunlight comes in"
+    },
+    {
+      "start": 2147.8,
+      "end": 2156.5,
+      "text": "like this. Sun is infinitely far away."
+    },
+    {
+      "start": 2151.9,
+      "end": 2156.5,
+      "text": "So the sun comes in like"
+    },
+    {
+      "start": 2157.2,
+      "end": 2163.1,
+      "text": "this. The"
+    },
+    {
+      "start": 2159.1,
+      "end": 2165.4,
+      "text": "atmosphere is full of very small dust"
+    },
+    {
+      "start": 2163.1,
+      "end": 2166.9,
+      "text": "particles smaller than a ten of a"
+    },
+    {
+      "start": 2165.4,
+      "end": 2170.1,
+      "text": "micron."
+    },
+    {
+      "start": 2166.9,
+      "end": 2172.9,
+      "text": "And even the density fluctuations of the"
+    },
+    {
+      "start": 2170.1,
+      "end": 2175.8,
+      "text": "air molecules themselves are clearly"
+    },
+    {
+      "start": 2172.9,
+      "end": 2179.4,
+      "text": "smaller than the ten of a micron. And so"
+    },
+    {
+      "start": 2175.8,
+      "end": 2183.0,
+      "text": "you get ideal scattering. So white light"
+    },
+    {
+      "start": 2179.4,
+      "end": 2185.1,
+      "text": "comes in. You're standing here. But what"
+    },
+    {
+      "start": 2183.0,
+      "end": 2189.1,
+      "text": "is the light that comes to you?"
+    },
+    {
+      "start": 2185.1,
+      "end": 2191.3,
+      "text": "Predominantly blue. So the sky is blue."
+    },
+    {
+      "start": 2189.1,
+      "end": 2194.6,
+      "text": "The light that is scattered here comes"
+    },
+    {
+      "start": 2191.3,
+      "end": 2197.7,
+      "text": "to you is predominantly blue. So that's"
+    },
+    {
+      "start": 2194.6,
+      "end": 2200.8,
+      "text": "why the sky is blue. And so the reason"
+    },
+    {
+      "start": 2197.7,
+      "end": 2205.7,
+      "text": "is simply that is really scattering of"
+    },
+    {
+      "start": 2200.8,
+      "end": 2205.7,
+      "text": "the dust particles in the"
+    },
+    {
+      "start": 2206.6,
+      "end": 2214.2,
+      "text": "atmosphere. If the sun is high in the"
+    },
+    {
+      "start": 2210.1,
+      "end": 2217.4,
+      "text": "sky, the total amount of sunlight that"
+    },
+    {
+      "start": 2214.2,
+      "end": 2220.8,
+      "text": "is scattered in your direction is only"
+    },
+    {
+      "start": 2217.4,
+      "end": 2224.0,
+      "text": "1%. So it's very little. If the sun is"
+    },
+    {
+      "start": 2220.8,
+      "end": 2226.2,
+      "text": "five degrees above the horizon, then the"
+    },
+    {
+      "start": 2224.0,
+      "end": 2228.0,
+      "text": "sunlight has to travel through a lot"
+    },
+    {
+      "start": 2226.2,
+      "end": 2230.5,
+      "text": "more"
+    },
+    {
+      "start": 2228.0,
+      "end": 2233.6,
+      "text": "atmosphere. And so I take here a"
+    },
+    {
+      "start": 2230.5,
+      "end": 2235.2,
+      "text": "situation which is extreme when we have"
+    },
+    {
+      "start": 2233.6,
+      "end": 2237.8,
+      "text": "sunrise or"
+    },
+    {
+      "start": 2235.2,
+      "end": 2240.1,
+      "text": "sunset. So the sun is there and the"
+    },
+    {
+      "start": 2237.8,
+      "end": 2243.4,
+      "text": "light comes from this side and you are"
+    },
+    {
+      "start": 2240.1,
+      "end": 2243.4,
+      "text": "standing here. This is not to"
+    },
+    {
+      "start": 2245.5,
+      "end": 2255.0,
+      "text": "scale. This layer of atmosphere is now"
+    },
+    {
+      "start": 2249.8,
+      "end": 2258.2,
+      "text": "so enormously large that more than 99%"
+    },
+    {
+      "start": 2255.0,
+      "end": 2259.5,
+      "text": "of all the sunlight on the way to you is"
+    },
+    {
+      "start": 2258.2,
+      "end": 2262.7,
+      "text": "scattered"
+    },
+    {
+      "start": 2259.5,
+      "end": 2265.5,
+      "text": "away. So what is scattered away? The"
+    },
+    {
+      "start": 2262.7,
+      "end": 2267.4,
+      "text": "blue is gone. But if you look at one"
+    },
+    {
+      "start": 2265.5,
+      "end": 2270.2,
+      "text": "overlap that through the force, the"
+    },
+    {
+      "start": 2267.4,
+      "end": 2272.1,
+      "text": "green is gone. All colors are gone."
+    },
+    {
+      "start": 2270.2,
+      "end": 2274.6,
+      "text": "There's only one color which has the"
+    },
+    {
+      "start": 2272.1,
+      "end": 2277.5,
+      "text": "largest wavelengths which by the way is"
+    },
+    {
+      "start": 2274.6,
+      "end": 2279.5,
+      "text": "650 nanometers. I wasn't supposed to"
+    },
+    {
+      "start": 2277.5,
+      "end": 2282.2,
+      "text": "tell you but I"
+    },
+    {
+      "start": 2279.5,
+      "end": 2283.1,
+      "text": "decided. So the only light that makes it"
+    },
+    {
+      "start": 2282.2,
+      "end": 2285.0,
+      "text": "through"
+    },
+    {
+      "start": 2283.1,
+      "end": 2289.4,
+      "text": "you is"
+    },
+    {
+      "start": 2285.0,
+      "end": 2292.6,
+      "text": "red. And so that is the reason why the"
+    },
+    {
+      "start": 2289.4,
+      "end": 2296.0,
+      "text": "sun looks red and this there is a cloud"
+    },
+    {
+      "start": 2292.6,
+      "end": 2298.6,
+      "text": "here in the sky and that cloud sees"
+    },
+    {
+      "start": 2296.0,
+      "end": 2300.8,
+      "text": "light where all the"
+    },
+    {
+      "start": 2298.6,
+      "end": 2304.2,
+      "text": "low small wavelengths have been"
+    },
+    {
+      "start": 2300.8,
+      "end": 2305.6,
+      "text": "scattered out and so this side of the"
+    },
+    {
+      "start": 2304.2,
+      "end": 2308.8,
+      "text": "cloud is also"
+    },
+    {
+      "start": 2305.6,
+      "end": 2311.4,
+      "text": "red. You can now understand that the"
+    },
+    {
+      "start": 2308.8,
+      "end": 2313.6,
+      "text": "more pollution there is in the air the"
+    },
+    {
+      "start": 2311.4,
+      "end": 2316.3,
+      "text": "more beautiful sunsets"
+    },
+    {
+      "start": 2313.6,
+      "end": 2319.2,
+      "text": "are. And it is well known that after"
+    },
+    {
+      "start": 2316.3,
+      "end": 2322.8,
+      "text": "volcanic eruptions, the sunsets and the"
+    },
+    {
+      "start": 2319.2,
+      "end": 2325.9,
+      "text": "sunrises are truly"
+    },
+    {
+      "start": 2322.8,
+      "end": 2329.3,
+      "text": "fantastic. It's also the moon that is"
+    },
+    {
+      "start": 2325.9,
+      "end": 2331.0,
+      "text": "red when it comes up. And even the stars"
+    },
+    {
+      "start": 2329.3,
+      "end": 2332.8,
+      "text": "and the planets, you may never have"
+    },
+    {
+      "start": 2331.0,
+      "end": 2335.4,
+      "text": "noticed it because it's not an"
+    },
+    {
+      "start": 2332.8,
+      "end": 2337.6,
+      "text": "overwhelming thing. It is the sun that"
+    },
+    {
+      "start": 2335.4,
+      "end": 2340.6,
+      "text": "is the overwhelming thing that makes the"
+    },
+    {
+      "start": 2337.6,
+      "end": 2345.0,
+      "text": "entire sky red."
+    },
+    {
+      "start": 2340.6,
+      "end": 2346.8,
+      "text": "And so I have decided that I'm going to"
+    },
+    {
+      "start": 2345.0,
+      "end": 2352.4,
+      "text": "create in"
+    },
+    {
+      "start": 2346.8,
+      "end": 2355.3,
+      "text": "26100 a blue sky for you and a red"
+    },
+    {
+      "start": 2352.4,
+      "end": 2357.9,
+      "text": "sunset. Killing two birds with one"
+    },
+    {
+      "start": 2355.3,
+      "end": 2360.7,
+      "text": "stone. And for the physicist in my"
+    },
+    {
+      "start": 2357.9,
+      "end": 2363.7,
+      "text": "audience, I'm going to kill three birds"
+    },
+    {
+      "start": 2360.7,
+      "end": 2365.7,
+      "text": "with one stone. But the third bird comes"
+    },
+    {
+      "start": 2363.7,
+      "end": 2369.0,
+      "text": "a little later."
+    },
+    {
+      "start": 2365.7,
+      "end": 2371.6,
+      "text": "I have here a bucket which is filled"
+    },
+    {
+      "start": 2369.0,
+      "end": 2375.4,
+      "text": "with sodium thio"
+    },
+    {
+      "start": 2371.6,
+      "end": 2376.7,
+      "text": "sulfate in this bucket. And when I turn"
+    },
+    {
+      "start": 2375.4,
+      "end": 2379.4,
+      "text": "the light"
+    },
+    {
+      "start": 2376.7,
+      "end": 2381.8,
+      "text": "on, you will not even see any light from"
+    },
+    {
+      "start": 2379.4,
+      "end": 2384.0,
+      "text": "that bucket. Nothing is scattered in"
+    },
+    {
+      "start": 2381.8,
+      "end": 2384.0,
+      "text": "your"
+    },
+    {
+      "start": 2384.0,
+      "end": 2388.0,
+      "text": "direction. I think of that as being the"
+    },
+    {
+      "start": 2386.4,
+      "end": 2391.7,
+      "text": "sun, by the"
+    },
+    {
+      "start": 2388.0,
+      "end": 2395.4,
+      "text": "way. Now, I'm going to add a little bit"
+    },
+    {
+      "start": 2391.7,
+      "end": 2399.3,
+      "text": "of sulfuric acid. And when I do that,"
+    },
+    {
+      "start": 2395.4,
+      "end": 2403.1,
+      "text": "very small sulfur particles smaller than"
+    },
+    {
+      "start": 2399.3,
+      "end": 2404.1,
+      "text": "a ten of a micron will precipitate in"
+    },
+    {
+      "start": 2403.1,
+      "end": 2407.3,
+      "text": "that"
+    },
+    {
+      "start": 2404.1,
+      "end": 2410.8,
+      "text": "solution. Rad scattering. And so the"
+    },
+    {
+      "start": 2407.3,
+      "end": 2414.0,
+      "text": "light that will come to you is"
+    },
+    {
+      "start": 2410.8,
+      "end": 2415.4,
+      "text": "blue and you will see blue light just"
+    },
+    {
+      "start": 2414.0,
+      "end": 2419.7,
+      "text": "like with the"
+    },
+    {
+      "start": 2415.4,
+      "end": 2423.0,
+      "text": "smoke. But now as time goes on, we will"
+    },
+    {
+      "start": 2419.7,
+      "end": 2425.9,
+      "text": "get more and more and more and more of"
+    },
+    {
+      "start": 2423.0,
+      "end": 2428.7,
+      "text": "those 0.1 micron"
+    },
+    {
+      "start": 2425.9,
+      "end": 2432.4,
+      "text": "particles. And so the light that comes"
+    },
+    {
+      "start": 2428.7,
+      "end": 2434.2,
+      "text": "out here has no blue in it anymore. It"
+    },
+    {
+      "start": 2432.4,
+      "end": 2436.6,
+      "text": "doesn't have any green in it anymore."
+    },
+    {
+      "start": 2434.2,
+      "end": 2439.5,
+      "text": "It's all scattered in your direction."
+    },
+    {
+      "start": 2436.6,
+      "end": 2441.2,
+      "text": "Just like here with the sunset. So what"
+    },
+    {
+      "start": 2439.5,
+      "end": 2444.7,
+      "text": "color do you think the sun is going to"
+    },
+    {
+      "start": 2441.2,
+      "end": 2446.6,
+      "text": "get? It's going to be red. That's why I"
+    },
+    {
+      "start": 2444.7,
+      "end": 2447.5,
+      "text": "said I'm going to kill two birds with"
+    },
+    {
+      "start": 2446.6,
+      "end": 2450.3,
+      "text": "one"
+    },
+    {
+      "start": 2447.5,
+      "end": 2453.5,
+      "text": "stone. So I will add"
+    },
+    {
+      "start": 2450.3,
+      "end": 2455.7,
+      "text": "the sulfuric"
+    },
+    {
+      "start": 2453.5,
+      "end": 2458.1,
+      "text": "acid. The difficulty with this"
+    },
+    {
+      "start": 2455.7,
+      "end": 2460.3,
+      "text": "experiment is always if you put too much"
+    },
+    {
+      "start": 2458.1,
+      "end": 2463.1,
+      "text": "sulfuric acid in it, the whole process"
+    },
+    {
+      "start": 2460.3,
+      "end": 2467.0,
+      "text": "goes too fast and if you put too little"
+    },
+    {
+      "start": 2463.1,
+      "end": 2470.2,
+      "text": "in it, then you will become impatient."
+    },
+    {
+      "start": 2467.0,
+      "end": 2475.7,
+      "text": "At least MIT students would. So, I'm"
+    },
+    {
+      "start": 2470.2,
+      "end": 2478.7,
+      "text": "going to put this in and stir and then"
+    },
+    {
+      "start": 2475.7,
+      "end": 2478.7,
+      "text": "make it immediately"
+    },
+    {
+      "start": 2481.2,
+      "end": 2487.2,
+      "text": "dark. And I want you to look at the sky,"
+    },
+    {
+      "start": 2484.3,
+      "end": 2490.2,
+      "text": "which is here is the sky. If you sit all"
+    },
+    {
+      "start": 2487.2,
+      "end": 2492.2,
+      "text": "the way there, you don't see it so well."
+    },
+    {
+      "start": 2490.2,
+      "end": 2496.3,
+      "text": "But look, how much did you pay for this?"
+    },
+    {
+      "start": 2492.2,
+      "end": 2496.3,
+      "text": "These people have a better view."
+    },
+    {
+      "start": 2497.1,
+      "end": 2503.0,
+      "text": "So, just keep looking. For"
+    },
+    {
+      "start": 2500.4,
+      "end": 2504.8,
+      "text": "me, it's already beginning to turn a"
+    },
+    {
+      "start": 2503.0,
+      "end": 2507.0,
+      "text": "little"
+    },
+    {
+      "start": 2504.8,
+      "end": 2511.0,
+      "text": "bluish. We'll just give it a little bit"
+    },
+    {
+      "start": 2507.0,
+      "end": 2514.1,
+      "text": "more time. The sun looks just white"
+    },
+    {
+      "start": 2511.0,
+      "end": 2514.1,
+      "text": "light as it was"
+    },
+    {
+      "start": 2520.0,
+      "end": 2524.7,
+      "text": "before. I always have a backup. You see,"
+    },
+    {
+      "start": 2522.3,
+      "end": 2528.5,
+      "text": "if this takes too long, then what I do,"
+    },
+    {
+      "start": 2524.7,
+      "end": 2531.1,
+      "text": "I add another teeny weeny little bit of"
+    },
+    {
+      "start": 2528.5,
+      "end": 2531.1,
+      "text": "sulfuric"
+    },
+    {
+      "start": 2534.4,
+      "end": 2539.0,
+      "text": "acid to speed up the process a"
+    },
+    {
+      "start": 2544.4,
+      "end": 2548.0,
+      "text": "little. I see blue light and when I look"
+    },
+    {
+      "start": 2547.1,
+      "end": 2552.9,
+      "text": "at the"
+    },
+    {
+      "start": 2548.0,
+      "end": 2556.1,
+      "text": "sun, it looks a little reddish already."
+    },
+    {
+      "start": 2552.9,
+      "end": 2559.4,
+      "text": "For the physicist among you, light that"
+    },
+    {
+      "start": 2556.1,
+      "end": 2561.8,
+      "text": "scatters over an angle of 90 degrees."
+    },
+    {
+      "start": 2559.4,
+      "end": 2564.2,
+      "text": "This light that scatters in this"
+    },
+    {
+      "start": 2561.8,
+      "end": 2566.9,
+      "text": "direction, the people who pay the most"
+    },
+    {
+      "start": 2564.2,
+      "end": 2571.0,
+      "text": "tonight, who are sitting right here, the"
+    },
+    {
+      "start": 2566.9,
+      "end": 2572.9,
+      "text": "light is also linearly polarized. That"
+    },
+    {
+      "start": 2571.0,
+      "end": 2574.8,
+      "text": "was also the case with the ro with the"
+    },
+    {
+      "start": 2572.9,
+      "end": 2576.7,
+      "text": "smoke experiment, but I didn't mention"
+    },
+    {
+      "start": 2574.8,
+      "end": 2578.8,
+      "text": "that. But for those of you who are"
+    },
+    {
+      "start": 2576.7,
+      "end": 2580.9,
+      "text": "sitting here, I can show you with my"
+    },
+    {
+      "start": 2578.8,
+      "end": 2583.4,
+      "text": "polarimeter. when I rotate my"
+    },
+    {
+      "start": 2580.9,
+      "end": 2586.6,
+      "text": "polarimeter that I can the blue sky"
+    },
+    {
+      "start": 2583.4,
+      "end": 2589.2,
+      "text": "completely dark and I can the blue sky"
+    },
+    {
+      "start": 2586.6,
+      "end": 2591.0,
+      "text": "completely bright again the people who"
+    },
+    {
+      "start": 2589.2,
+      "end": 2594.1,
+      "text": "are sitting there the angle of"
+    },
+    {
+      "start": 2591.0,
+      "end": 2596.5,
+      "text": "scattering is not 90 degrees so they"
+    },
+    {
+      "start": 2594.1,
+      "end": 2599.2,
+      "text": "won't see it so well but you people see"
+    },
+    {
+      "start": 2596.5,
+      "end": 2600.5,
+      "text": "it very well don't you"
+    },
+    {
+      "start": 2599.2,
+      "end": 2609.9,
+      "text": "100% polarized"
+    },
+    {
+      "start": 2600.5,
+      "end": 2612.1,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2609.9,
+      "end": 2614.6,
+      "text": "Look at that"
+    },
+    {
+      "start": 2612.1,
+      "end": 2617.2,
+      "text": "son. Let's face it. Isn't this"
+    },
+    {
+      "start": 2614.6,
+      "end": 2620.0,
+      "text": "incredibly"
+    },
+    {
+      "start": 2617.2,
+      "end": 2622.3,
+      "text": "romantic? In"
+    },
+    {
+      "start": 2620.0,
+      "end": 2626.4,
+      "text": "26100, the center of"
+    },
+    {
+      "start": 2622.3,
+      "end": 2629.4,
+      "text": "MIT, you are seeing in the lecture hall"
+    },
+    {
+      "start": 2626.4,
+      "end": 2633.5,
+      "text": "a red sunset."
+    },
+    {
+      "start": 2629.4,
+      "end": 2638.2,
+      "text": "And in fact, the sun is"
+    },
+    {
+      "start": 2633.5,
+      "end": 2640.0,
+      "text": "so red now that I think the sunset is"
+    },
+    {
+      "start": 2638.2,
+      "end": 2659.5,
+      "text": "very close."
+    },
+    {
+      "start": 2640.0,
+      "end": 2659.5,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2662.7,
+      "end": 2669.2,
+      "text": "I have given in this lecture"
+    },
+    {
+      "start": 2666.1,
+      "end": 2671.5,
+      "text": "hall about 800"
+    },
+    {
+      "start": 2669.2,
+      "end": 2675.4,
+      "text": "lectures and it is"
+    },
+    {
+      "start": 2671.5,
+      "end": 2675.4,
+      "text": "wonderful to be back"
+    },
+    {
+      "start": 2675.8,
+      "end": 2680.0,
+      "text": "here. But it really"
+    },
+    {
+      "start": 2678.1,
+      "end": 2683.4,
+      "text": "hurts to"
+    },
+    {
+      "start": 2680.0,
+      "end": 2686.2,
+      "text": "know that this is my last lecture in"
+    },
+    {
+      "start": 2683.4,
+      "end": 2688.1,
+      "text": "26100."
+    },
+    {
+      "start": 2686.2,
+      "end": 2693.1,
+      "text": "I have therefore"
+    },
+    {
+      "start": 2688.1,
+      "end": 2697.1,
+      "text": "decided that I want to leave you in"
+    },
+    {
+      "start": 2693.1,
+      "end": 2700.2,
+      "text": "style. And the way I will do that"
+    },
+    {
+      "start": 2697.1,
+      "end": 2706.9,
+      "text": "is to leave"
+    },
+    {
+      "start": 2700.2,
+      "end": 2706.9,
+      "text": "26100 in my own private rocket."
+    },
+    {
+      "start": 2708.7,
+      "end": 2721.4,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2738.2,
+      "end": 2791.7,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2788.5,
+      "end": 2791.7,
+      "text": "[Music]"
+    },
+    {
+      "start": 2792.6,
+      "end": 2796.8,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2798.9,
+      "end": 2804.3,
+      "text": "Thank"
+    },
+    {
+      "start": 2800.0,
+      "end": 2804.3,
+      "text": "you. Thank you."
+    },
+    {
+      "start": 2814.6,
+      "end": 2818.4,
+      "text": "Thank"
+    },
+    {
+      "start": 2816.6,
+      "end": 2823.2,
+      "text": "you. So"
+    },
+    {
+      "start": 2818.4,
+      "end": 2825.4,
+      "text": "now we have about 15 minutes left for"
+    },
+    {
+      "start": 2823.2,
+      "end": 2827.7,
+      "text": "questions and if you have a question"
+    },
+    {
+      "start": 2825.4,
+      "end": 2831.6,
+      "text": "raise your hand then cla will come to"
+    },
+    {
+      "start": 2827.7,
+      "end": 2834.4,
+      "text": "you with the microphone and then I hope"
+    },
+    {
+      "start": 2831.6,
+      "end": 2836.7,
+      "text": "we can communicate that way. you phrase"
+    },
+    {
+      "start": 2834.4,
+      "end": 2840.1,
+      "text": "the question and I will try to give the"
+    },
+    {
+      "start": 2836.7,
+      "end": 2842.6,
+      "text": "answer. So, who wants to go first?"
+    },
+    {
+      "start": 2840.1,
+      "end": 2846.9,
+      "text": "There's a person there. Yes, we see your"
+    },
+    {
+      "start": 2842.6,
+      "end": 2846.9,
+      "text": "hand here. You'll come next."
+    },
+    {
+      "start": 2847.9,
+      "end": 2852.7,
+      "text": "Thank you for a beautiful lecture. Um,"
+    },
+    {
+      "start": 2849.9,
+      "end": 2854.6,
+      "text": "I'm tempted to ask you what pi is. It's"
+    },
+    {
+      "start": 2852.7,
+      "end": 2856.6,
+      "text": "not so easy for me to understand you."
+    },
+    {
+      "start": 2854.6,
+      "end": 2860.4,
+      "text": "Uh, thank you for a beautiful lecture."
+    },
+    {
+      "start": 2856.6,
+      "end": 2863.0,
+      "text": "I'm tempted to ask you what pi is, but I"
+    },
+    {
+      "start": 2860.4,
+      "end": 2866.5,
+      "text": "think I better ask instead. Well, have"
+    },
+    {
+      "start": 2863.0,
+      "end": 2869.4,
+      "text": "you ever ever had gone to a Thanksgiving"
+    },
+    {
+      "start": 2866.5,
+      "end": 2874.2,
+      "text": "dinner?"
+    },
+    {
+      "start": 2869.4,
+      "end": 2878.8,
+      "text": "Uh, okay. Um, are you familiar with the"
+    },
+    {
+      "start": 2874.2,
+      "end": 2881.4,
+      "text": "alleged phenomenon of a green flash at"
+    },
+    {
+      "start": 2878.8,
+      "end": 2883.4,
+      "text": "sunset? And the answer is yes. Can you"
+    },
+    {
+      "start": 2881.4,
+      "end": 2886.2,
+      "text": "explain that, please? I've seen it many"
+    },
+    {
+      "start": 2883.4,
+      "end": 2889.0,
+      "text": "times. The explanation is not as simple"
+    },
+    {
+      "start": 2886.2,
+      "end": 2891.6,
+      "text": "as you may think. I would suggest and I"
+    },
+    {
+      "start": 2889.0,
+      "end": 2894.0,
+      "text": "may I mean that seriously since it's a"
+    },
+    {
+      "start": 2891.6,
+      "end": 2895.4,
+      "text": "short answer is not possible that you"
+    },
+    {
+      "start": 2894.0,
+      "end": 2897.6,
+      "text": "look it up on the web it's well"
+    },
+    {
+      "start": 2895.4,
+      "end": 2901.2,
+      "text": "described I have seen it many times in"
+    },
+    {
+      "start": 2897.6,
+      "end": 2905.0,
+      "text": "Austria in the mountains that indeed the"
+    },
+    {
+      "start": 2901.2,
+      "end": 2908.8,
+      "text": "last fraction of setting of the sun that"
+    },
+    {
+      "start": 2905.0,
+      "end": 2911.0,
+      "text": "you may but not always see a green flash"
+    },
+    {
+      "start": 2908.8,
+      "end": 2914.2,
+      "text": "and if you ever want to see it you have"
+    },
+    {
+      "start": 2911.0,
+      "end": 2916.2,
+      "text": "to be with two people one person has to"
+    },
+    {
+      "start": 2914.2,
+      "end": 2919.2,
+      "text": "be standing next to you and you should"
+    },
+    {
+      "start": 2916.2,
+      "end": 2920.8,
+      "text": "not not look at the sun because if you"
+    },
+    {
+      "start": 2919.2,
+      "end": 2924.1,
+      "text": "look at the sun, even though there's"
+    },
+    {
+      "start": 2920.8,
+      "end": 2928.8,
+      "text": "almost no sunlight left, you still your"
+    },
+    {
+      "start": 2924.1,
+      "end": 2931.0,
+      "text": "your retina is still too overexposed."
+    },
+    {
+      "start": 2928.8,
+      "end": 2933.3,
+      "text": "And so the person next to you when you"
+    },
+    {
+      "start": 2931.0,
+      "end": 2936.3,
+      "text": "look like this should should say, \"Look"
+    },
+    {
+      "start": 2933.3,
+      "end": 2938.3,
+      "text": "now.\" And then you look and that's the"
+    },
+    {
+      "start": 2936.3,
+      "end": 2945.6,
+      "text": "way it is."
+    },
+    {
+      "start": 2938.3,
+      "end": 2945.6,
+      "text": "[Applause]"
+    },
+    {
+      "start": 2947.8,
+      "end": 2951.5,
+      "text": "There's a question right here. Why don't"
+    },
+    {
+      "start": 2949.4,
+      "end": 2953.0,
+      "text": "we take that first and then there's"
+    },
+    {
+      "start": 2951.5,
+      "end": 2955.6,
+      "text": "there's a woman over there and this"
+    },
+    {
+      "start": 2953.0,
+      "end": 2957.0,
+      "text": "gentleman. Oh, also yeah. Well, I just"
+    },
+    {
+      "start": 2955.6,
+      "end": 2961.1,
+      "text": "want to thank for a lecture and I was"
+    },
+    {
+      "start": 2957.0,
+      "end": 2964.4,
+      "text": "wondering as a youngster um as a in a"
+    },
+    {
+      "start": 2961.1,
+      "end": 2967.2,
+      "text": "youngster, I read a a book which told me"
+    },
+    {
+      "start": 2964.4,
+      "end": 2970.6,
+      "text": "to stay at sun then I can change things"
+    },
+    {
+      "start": 2967.2,
+      "end": 2973.2,
+      "text": "by staring at things. Now what I what I"
+    },
+    {
+      "start": 2970.6,
+      "end": 2975.4,
+      "text": "did was I used to stay at sun at sunset."
+    },
+    {
+      "start": 2973.2,
+      "end": 2977.5,
+      "text": "You stared at the sun sun at sunset. at"
+    },
+    {
+      "start": 2975.4,
+      "end": 2979.0,
+      "text": "sunset. That's for a few. Not a very"
+    },
+    {
+      "start": 2977.5,
+      "end": 2980.9,
+      "text": "good idea. You have to be very careful."
+    },
+    {
+      "start": 2979.0,
+      "end": 2983.5,
+      "text": "I found out the hard way. And so you"
+    },
+    {
+      "start": 2980.9,
+      "end": 2987.7,
+      "text": "damaged your eyes and you asked for it."
+    },
+    {
+      "start": 2983.5,
+      "end": 2990.6,
+      "text": "Okay. I got um but that the the key"
+    },
+    {
+      "start": 2987.7,
+      "end": 2992.3,
+      "text": "thing was that I after that I was"
+    },
+    {
+      "start": 2990.6,
+      "end": 2996.1,
+      "text": "supposed to stay at a white wall which I"
+    },
+    {
+      "start": 2992.3,
+      "end": 2998.1,
+      "text": "did but but I saw a a red I know exactly"
+    },
+    {
+      "start": 2996.1,
+      "end": 3000.0,
+      "text": "what you saw spot moving around wherever"
+    },
+    {
+      "start": 2998.1,
+      "end": 3002.2,
+      "text": "I might probably the spot was not red"
+    },
+    {
+      "start": 3000.0,
+      "end": 3004.6,
+      "text": "but green. Uhhuh. It's a well-known"
+    },
+    {
+      "start": 3002.2,
+      "end": 3007.4,
+      "text": "phenomenon. Uh-huh. So you have indeed"
+    },
+    {
+      "start": 3004.6,
+      "end": 3009.2,
+      "text": "done something to your retina and that"
+    },
+    {
+      "start": 3007.4,
+      "end": 3012.9,
+      "text": "is the message that is sent to your"
+    },
+    {
+      "start": 3009.2,
+      "end": 3015.0,
+      "text": "brains then tell you the green after"
+    },
+    {
+      "start": 3012.9,
+      "end": 3017.3,
+      "text": "effect. It's very well-known effect and"
+    },
+    {
+      "start": 3015.0,
+      "end": 3019.0,
+      "text": "you don't even have to look to the sun."
+    },
+    {
+      "start": 3017.3,
+      "end": 3020.9,
+      "text": "You can even do it with a light like"
+    },
+    {
+      "start": 3019.0,
+      "end": 3022.6,
+      "text": "that and stare in that light for some"
+    },
+    {
+      "start": 3020.9,
+      "end": 3024.8,
+      "text": "time and then all of a sudden look at"
+    },
+    {
+      "start": 3022.6,
+      "end": 3027.4,
+      "text": "the white wall and you see a different"
+    },
+    {
+      "start": 3024.8,
+      "end": 3030.7,
+      "text": "color. It's a very interesting thing and"
+    },
+    {
+      "start": 3027.4,
+      "end": 3033.3,
+      "text": "physics cannot explain that. But you see"
+    },
+    {
+      "start": 3030.7,
+      "end": 3038.1,
+      "text": "this is this is neurology and so it's"
+    },
+    {
+      "start": 3033.3,
+      "end": 3038.1,
+      "text": "not our responsibility to explain it."
+    },
+    {
+      "start": 3043.4,
+      "end": 3046.2,
+      "text": "So this is I guess a more personal"
+    },
+    {
+      "start": 3045.2,
+      "end": 3047.8,
+      "text": "question. Speak as loud as you can"
+    },
+    {
+      "start": 3046.2,
+      "end": 3049.4,
+      "text": "because I have a hearing disability."
+    },
+    {
+      "start": 3047.8,
+      "end": 3051.4,
+      "text": "This is a more personal question. I was"
+    },
+    {
+      "start": 3049.4,
+      "end": 3053.0,
+      "text": "just wondering like what inspired you to"
+    },
+    {
+      "start": 3051.4,
+      "end": 3055.4,
+      "text": "become such a great professor? Why is"
+    },
+    {
+      "start": 3053.0,
+      "end": 3057.0,
+      "text": "what what inspired you to become a"
+    },
+    {
+      "start": 3055.4,
+      "end": 3058.6,
+      "text": "professor and a great one at that? Can"
+    },
+    {
+      "start": 3057.0,
+      "end": 3061.3,
+      "text": "you translate? I can't even. What"
+    },
+    {
+      "start": 3058.6,
+      "end": 3063.8,
+      "text": "inspired you? Why is what? What inspired"
+    },
+    {
+      "start": 3061.3,
+      "end": 3067.5,
+      "text": "you to become a professor?"
+    },
+    {
+      "start": 3063.8,
+      "end": 3067.5,
+      "text": "Oh, that was luck."
+    },
+    {
+      "start": 3068.3,
+      "end": 3076.6,
+      "text": "I had my training in nuclear physics and"
+    },
+    {
+      "start": 3073.6,
+      "end": 3080.4,
+      "text": "then I had some offers for one year"
+    },
+    {
+      "start": 3076.6,
+      "end": 3084.3,
+      "text": "posttock to the United States."
+    },
+    {
+      "start": 3080.4,
+      "end": 3088.2,
+      "text": "And for reasons that are not so clear, I"
+    },
+    {
+      "start": 3084.3,
+      "end": 3090.7,
+      "text": "picked MIT because a whole new field was"
+    },
+    {
+      "start": 3088.2,
+      "end": 3093.0,
+      "text": "born here in Cambridge,"
+    },
+    {
+      "start": 3090.7,
+      "end": 3094.8,
+      "text": "Massachusetts. Initiated by Professor"
+    },
+    {
+      "start": 3093.0,
+      "end": 3098.7,
+      "text": "Bruno Rossi, who was at"
+    },
+    {
+      "start": 3094.8,
+      "end": 3101.4,
+      "text": "MIT, executed beautifully by Ricardo"
+    },
+    {
+      "start": 3098.7,
+      "end": 3103.8,
+      "text": "Jaconei, who received not too long ago"
+    },
+    {
+      "start": 3101.4,
+      "end": 3106.3,
+      "text": "the Nobel Prize for that. That was the"
+    },
+    {
+      "start": 3103.8,
+      "end": 3107.9,
+      "text": "discovery of X-ray astronomy."
+    },
+    {
+      "start": 3106.3,
+      "end": 3111.3,
+      "text": "And even though I knew nothing about"
+    },
+    {
+      "start": 3107.9,
+      "end": 3113.4,
+      "text": "astronomy at the time, I decided it was"
+    },
+    {
+      "start": 3111.3,
+      "end": 3114.4,
+      "text": "time to change fields. So I accepted the"
+    },
+    {
+      "start": 3113.4,
+      "end": 3117.4,
+      "text": "offer at"
+    },
+    {
+      "start": 3114.4,
+      "end": 3119.8,
+      "text": "MIT. And then for reasons that are still"
+    },
+    {
+      "start": 3117.4,
+      "end": 3123.0,
+      "text": "unclear to me, but George Clark, who is"
+    },
+    {
+      "start": 3119.8,
+      "end": 3124.7,
+      "text": "in the audience, knows probably why,"
+    },
+    {
+      "start": 3123.0,
+      "end": 3128.3,
+      "text": "they offered me a"
+    },
+    {
+      "start": 3124.7,
+      "end": 3133.2,
+      "text": "professorship and I never"
+    },
+    {
+      "start": 3128.3,
+      "end": 3133.2,
+      "text": "left. Does that answer your question?"
+    },
+    {
+      "start": 3135.6,
+      "end": 3139.8,
+      "text": "Yeah, you need the microphone here."
+    },
+    {
+      "start": 3141.3,
+      "end": 3145.7,
+      "text": "Oh, we have 10 more minutes so we can"
+    },
+    {
+      "start": 3143.0,
+      "end": 3148.6,
+      "text": "have handle quite a few questions."
+    },
+    {
+      "start": 3145.7,
+      "end": 3151.3,
+      "text": "So I u I sat in on your lectures here I"
+    },
+    {
+      "start": 3148.6,
+      "end": 3153.3,
+      "text": "think about 20 years ago and I'd"
+    },
+    {
+      "start": 3151.3,
+      "end": 3158.3,
+      "text": "forgotten that one thing that I learned"
+    },
+    {
+      "start": 3153.3,
+      "end": 3158.3,
+      "text": "from you was how to draw dotted lines on"
+    },
+    {
+      "start": 3158.8,
+      "end": 3165.7,
+      "text": "[Applause]"
+    },
+    {
+      "start": 3163.2,
+      "end": 3167.9,
+      "text": "chalkboards which I actually used myself"
+    },
+    {
+      "start": 3165.7,
+      "end": 3170.6,
+      "text": "when uh when I was a professor for some"
+    },
+    {
+      "start": 3167.9,
+      "end": 3172.7,
+      "text": "number of years. So very useful"
+    },
+    {
+      "start": 3170.6,
+      "end": 3174.5,
+      "text": "skill. But but here's what I'd like to"
+    },
+    {
+      "start": 3172.7,
+      "end": 3177.3,
+      "text": "ask you. I'd like to ask you uh when you"
+    },
+    {
+      "start": 3174.5,
+      "end": 3180.0,
+      "text": "started uh teaching uh physics and how"
+    },
+    {
+      "start": 3177.3,
+      "end": 3182.6,
+      "text": "your lectures evolved over time. How"
+    },
+    {
+      "start": 3180.0,
+      "end": 3186.2,
+      "text": "what was the last question? Uh how"
+    },
+    {
+      "start": 3182.6,
+      "end": 3186.2,
+      "text": "evolve over time?"
+    },
+    {
+      "start": 3186.3,
+      "end": 3192.8,
+      "text": "Didn't get it. How did your lectures"
+    },
+    {
+      "start": 3189.0,
+      "end": 3192.8,
+      "text": "evolve over time?"
+    },
+    {
+      "start": 3199.2,
+      "end": 3204.3,
+      "text": "Yeah, I think I was always eccentric."
+    },
+    {
+      "start": 3204.6,
+      "end": 3209.7,
+      "text": "It's"
+    },
+    {
+      "start": 3205.7,
+      "end": 3214.0,
+      "text": "true. And so from day one, my lectures"
+    },
+    {
+      "start": 3209.7,
+      "end": 3218.1,
+      "text": "were always different from the mean. But"
+    },
+    {
+      "start": 3214.0,
+      "end": 3219.2,
+      "text": "of course, they evolved in a way that"
+    },
+    {
+      "start": 3218.1,
+      "end": 3221.4,
+      "text": "grew"
+    },
+    {
+      "start": 3219.2,
+      "end": 3223.1,
+      "text": "substantially and that is not because of"
+    },
+    {
+      "start": 3221.4,
+      "end": 3227.2,
+      "text": "the dotting of the line because I could"
+    },
+    {
+      "start": 3223.1,
+      "end": 3227.2,
+      "text": "already do that in high school."
+    },
+    {
+      "start": 3229.6,
+      "end": 3234.7,
+      "text": "Today there are hundred of my lectures"
+    },
+    {
+      "start": 3232.2,
+      "end": 3237.6,
+      "text": "that can be viewed on the"
+    },
+    {
+      "start": 3234.7,
+      "end": 3239.5,
+      "text": "web. Two complete courses. The first"
+    },
+    {
+      "start": 3237.6,
+      "end": 3241.7,
+      "text": "course for freshmen, the second course"
+    },
+    {
+      "start": 3239.5,
+      "end": 3245.4,
+      "text": "electricity and magnetism, and the first"
+    },
+    {
+      "start": 3241.7,
+      "end": 3249.0,
+      "text": "course for f sophomores, vibrations and"
+    },
+    {
+      "start": 3245.4,
+      "end": 3251.6,
+      "text": "waves. They are now being viewed daily"
+    },
+    {
+      "start": 3249.0,
+      "end": 3255.1,
+      "text": "on average by 6,000 people all over the"
+    },
+    {
+      "start": 3251.6,
+      "end": 3257.2,
+      "text": "world, which is two million per year."
+    },
+    {
+      "start": 3255.1,
+      "end": 3259.6,
+      "text": "And so every morning when I wake up and"
+    },
+    {
+      "start": 3257.2,
+      "end": 3262.1,
+      "text": "during the day about two dozen questions"
+    },
+    {
+      "start": 3259.6,
+      "end": 3265.8,
+      "text": "come to me by email from all over the"
+    },
+    {
+      "start": 3262.1,
+      "end": 3269.7,
+      "text": "world. Many ask questions and I answer"
+    },
+    {
+      "start": 3265.8,
+      "end": 3272.8,
+      "text": "every single email. But it is amazing"
+    },
+    {
+      "start": 3269.7,
+      "end": 3276.9,
+      "text": "that many physics professors want to"
+    },
+    {
+      "start": 3272.8,
+      "end": 3276.9,
+      "text": "know how I make those dotted"
+    },
+    {
+      "start": 3277.8,
+      "end": 3281.8,
+      "text": "lines. True."
+    },
+    {
+      "start": 3284.6,
+      "end": 3291.4,
+      "text": "[Applause]"
+    },
+    {
+      "start": 3288.6,
+      "end": 3291.4,
+      "text": "There is a"
+    },
+    {
+      "start": 3291.9,
+      "end": 3297.2,
+      "text": "twominut"
+    },
+    {
+      "start": 3293.4,
+      "end": 3299.5,
+      "text": "videotape which someone made. Someone"
+    },
+    {
+      "start": 3297.2,
+      "end": 3302.9,
+      "text": "looked at all the dotted lines that I"
+    },
+    {
+      "start": 3299.5,
+      "end": 3305.1,
+      "text": "ever drew in 801 and put that in one"
+    },
+    {
+      "start": 3302.9,
+      "end": 3307.3,
+      "text": "video"
+    },
+    {
+      "start": 3305.1,
+      "end": 3311.5,
+      "text": "tape. It's a"
+    },
+    {
+      "start": 3307.3,
+      "end": 3311.5,
+      "text": "riot. You see"
+    },
+    {
+      "start": 3319.5,
+      "end": 3326.5,
+      "text": "Okay, we have time for a few more"
+    },
+    {
+      "start": 3323.0,
+      "end": 3328.4,
+      "text": "questions. Yeah, Anna, Anna, please use"
+    },
+    {
+      "start": 3326.5,
+      "end": 3331.4,
+      "text": "the microphone. Although I'm so close to"
+    },
+    {
+      "start": 3328.4,
+      "end": 3333.5,
+      "text": "you that I can probably understand you."
+    },
+    {
+      "start": 3331.4,
+      "end": 3338.0,
+      "text": "Anna is my Facebook friend. I have an"
+    },
+    {
+      "start": 3333.5,
+      "end": 3340.8,
+      "text": "art quiz on Facebook to twice a week and"
+    },
+    {
+      "start": 3338.0,
+      "end": 3342.5,
+      "text": "then my Facebook friends who can answer"
+    },
+    {
+      "start": 3340.8,
+      "end": 3344.6,
+      "text": "the questions are always mentioned every"
+    },
+    {
+      "start": 3342.5,
+      "end": 3348.2,
+      "text": "day that they have the answer right."
+    },
+    {
+      "start": 3344.6,
+      "end": 3350.5,
+      "text": "Anna is at at or near the top. She"
+    },
+    {
+      "start": 3348.2,
+      "end": 3352.8,
+      "text": "almost always has it right and she"
+    },
+    {
+      "start": 3350.5,
+      "end": 3355.1,
+      "text": "sometimes writes me email and she says,"
+    },
+    {
+      "start": 3352.8,
+      "end": 3357.4,
+      "text": "\"Walter, I've worked eight hours on this"
+    },
+    {
+      "start": 3355.1,
+      "end": 3359.8,
+      "text": "one. I really have to give up. I don't"
+    },
+    {
+      "start": 3357.4,
+      "end": 3361.7,
+      "text": "have more time.\" Go ahead. What is your"
+    },
+    {
+      "start": 3359.8,
+      "end": 3363.6,
+      "text": "favorite lecture of all the lectures"
+    },
+    {
+      "start": 3361.7,
+      "end": 3366.3,
+      "text": "that you've given?"
+    },
+    {
+      "start": 3363.6,
+      "end": 3368.4,
+      "text": "I don't have a favorite one. No, I"
+    },
+    {
+      "start": 3366.3,
+      "end": 3371.9,
+      "text": "really don't. I love all the subjects."
+    },
+    {
+      "start": 3368.4,
+      "end": 3373.5,
+      "text": "801 or 802 or 803. No, I really cannot"
+    },
+    {
+      "start": 3371.9,
+      "end": 3377.3,
+      "text": "say I have a favorite. If you ask me my"
+    },
+    {
+      "start": 3373.5,
+      "end": 3381.1,
+      "text": "favorite artist, we can talk about that,"
+    },
+    {
+      "start": 3377.3,
+      "end": 3381.1,
+      "text": "but we do that on Facebook."
+    },
+    {
+      "start": 3383.8,
+      "end": 3387.4,
+      "text": "There is a question here and there's one"
+    },
+    {
+      "start": 3385.5,
+      "end": 3390.3,
+      "text": "there. Ah, we have still five minutes"
+    },
+    {
+      "start": 3387.4,
+      "end": 3390.3,
+      "text": "for questions."
+    },
+    {
+      "start": 3394.9,
+      "end": 3401.8,
+      "text": "Where are we? Claire, who has the"
+    },
+    {
+      "start": 3397.5,
+      "end": 3404.7,
+      "text": "microphone? Hello. Do I need to turn on?"
+    },
+    {
+      "start": 3401.8,
+      "end": 3407.0,
+      "text": "It's on. I'm wondering how rainbows"
+    },
+    {
+      "start": 3404.7,
+      "end": 3409.7,
+      "text": "relate to race scattering. Do they? And"
+    },
+    {
+      "start": 3407.0,
+      "end": 3412.3,
+      "text": "how rainbows what? Do rainbows have"
+    },
+    {
+      "start": 3409.7,
+      "end": 3416.6,
+      "text": "anything to do with race scattering? And"
+    },
+    {
+      "start": 3412.3,
+      "end": 3420.5,
+      "text": "also, why are they round?"
+    },
+    {
+      "start": 3416.6,
+      "end": 3420.5,
+      "text": "by my book. It's explained in my"
+    },
+    {
+      "start": 3420.5,
+      "end": 3426.3,
+      "text": "[Applause]"
+    },
+    {
+      "start": 3432.1,
+      "end": 3439.0,
+      "text": "book. Uh hi. Uh how do you prepare your"
+    },
+    {
+      "start": 3435.6,
+      "end": 3441.4,
+      "text": "lectures? How how many time do you take"
+    },
+    {
+      "start": 3439.0,
+      "end": 3444.7,
+      "text": "to prepare?"
+    },
+    {
+      "start": 3441.4,
+      "end": 3447.2,
+      "text": "It's a very good question. And if I tell"
+    },
+    {
+      "start": 3444.7,
+      "end": 3450.2,
+      "text": "you how I prepare them, then my"
+    },
+    {
+      "start": 3447.2,
+      "end": 3453.5,
+      "text": "colleagues at MIT are going to hate"
+    },
+    {
+      "start": 3450.2,
+      "end": 3457.8,
+      "text": "me. On average, the preparation for one"
+    },
+    {
+      "start": 3453.5,
+      "end": 3461.0,
+      "text": "lecture is about 40 to 60 hours. I dry"
+    },
+    {
+      "start": 3457.8,
+      "end": 3462.7,
+      "text": "run the lecture in an empty classroom"
+    },
+    {
+      "start": 3461.0,
+      "end": 3464.4,
+      "text": "with everything on the blackboard that"
+    },
+    {
+      "start": 3462.7,
+      "end": 3467.3,
+      "text": "I'm going to write on the blackboard"
+    },
+    {
+      "start": 3464.4,
+      "end": 3470.0,
+      "text": "pretending that there is a full class in"
+    },
+    {
+      "start": 3467.3,
+      "end": 3471.9,
+      "text": "front of me, but there is no one. And I"
+    },
+    {
+      "start": 3470.0,
+      "end": 3475.1,
+      "text": "talk to them as if there is one. I do"
+    },
+    {
+      "start": 3471.9,
+      "end": 3477.1,
+      "text": "that two weeks before the lecture. In"
+    },
+    {
+      "start": 3475.1,
+      "end": 3479.1,
+      "text": "general, the lecture is then a little"
+    },
+    {
+      "start": 3477.1,
+      "end": 3481.4,
+      "text": "bit too long, so I have to do some"
+    },
+    {
+      "start": 3479.1,
+      "end": 3484.2,
+      "text": "surgery. Then one week before the"
+    },
+    {
+      "start": 3481.4,
+      "end": 3487.8,
+      "text": "lecture, I dry run again. Then I'm very"
+    },
+    {
+      "start": 3484.2,
+      "end": 3490.5,
+      "text": "close to the time. And then 500"
+    },
+    {
+      "start": 3487.8,
+      "end": 3493.8,
+      "text": "am of the morning of the lecture, you"
+    },
+    {
+      "start": 3490.5,
+      "end": 3496.4,
+      "text": "can ask my wife, I am at MIT and I give"
+    },
+    {
+      "start": 3493.8,
+      "end": 3499.0,
+      "text": "the same lecture dry run for an empty"
+    },
+    {
+      "start": 3496.4,
+      "end": 3501.1,
+      "text": "classroom at 5:30 in the morning when"
+    },
+    {
+      "start": 3499.0,
+      "end": 3502.4,
+      "text": "the lecture is at 10:00 and the same"
+    },
+    {
+      "start": 3501.1,
+      "end": 3505.5,
+      "text": "lecture is at"
+    },
+    {
+      "start": 3502.4,
+      "end": 3509.7,
+      "text": "11. That's the way I prepare. Don't tell"
+    },
+    {
+      "start": 3505.5,
+      "end": 3509.7,
+      "text": "my colleagues they would hate me."
+    },
+    {
+      "start": 3510.5,
+      "end": 3513.7,
+      "text": "[Music]"
+    },
+    {
+      "start": 3519.2,
+      "end": 3524.2,
+      "text": "By the way, I made an exception for this"
+    },
+    {
+      "start": 3521.6,
+      "end": 3527.2,
+      "text": "lecture. I dry run this lecture six"
+    },
+    {
+      "start": 3524.2,
+      "end": 3527.2,
+      "text": "times."
+    },
+    {
+      "start": 3527.5,
+      "end": 3534.6,
+      "text": "Yeah. I wanted to know Oh, hi. Um, what"
+    },
+    {
+      "start": 3532.4,
+      "end": 3536.3,
+      "text": "advice do you have for a student wanting"
+    },
+    {
+      "start": 3534.6,
+      "end": 3537.8,
+      "text": "to become a physicist? What do you have?"
+    },
+    {
+      "start": 3536.3,
+      "end": 3539.2,
+      "text": "What? What advice do you have for"
+    },
+    {
+      "start": 3537.8,
+      "end": 3541.8,
+      "text": "students who want to be a physicist? You"
+    },
+    {
+      "start": 3539.2,
+      "end": 3543.2,
+      "text": "have to love it. And if you don't love"
+    },
+    {
+      "start": 3541.8,
+      "end": 3546.5,
+      "text": "it, don't touch"
+    },
+    {
+      "start": 3543.2,
+      "end": 3548.5,
+      "text": "it. And if you hate it, it is because"
+    },
+    {
+      "start": 3546.5,
+      "end": 3552.6,
+      "text": "you had a very bad"
+    },
+    {
+      "start": 3548.5,
+      "end": 3555.1,
+      "text": "teacher. I make every student, and not"
+    },
+    {
+      "start": 3552.6,
+      "end": 3557.6,
+      "text": "only at MIT, but all over the world, I"
+    },
+    {
+      "start": 3555.1,
+      "end": 3560.8,
+      "text": "make them love physics. You can read"
+    },
+    {
+      "start": 3557.6,
+      "end": 3560.8,
+      "text": "that in my book. You should buy"
+    },
+    {
+      "start": 3564.4,
+      "end": 3568.9,
+      "text": "it. One more question."
+    },
+    {
+      "start": 3570.0,
+      "end": 3575.4,
+      "text": "Okay, one more question. Yeah, this"
+    },
+    {
+      "start": 3572.0,
+      "end": 3575.4,
+      "text": "gentleman here."
+    },
+    {
+      "start": 3576.7,
+      "end": 3582.6,
+      "text": "What do you do for fun besides give"
+    },
+    {
+      "start": 3579.9,
+      "end": 3586.3,
+      "text": "lectures? Art. Art history. It's my"
+    },
+    {
+      "start": 3582.6,
+      "end": 3590.6,
+      "text": "love. Physics is my life. Art history is"
+    },
+    {
+      "start": 3586.3,
+      "end": 3590.6,
+      "text": "my love. Thank you."
+    },
+    {
+      "start": 3608.9,
+      "end": 3615.1,
+      "text": "so the book signing will"
+    },
+    {
+      "start": 3612.0,
+      "end": 3617.1,
+      "text": "start. You can buy books. You can buy"
+    },
+    {
+      "start": 3615.1,
+      "end": 3619.4,
+      "text": "books in the hall and you can come down."
+    },
+    {
+      "start": 3617.1,
+      "end": 3622.2,
+      "text": "Now I have one request."
+    },
+    {
+      "start": 3619.4,
+      "end": 3625.4,
+      "text": "put in the book a piece of paper and"
+    },
+    {
+      "start": 3622.2,
+      "end": 3628.5,
+      "text": "write down with very clear letters to"
+    },
+    {
+      "start": 3625.4,
+      "end": 3630.7,
+      "text": "whom I address that book. So if it is"
+    },
+    {
+      "start": 3628.5,
+      "end": 3634.2,
+      "text": "for your daughter and her daughter is"
+    },
+    {
+      "start": 3630.7,
+      "end": 3637.0,
+      "text": "Emily, you write for Emily. Even though"
+    },
+    {
+      "start": 3634.2,
+      "end": 3639.4,
+      "text": "your name may be Peter, I will write in"
+    },
+    {
+      "start": 3637.0,
+      "end": 3641.6,
+      "text": "the book for Emily and sign Walter"
+    },
+    {
+      "start": 3639.4,
+      "end": 3644.6,
+      "text": "Leuen. If you don't put in a piece of"
+    },
+    {
+      "start": 3641.6,
+      "end": 3647.4,
+      "text": "paper, it's going to take so long. A few"
+    },
+    {
+      "start": 3644.6,
+      "end": 3649.6,
+      "text": "days ago, I had a book, Simon, and I"
+    },
+    {
+      "start": 3647.4,
+      "end": 3651.9,
+      "text": "didn't ask him for a piece of paper. So,"
+    },
+    {
+      "start": 3649.6,
+      "end": 3653.4,
+      "text": "here comes someone from Turkey to me and"
+    },
+    {
+      "start": 3651.9,
+      "end": 3655.8,
+      "text": "he and I said, \"What is your name?\" And"
+    },
+    {
+      "start": 3653.4,
+      "end": 3657.7,
+      "text": "he said, \"My name is Atachia.\" And then"
+    },
+    {
+      "start": 3655.8,
+      "end": 3660.6,
+      "text": "I said, \"How do you spell that?\" He"
+    },
+    {
+      "start": 3657.7,
+      "end": 3663.1,
+      "text": "says, \"Oh, that's very easy. It's a"
+    },
+    {
+      "start": 3660.6,
+      "end": 3665.3,
+      "text": "tit.\" And then I said, \"Well, it would"
+    },
+    {
+      "start": 3663.1,
+      "end": 3667.0,
+      "text": "be better, wouldn't it, if you write it"
+    },
+    {
+      "start": 3665.3,
+      "end": 3669.4,
+      "text": "on a piece of paper?\" And I couldn't"
+    },
+    {
+      "start": 3667.0,
+      "end": 3672.2,
+      "text": "even read it."
+    },
+    {
+      "start": 3669.4,
+      "end": 3674.6,
+      "text": "So please read very care write very"
+    },
+    {
+      "start": 3672.2,
+      "end": 3678.1,
+      "text": "carefully the name to whom I should"
+    },
+    {
+      "start": 3674.6,
+      "end": 3678.1,
+      "text": "address the book."
+    },
+    {
+      "start": 3680.3,
+      "end": 3683.9,
+      "text": "We need a table."
+    }
+  ],
+  "sections": [
+    {
+      "start_time": "0:00",
+      "end_time": "6:10",
+      "title": "Introduction to Pendulum Physics",
+      "description": "Professor Lewin introduces the pendulum period formula and explains why the period should theoretically be independent of mass and amplitude."
+    },
+    {
+      "start_time": "6:10",
+      "end_time": "13:10",
+      "title": "Testing Pendulum Amplitude",
+      "description": "The professor conducts an experiment measuring ten oscillations at different angles to prove that amplitude does not affect the pendulum's period."
+    },
+    {
+      "start_time": "13:10",
+      "end_time": "18:44",
+      "title": "Testing Mass Independence",
+      "description": "In a dramatic demonstration, Lewin swings on the pendulum himself to show that adding his own mass does not significantly change the period."
+    },
+    {
+      "start_time": "18:44",
+      "end_time": "25:03",
+      "title": "Conservation of Energy and the Glass Demo",
+      "description": "The lecture explains the relationship between potential and kinetic energy using a demonstration with a glass plate and a swinging weight."
+    },
+    {
+      "start_time": "25:03",
+      "end_time": "31:00",
+      "title": "The Chin Demo and Scattering Theory",
+      "description": "Lewin performs his famous energy conservation test with his chin and begins explaining the physics of Rayleigh and Mie scattering."
+    },
+    {
+      "start_time": "31:00",
+      "end_time": "37:00",
+      "title": "Blue Skies and Cigarette Smoke",
+      "description": "A demonstration using cigarette smoke illustrates how particle size determines whether light scatters as blue or white."
+    },
+    {
+      "start_time": "37:00",
+      "end_time": "45:00",
+      "title": "Red Sunsets and Grand Exit",
+      "description": "The professor simulates a sunset in a bucket through a chemical reaction and makes a ceremonial exit on a tricycle rocket."
+    },
+    {
+      "start_time": "45:00",
+      "end_time": "53:00",
+      "title": "Q&A: Optics and Personal Background",
+      "description": "The question-and-answer session begins with explanations of green flashes at sunset and the professor's path to becoming a physicist."
+    },
+    {
+      "start_time": "53:00",
+      "end_time": "61:20",
+      "title": "Q&A: Teaching Methods and Logistics",
+      "description": "The session concludes with a discussion of Lewin's meticulous lecture preparation and instructions for the book signing event."
+    }
+  ]
+}

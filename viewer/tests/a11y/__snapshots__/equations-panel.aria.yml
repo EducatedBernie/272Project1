@@ -1,0 +1,6 @@
+- tabpanel "Equations":
+  - img /Feynman at Cornell, \d+/
+  - text: /Feynman · Cornell '\d+ “…the component of force at right angles…” EQUATION rendered from audio \+ chalk/
+  - math:
+    - math: A ¨ = r ⃗ ˙ × r ⃗ ˙ + r ⃗ × F ⃗ m = 0
+  - text: Never written fully on the board · never spoken verbatim · inferred from context.
